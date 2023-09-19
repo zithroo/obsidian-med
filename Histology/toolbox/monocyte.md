@@ -1,0 +1,7 @@
+- 穿出內皮到組織 : macrophage (microphage是嗜中性球)
+- 肝竇 : Kuffer cell
+- 肺泡 : dust cell
+- CNS : microglial cell
+- 骨 : osteoclast
+- 表皮 : Langerhan cell、histiocyte、dendritic cell
+- 腎絲球 : mesangial cell (何宣:單核球，趙:平滑肌細胞特化)

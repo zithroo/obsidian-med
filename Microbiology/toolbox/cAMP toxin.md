@@ -1,0 +1,5 @@
+- Cholera
+- E.coli heat liable toxin
+- Pertussis
+- B.anthracis Edema factor
+- 腹瀉型仙人掌桿菌
