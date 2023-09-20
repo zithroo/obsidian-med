@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pharmacology/CNS drugs/精神科.md",
+                "file": "Pharmacology/CNS drugs/神內.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pharmacology/CNS drugs/精神科.md",
+                "file": "Pharmacology/CNS drugs/神內.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pharmacology/CNS drugs/精神科.md",
+                "file": "Pharmacology/CNS drugs/神內.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pharmacology/CNS drugs/精神科.md"
+                "file": "Pharmacology/CNS drugs/神內.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   "active": "6f921ca97e68afa7",
   "lastOpenFiles": [
     "Pharmacology/CNS.md",
+    "Pharmacology/CNS drugs/精神科.md",
     "Pharmacology/Muscle relaxant.md",
     "Pharmacology/CNS drugs/神內.md",
     "Pharmacology/CNS drugs/神經傳導物質副作用.md",
     "Pharmacology/CNS drugs/麻醉止痛.md",
-    "Pharmacology/CNS drugs/精神科.md",
     "Pharmacology/ANS.md",
     "Pharmacology/Autocrine.md",
     "Pharmacology/解毒.md",
