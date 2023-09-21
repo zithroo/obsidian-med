@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d34164cd42b28e17",
+        "id": "d25c01a28affb271",
         "type": "tabs",
         "children": [
           {
-            "id": "6f921ca97e68afa7",
+            "id": "2d286554ad532056",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pharmacology/CNS drugs/神內.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pharmacology/CNS drugs/神內.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pharmacology/CNS drugs/神內.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pharmacology/CNS drugs/神內.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,18 +147,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f921ca97e68afa7",
+  "active": "2d286554ad532056",
   "lastOpenFiles": [
+    "Pharmacology/Kidney.md",
+    "Pharmacology/Cardiovascular.md",
+    "img/心律不整class_I.png",
+    "img/PDE_inhibitor.png",
+    "Pharmacology/解毒.md",
+    "Pharmacology/特定用途/青光眼.md",
+    "Pharmacology/toolbox/第一線.md",
+    "Pharmacology/ANS.md",
+    "Pharmacology/Receptor.md",
+    "img",
+    "img/RAAS_blocker.png",
+    "Pharmacology/Autocrine.md",
+    "Pharmacology/特定用途",
     "Pharmacology/CNS.md",
-    "Pharmacology/CNS drugs/精神科.md",
-    "Pharmacology/Muscle relaxant.md",
     "Pharmacology/CNS drugs/神內.md",
+    "Pharmacology/CNS drugs/精神科.md",
+    "Pharmacology/特定用途/Muscle relaxant.md",
     "Pharmacology/CNS drugs/神經傳導物質副作用.md",
     "Pharmacology/CNS drugs/麻醉止痛.md",
-    "Pharmacology/ANS.md",
-    "Pharmacology/Autocrine.md",
-    "Pharmacology/解毒.md",
-    "Vaccine.md",
+    "Pharmacology/Vaccine.md",
     "Pathology/toolbox/triad.md",
     "Pathology/toolbox",
     "Pathology/toolbox/syndrome.md",
@@ -174,17 +176,10 @@
     "Pathology/toolbox/body.md",
     "Pathology/toolbox/無發炎.md",
     "Pathology/toolbox/新同學.md",
-    "Pharmacology/青光眼.md",
-    "Pharmacology/Receptor.md",
     "Microbiology/GPC.md",
     "Microbiology/GPB.md",
     "Microbiology/細菌分類.md",
     "Microbiology/toolbox/抑制蛋白質合成毒素.md",
-    "Microbiology/toolbox/cAMP toxin.md",
-    "Microbiology/toolbox/intracellular pathgen.md",
-    "Microbiology/toolbox/A-B toxin.md",
-    "Microbiology/toolbox/人類唯一宿主.md",
-    "Untitled",
     "Pharmacology/CNS drugs",
     "Pharmacology/toolbox",
     "Microbiology/toolbox",
@@ -193,7 +188,6 @@
     "Pasted image 20230902225314.png",
     "Histology/toolbox",
     "Histology/新增資料夾",
-    "images",
     "Untitled.canvas"
   ]
 }

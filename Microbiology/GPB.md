@@ -32,7 +32,7 @@
 - 毒素 : Tetanospasmin(**[[A-B toxin]]**)，熱不穩定、**抑制脊髓突觸GABA、Glycine** -> 肌肉收縮
 - 診斷 : 臨床症狀 (菌不好養、毒素不好分離)
 - 治療
-	- clean/minor傷口 : [[vaccine#DPT|vaccine]] (Tetanus toxoid)
+	- clean/minor傷口 : [[Vaccine#DPT|vaccine]] (Tetanus toxoid)
 	- 嚴重傷口 : human tetanus immune globulin
 ### C.perfringens
 - 產氣 : milk plate上產生暴風雨般的發酵
