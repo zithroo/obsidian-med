@@ -1,3 +1,12 @@
+| GPC          |              |                    |              |
+|--------------|--------------|--------------------|--------------|
+| Catalase (+) | Cogulase (+) |                    | S.aureus     |
+|              | Cogulase (-) |                    | CoNS         |
+| Catalase (-) | $\alpha$        | Bile、Optochin (+) | S.pneumoniae |
+|              |              | Bile、Optochin (-) | Viridans     |
+|              | $\beta$         |                    | GAS          |
+|              |              | CAMP (+)           | GBS          |
+|              | $\gamma$        |                    |              |
 ## Staphylococcus (catalase +)
 ### S.aureus (coagulase +)
 - $\beta$ 溶血
@@ -23,6 +32,8 @@
 		- Optochin Test : sensitive
 		- Bile Solubility Test : 膽鹽抑制
 	- 正常菌相 : 口咽、呼吸道
+	- Urine Ag test
+		- #h/blue ==比較== S.pneumoniae <-> [[呼吸道菌#Legionella|Legionella]]
 ### beta溶血 (全)
 1. GAS (S.pyogenes)
 	- C5a peptidase

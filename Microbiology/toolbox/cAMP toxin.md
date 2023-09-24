@@ -1,3 +1,4 @@
+- 皆**Heat liable**
 - Cholera
 - E.coli heat liable toxin
 - Pertussis

@@ -1,5 +1,5 @@
 ## 高血壓
-- BP = CO * PVR = ( (EDV-SDV) * HR) * (1 / r$^4$)
+- BP = CO \* PVR = ( (EDV-SDV) \* HR) * (1 / r$^4$)
 - ABCD = **A**CEI、**B** blocker、**C**CB、**D**iutrctics
 ### Sym (-)
 - 不常用

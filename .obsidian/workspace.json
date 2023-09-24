@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d25c01a28affb271",
+        "id": "69a2fbd8f6a3fe10",
         "type": "tabs",
         "children": [
           {
-            "id": "2d286554ad532056",
+            "id": "334384166adb6ec8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Microbiology/GNC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Microbiology/GNC.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Microbiology/GNC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Microbiology/GNC.md"
+              }
             }
           },
           {
@@ -135,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 211.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,39 +155,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d286554ad532056",
+  "active": "334384166adb6ec8",
   "lastOpenFiles": [
-    "Pharmacology/Kidney.md",
-    "Pharmacology/Cardiovascular.md",
-    "img/心律不整class_I.png",
-    "img/PDE_inhibitor.png",
-    "Pharmacology/解毒.md",
-    "Pharmacology/特定用途/青光眼.md",
-    "Pharmacology/toolbox/第一線.md",
-    "Pharmacology/ANS.md",
-    "Pharmacology/Receptor.md",
-    "img",
-    "img/RAAS_blocker.png",
-    "Pharmacology/Autocrine.md",
-    "Pharmacology/特定用途",
-    "Pharmacology/CNS.md",
-    "Pharmacology/CNS drugs/神內.md",
-    "Pharmacology/CNS drugs/精神科.md",
-    "Pharmacology/特定用途/Muscle relaxant.md",
-    "Pharmacology/CNS drugs/神經傳導物質副作用.md",
-    "Pharmacology/CNS drugs/麻醉止痛.md",
-    "Pharmacology/Vaccine.md",
-    "Pathology/toolbox/triad.md",
-    "Pathology/toolbox",
-    "Pathology/toolbox/syndrome.md",
-    "Pathology/toolbox/staging.md",
-    "Pathology/toolbox/body.md",
-    "Pathology/toolbox/無發炎.md",
-    "Pathology/toolbox/新同學.md",
-    "Microbiology/GPC.md",
-    "Microbiology/GPB.md",
+    "Microbiology/GNB.md",
     "Microbiology/細菌分類.md",
+    "Microbiology/GNS.md",
+    "Microbiology/GNC.md",
+    "Microbiology/GPB.md",
+    "Microbiology/toolbox/疾病比較.md",
+    "Pathology/toolbox/新同學.md",
+    "Pathology/toolbox/triad.md",
+    "Microbiology/GNBs/人畜共通菌.md",
+    "各種熱.md",
+    "Microbiology/GNBs/腸道菌.md",
+    "Microbiology/GNBs/呼吸道菌.md",
+    "Microbiology/GPC.md",
+    "Pathology/toolbox/疾病.md",
+    "Microbiology/toolbox/intracellular pathgen.md",
+    "Vaccine.md",
+    "Microbiology/toolbox/人類唯一宿主.md",
     "Microbiology/toolbox/抑制蛋白質合成毒素.md",
+    "Microbiology/toolbox/A-B toxin.md",
+    "Pathology/toolbox/syndrome.md",
+    "Microbiology/toolbox/cAMP toxin.md",
+    "Microbiology/GNBs",
+    "Microbiology/細菌概論.md",
+    "Histology/Genital systems.md",
+    "Histology/Heart.md",
+    "Histology/Lymphatic systems.md",
+    "Histology/Muscular systems.md",
+    "img/RAAS_blocker.png",
+    "img/PDE_inhibitor.png",
+    "img/心律不整class_I.png",
+    "img",
+    "Pharmacology/特定用途",
+    "Pathology/toolbox",
     "Pharmacology/CNS drugs",
     "Pharmacology/toolbox",
     "Microbiology/toolbox",
@@ -187,7 +197,6 @@
     "Pharmacology",
     "Pasted image 20230902225314.png",
     "Histology/toolbox",
-    "Histology/新增資料夾",
     "Untitled.canvas"
   ]
 }

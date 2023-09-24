@@ -13,7 +13,7 @@
 |      |              | **1D**解偏頭痛 | Sumatriptan    | (+)             |
 | 5HT2 | Gq           | 肌肉收縮   | Cyproheptadine | (-) 治療5HT過多 |
 | 5HT3 | Na/K channel | 嘔吐(CTZ)  | Ondan**serton**    | (-) 止吐        |
-| 5HT4 | Gs           | 腸道蠕動   | Cisapride      | (+)             |
+| 5HT4 | Gs           | 腸道蠕動   | Cisa**pride**      | (+)             |
 - 回收抑制 : [[精神科#抗憂鬱]]
 ## Eicosanoid
 ```mermaid
@@ -49,6 +49,7 @@ graph LR
 | PGE2 | Dinoprostone                         | 墮胎                 |
 | PGF2 | Lantao**prost**                          | 青光眼               |
 | PGI2 | Epoprostenol、Treprostinil、Iloprost | 降肺高壓             |
+- #h/red  ==喝Miso胃很舒服==
 - Zafir**lukast** : 治療氣喘
 - Misoprostol、Carboprost : 子宮收縮
 ## 痛風

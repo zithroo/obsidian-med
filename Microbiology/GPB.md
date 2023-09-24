@@ -1,3 +1,10 @@
+| GPB      |      |                 |
+|----------|------|-----------------|
+| 孢子 (+) | 嗜氧 | Bacillus        |
+|          | 厭氧 | Clostriduim     |
+| 孢子 (-) | 嗜氧 | Corynebacterium |
+|          |      |  Listeria       |
+|          | 厭氧 | Actinomyces     |
 ## Bacillus (孢子、嗜氧)
 ### B.anthracis
 - **蛋白質capsule** : 主要毒力因子
@@ -55,29 +62,29 @@
 	- 診斷 : 糞便中培養出此菌，且能分泌毒素
 	- 治療 : **口服**Vangomycin、Metronidazole
 ## Corynebacterium (無孢子、嗜氧)
-### C.dipththeria
-- [[人類唯一宿主]]，僅在咽喉，不會更深入，但毒素會
-- 症狀 : 白喉、心肌炎、周邊神經麻痺 (GB-like syndrome)
-- 毒素 : Diphtheria toxin (**[[A-B toxin]]**)
-	- A : 經由ADP-ribosylation抑制**EF-2** -> [[抑制蛋白質合成毒素|抑制蛋白質製造]]
-	- B : 送A進入
-- 診斷
-		- Elek test : 免疫檢測**毒素**
-		- Schik test : 皮下注射毒素檢測**抗體**
-- [[Vaccine#DPT|vaccine]]
+*  C.dipththeria
+	- [[人類唯一宿主]]，僅在咽喉，不會更深入，但毒素會
+	- 症狀 : 白喉、心肌炎、周邊神經麻痺 (GB-like syndrome)
+	- 毒素 : Diphtheria toxin (**[[A-B toxin]]**)
+		- A : 經由ADP-ribosylation抑制**EF-2** -> [[抑制蛋白質合成毒素|抑制蛋白質製造]]
+		- B : 送A進入
+	- 診斷
+			- Elek test : 免疫檢測**毒素**
+			- Schik test : 皮下注射毒素檢測**抗體**
+	- [[Vaccine#DPT|vaccine]]
 ## Listeria (無孢子、嗜氧)
-### L.monocytogenes
-- 運動性強 : end-over-dend tumbling motion
-- 可生長於低溫 (Cold enrichment)
-- CAMP(+)，同GBS
-- 未消毒乳製品、過胎盤、過陰道時胎兒感染
-- 新生兒、免疫不全病人菌血症、**腦膜炎**
-- [[intracellular pathgen]]
-- 毒素
-	- Internalin : 附著E-cadherin -> 進入lysosome
-	- Listeriolysin O : 打破lysosome
-	- ActA : 在細胞內組裝**actin filament tail**，穿到鄰近細胞感染
-	- **LPS : 唯一有內毒素的G(+)**
+- L.monocytogenes
+	- [[腸道菌#Proteus mibirabilis|運動性強]] : end-over-dend tumbling motion
+	- 可[[腸道菌#Yersinia|生長於低溫]] (Cold enrichment)
+	- CAMP(+)，同GBS
+	- 未消毒乳製品、過胎盤、過陰道時胎兒感染
+	- 新生兒、免疫不全病人 : 菌血症、**腦膜炎**
+	- [[intracellular pathgen]]
+	- 毒素
+		- Internalin : 附著E-cadherin -> 進入lysosome
+		- Listeriolysin O : 打破lysosome
+		- ActA : 在細胞內組裝**actin filament tail**，穿到鄰近細胞感染
+		- **LPS : 唯一有內毒素的G(+)**
 ## Actinomyces (無孢子、厭氧)
 - 分支絲狀，誤以為是黴菌
 - 正常菌相 : 口腔、腸胃道、女性生殖道

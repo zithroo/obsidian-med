@@ -1,4 +1,6 @@
 [
   "obsidian-plugin-toc",
-  "obsidian-git"
+  "obsidian-git",
+  "creases",
+  "obsidian-editor-shortcuts"
 ]
