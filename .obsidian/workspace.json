@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "69a2fbd8f6a3fe10",
+        "id": "ebeb89a7da0e01a1",
         "type": "tabs",
         "children": [
           {
-            "id": "334384166adb6ec8",
+            "id": "b8cd6151f4921d5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microbiology/GNC.md",
+                "file": "Microbiology/Bacteria/Mycoplasma.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiology/GNC.md",
+                "file": "Microbiology/Bacteria/Mycoplasma.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiology/GNC.md",
+                "file": "Microbiology/Bacteria/Mycoplasma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiology/GNC.md"
+                "file": "Microbiology/Bacteria/Mycoplasma.md"
               }
             }
           },
@@ -155,35 +155,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "334384166adb6ec8",
+  "active": "b8cd6151f4921d5d",
   "lastOpenFiles": [
-    "Microbiology/GNB.md",
-    "Microbiology/細菌分類.md",
-    "Microbiology/GNS.md",
-    "Microbiology/GNC.md",
-    "Microbiology/GPB.md",
+    "Microbiology/Bacteria/Mycobacteria.md",
+    "Microbiology/Bacteria/GPB.md",
+    "Microbiology/Bacteria/GNS.md",
+    "Microbiology/Bacteria/GNC.md",
+    "Microbiology/Bacteria/GN絕對胞內.md",
+    "Microbiology/Bacteria/細菌分類.md",
+    "Microbiology/toolbox/抑制蛋白質合成毒素.md",
+    "Microbiology/toolbox/人類唯一宿主.md",
+    "Microbiology/Bacteria",
+    "Microbiology/toolbox/A-B toxin.md",
+    "Microbiology/toolbox/cAMP toxin.md",
+    "Microbiology/Bacteria/Rickettsia.md",
+    "Microbiology/Bacteria/Mycoplasma.md",
+    "Microbiology/Bacteria/GPC.md",
+    "Microbiology/Bacteria/GNB.md",
     "Microbiology/toolbox/疾病比較.md",
-    "Pathology/toolbox/新同學.md",
-    "Pathology/toolbox/triad.md",
-    "Microbiology/GNBs/人畜共通菌.md",
-    "各種熱.md",
-    "Microbiology/GNBs/腸道菌.md",
-    "Microbiology/GNBs/呼吸道菌.md",
-    "Microbiology/GPC.md",
-    "Pathology/toolbox/疾病.md",
     "Microbiology/toolbox/intracellular pathgen.md",
     "Vaccine.md",
-    "Microbiology/toolbox/人類唯一宿主.md",
-    "Microbiology/toolbox/抑制蛋白質合成毒素.md",
-    "Microbiology/toolbox/A-B toxin.md",
+    "Microbiology/Bacteria/GNBs/人畜共通菌.md",
+    "Pathology/toolbox/新同學.md",
+    "Pathology/toolbox/triad.md",
+    "各種熱.md",
+    "Microbiology/Bacteria/GNBs/腸道菌.md",
+    "Microbiology/Bacteria/GNBs/呼吸道菌.md",
+    "Pathology/toolbox/疾病.md",
     "Pathology/toolbox/syndrome.md",
-    "Microbiology/toolbox/cAMP toxin.md",
-    "Microbiology/GNBs",
-    "Microbiology/細菌概論.md",
-    "Histology/Genital systems.md",
-    "Histology/Heart.md",
-    "Histology/Lymphatic systems.md",
-    "Histology/Muscular systems.md",
+    "Microbiology/Bacteria/GNBs",
     "img/RAAS_blocker.png",
     "img/PDE_inhibitor.png",
     "img/心律不整class_I.png",
@@ -196,7 +196,6 @@
     "Microbiology",
     "Pharmacology",
     "Pasted image 20230902225314.png",
-    "Histology/toolbox",
     "Untitled.canvas"
   ]
 }

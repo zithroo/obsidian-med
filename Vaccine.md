@@ -13,3 +13,6 @@
 	- DTP : 整隻百日咳菌
 	- DTaP (acellular vaccine) : 去活化百日咳毒素+ Filamentous Hemagglutinin 、Pertactin，增強抗原性
 - Tentanus toxoid (類毒素)、事後型疫苗 (很久才發病，發病很快死亡)
+## 活性減毒
+- **不可施打於免疫不全患者身上，和感染沒兩樣**
+- TB : BCG，使用牛結核桿菌 (M. bovis) 製成
