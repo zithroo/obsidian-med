@@ -12,9 +12,11 @@
 | 5HT1 | Gi           | **1A**抗焦慮   | **Bus**piron       | (+)             |
 |      |              | **1D**解偏頭痛 | Sumatriptan    | (+)             |
 | 5HT2 | Gq           | 肌肉收縮   | Cyproheptadine | (-) 治療5HT過多 |
+|      |              |           | Kera**sertin**      | (-) 降血壓      |
+|      |              |           | Lorcaserin      | (+) 增加飽足感  |
 | 5HT3 | Na/K channel | 嘔吐(CTZ)  | Ondan**serton**    | (-) 止吐        |
 | 5HT4 | Gs           | 腸道蠕動   | Cisa**pride**      | (+)             |
-- 回收抑制 : [[精神科#抗憂鬱]]
+- 回收抑制 : [[抗憂鬱]]
 ## Eicosanoid
 ```mermaid
 graph LR
@@ -25,7 +27,7 @@ graph LR
 ### 酶 (-)
 | 機轉     | 藥名           | 作用                        | 副作用            |
 |----------|----------------|-----------------------------|-------------------|
-| PLA2 (-) | Corticosteroid | 強抗發炎                    |                   |
+| PLA2 (-) | Corticosteroid | 強抗發炎                    |  Cushing syndrome |
 | COX (-)  | Aspirin        | 抗血小板                    | 小孩病毒**Reye** syn. |
 |          | Ibuprofen      | 最安全、**急性痛風**            |                   |
 |          | Ketoprofen     | 也抑制LOX                   |                   |
@@ -36,6 +38,7 @@ graph LR
 |          | Rofecoxib      |                             | 血栓風險          |
 | 非NASID  | Acetaminophen  | CNS退燒、止痛               | 肝毒性(NAC解)     |
 | LOX (-)  | Zi**leu**ton       | 解氣喘                      |                   |
+- Steroid副作用 : [[syndrome#^327c2c|Cushing syndrome]]
 ### Eicosanoid (+)
 - PGE/F : Prostaglandin、PGI : Prostacyclin
 - 原則
@@ -50,8 +53,12 @@ graph LR
 | PGF2 | Lantao**prost**                          | 青光眼               |
 | PGI2 | Epoprostenol、Treprostinil、Iloprost | 降肺高壓             |
 - #h/red  ==喝Miso胃很舒服==
-- Zafir**lukast** : 治療氣喘
 - Misoprostol、Carboprost : 子宮收縮
+
+| Leukotriene modifier | 機制        | 藥名        | 特別使用                             |
+|----------------------|-------------|-------------|--------------------------------------|
+|                      | 5-LOX (-)   | Ze**leuton**    | Aspirin induced Asthma、不會吸的小孩 |
+|                      | Recptor (-) | Zafir**lukast** |                                      |
 ## 痛風
 1. Acute 
 	- 抑制發炎 : NASID (**Indomethacin、Ibuprofen**)

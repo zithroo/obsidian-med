@@ -12,4 +12,4 @@
 - RTK : insulin
 - JAK-STAT : EPO、cytokine、somatostatin、IFN
 ## DNA
-- thyroid hormone、腎上腺皮質分泌
+- Thyroid hormone、腎上腺皮質分泌

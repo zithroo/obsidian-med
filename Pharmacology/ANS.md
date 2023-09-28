@@ -9,6 +9,7 @@
 	- Trimethaphan : **惡性高血壓**
 	- Mecamylamine : 降血壓
 	- Hexamethonium
+![[妹卡.png]]
 ## Indirect acting
 
 | 作用藥物                                                     | Sym              | Para           | 作用藥物                           |
@@ -50,9 +51,15 @@
 | b2    | terol         |         | 氣喘           |
 | b2    | **Ritodrine**     |子宮肌肉放鬆| 安胎           |
 #### $\beta_2$ 氣喘用藥 -terol
+| 分類 |            |            |             |
+|------|------------|------------|-------------|
+| SABA | Albuterol  | Salbutamol | Terbutaline |
+| LABA | Salmeterol | Procaterol | Formoterol  |
 - 短效 : Al**bu**terol、Sal**bu**tamol、Ter**bu**taline
 	-  #h/red ==biu~biu (短聲)== ~~恐龍扛狼~~
 - 長效 : Salmeterol、Procaterol、Formoterol
+	- #h/red  ==撫摸長長的鮭魚和波卡==
+![[LABA.png]]
 ### Sym (-)
 | 受器  | 藥物             | 機轉 | 應用             |
 |-------|------------------|------|------------------|

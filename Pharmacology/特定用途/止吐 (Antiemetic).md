@@ -1,0 +1,20 @@
+| 刺激來源   | **受器**  |         | 終點         |
+|------------|-------|---------|--------------|
+| 腸胃       | 5-HT3 |         | 延腦嘔吐中樞 |
+| 第4腦室CTZ | 5-HT3 | D2、NK1 | 延腦嘔吐中樞 |
+| 前庭       |       | M1、H1  | 延腦嘔吐中樞 |
+- **CTZ無BBB、延腦嘔吐中樞有BBB**
+- NK1 : Neurokinin receptor 1
+
+| 機轉      | 藥名                        | 特色                                   |
+|-----------|-----------------------------|----------------------------------------|
+| 5-HT3 (-) | Ondan**serton**                 | 化療No.1 、QT prolong                  |
+| NK1 (-)   | Aprepitant                  | 化療No.2                               |
+| D2 (-)    | Metoclopramide、Domperidone | **促進[[腸胃蠕動 (Prokinetic)]]、EPS、高泌乳素** |
+| H1 (-)    | Diphenhydramine、Meclizine  | **暈車**、第一代抗組織胺，抗過敏          |
+| M1 (-)    | Scopolamine                 | 暈車                                 |
+| Steroid   | Dexamethanxe/Prednisolone   | 提高emetic threshold                 |
+- **Domperidone不過BBB**
+- #h/blue ==比較==
+	- D2 (-) : 中樞 -> [[抗精神病]]、止吐 / 周邊 -> 腸胃蠕動
+	- [[Autocrine#Histamine|H1 (-)]] : 第一代 -> 過敏+暈車 (嗜睡)，第二代 -> 只有果敏，H2(-) -> 胃酸分泌 (-)
