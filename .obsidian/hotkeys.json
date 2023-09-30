@@ -15,15 +15,6 @@
       "key": "2"
     }
   ],
-  "creases:toggle-fold-heading-level-2": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "A"
-    }
-  ],
   "obsidian-editor-shortcuts:goToNextHeading": [
     {
       "modifiers": [
@@ -65,6 +56,15 @@
         "Mod"
       ],
       "key": "S"
+    }
+  ],
+  "creases:toggle-fold-heading-level-2": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "A"
     }
   ]
 }

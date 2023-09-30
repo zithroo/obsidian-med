@@ -1,6 +1,9 @@
 ## Infection
 - Fitz-Hugh-Cutis syndrome : 由性病引起的腹膜炎、肝周圍炎 ^ec3f3f
-- Hemolytic-Uremic Syndrome : Shiga toxin出血毒素 -> 攻擊大腸 : 出血性大腸炎，攻擊腎臟 : 腎衰竭 ^d5d267
+- Hemolytic-Uremic Syndrome ^d5d267
+	- **溶血性貧血**->**血栓**->**急性腎損傷**
+	- RBC溶解、Platelet降、腎衰竭
+	- 最常見 : Shiga toxin溶血 -> 腎臟
 - Waterhouse-Friderichsen syndrome (猛爆性腦膜炎雙球菌菌血症) : 嚴重sepsis、DIC、兩側腎上腺由髓質擴展到皮質的大出血 ^2e720f
 ## Autoimmune
 - Guillain-Barre syndrome ^518a34
@@ -12,15 +15,20 @@
 ## Endocrine
 - Cusing syndrome ^327c2c
 	- 定義 : **Cortisol過多**
-	- 脂肪重新分配 : 月亮臉、水牛肩
-	- 皮膚變薄 : 容易瘀青、出現紋路
-	- 糖質新生
-		- 分解脂肪、蛋白質 : 肌肉減少
-		- 高血糖 (胰島素阻抗)
-	- 高血壓 : 有部分Aldosterone功能 -> 高血鈉、低血鉀
-	- 體毛增加 : 有部分Testosterone功能
-	- 免疫低下
-		- 降 : 嗜酸、嗜鹼、淋巴球、單核球
+	- 糖質新生 : 分解來升糖
+		- 分解脂肪
+			- 皮膚變薄 -> 容易瘀青、出現紋路
+			- 脂肪重新分配 -> 月亮臉、水牛肩
+		- 分解蛋白質 : 肌肉減少
+		- 骨質疏鬆 : 拮抗Vit D、抑制osteoblast
+		- 高血糖 : 胰島素阻抗
+	- Overlap其他腎上腺皮質激素
+		- 部分Aldosterone -> 高血壓、高血鈉、低血鉀
+		- 部分Testosterone -> 體毛增加
+	- 免疫低下 (IL-2降)
+		- 降 : 嗜酸、嗜鹼、淋巴球、單核球、Mast cell分泌
 		- 增 : RBC、嗜中、血小板
-	- 消化性潰瘍
-	- 骨質疏鬆 (拮抗Vit D、抑制osteoblast)
+	- 花生四烯酸代謝 (PLA2)
+		- 消化性潰瘍
+		- 抑制發炎
+	- Permission effect : 增加catecholamine敏感度

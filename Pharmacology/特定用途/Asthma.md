@@ -12,7 +12,7 @@
 ## Long term control
 - Steroid (**吸**) : Budesonide、Flutica**sone**
 	- 抑制NF-$\kappa$B : 抑制發炎
-	- 活化HDAC2 (Histone deacetylase) : COPD 患者體內HDAC2的表現較低，造成類固醇的效果不佳，但Theophylline 會刺激 HDAC2 的表現
+	- 活化HDAC2 (Histone deacetylase) : COPD 患者體內HDAC2的表現較低，造成類固醇的效果不佳，但Theophylline會刺激HDAC2的表現
 	- 促進$\beta_2$ receptor的敏感性
 - [[ANS#$ beta_2$ 氣喘用藥 -terol|LABA]] (**吸**)
 - Leukotriene (-) (**口服**)

@@ -37,8 +37,11 @@ graph LR
 | COX2 (-) | Celecoxib      |                             | 副作用最小        |
 |          | Rofecoxib      |                             | 血栓風險          |
 | 非NASID  | Acetaminophen  | CNS退燒、止痛               | 肝毒性(NAC解)     |
-| LOX (-)  | Zi**leu**ton       | 解氣喘                      |                   |
-- Steroid副作用 : [[syndrome#^327c2c|Cushing syndrome]]
+| LOX (-)  | Zi**leuton**       | 解氣喘                      |                   |
+- Steroid
+	- 主要作用 : PLA2抗發炎
+	- 次要作用 : 抑制IL-2，抑制T cell活化
+	- 副作用 : [[syndrome#^327c2c|Cushing syndrome]]
 ### Eicosanoid (+)
 - PGE/F : Prostaglandin、PGI : Prostacyclin
 - 原則
