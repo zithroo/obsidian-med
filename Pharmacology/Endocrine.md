@@ -1,3 +1,11 @@
+1. [[腦下腺前葉]]
+2. [[腦下腺後葉]]
+3. [[Thyroid]]
+4. [[PTH-Calcitonin-VitD]]
+5. [[Diabetes]]
+6. [[Somatostatin]]
+7. [[Adrenal gland]]
+8. [[Sex hormone]]
 ## Hormone receptor
 |        | Gq                             | Gs                    | TK (JAK-STAT)  | Nuclear                       |
 |--------|--------------------------------|-----------------------|----------------|-------------------------------|
@@ -10,11 +18,4 @@
 3. TSH、LH、FSH、hCG : 醣蛋白、$\alpha$ 相同、$\beta$ 相異
 4. POMC : $\alpha$-MSH、ACTH、$\beta$-Lipotropin、$\beta$-Endrophin
 5. Aldosterone、Glucocorticoids、Androgen
-## 細項
-1. [[腦下腺前葉]]
-2. [[腦下腺後葉]]
-3. [[Thyroid]]
-4. [[PTH-Calcitonin-VitD]]
-5. [[Diabetes]]
-6. [[Adrenal gland]]
-7. [[Sex hormone]]
+

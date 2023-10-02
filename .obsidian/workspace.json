@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "145b58c9fa1421d3",
+        "id": "e5dde5b31fd23a1d",
         "type": "tabs",
         "children": [
           {
-            "id": "b0aa918e8018aa6a",
+            "id": "f72106af6222e38e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e83a729ec8c66da9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pharmacology/特定用途/Diabetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +85,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pharmacology/特定用途/Diabetes.md",
-                "linksCollapsed": false,
+                "file": "Pharmacology/Endocrine.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -121,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pharmacology/特定用途/Diabetes.md"
+                "file": "Pharmacology/Endocrine.md"
               }
             }
           },
@@ -141,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pharmacology/特定用途/Diabetes.md",
+                "file": "Pharmacology/Endocrine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,44 +155,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e83a729ec8c66da9",
+  "active": "f72106af6222e38e",
   "lastOpenFiles": [
-    "Pharmacology/Endocrine.md",
-    "Pharmacology/特定用途/PTH-Calcitonin-VitD.md",
-    "Pharmacology/特定用途/Diabetes.md",
     "Pharmacology/Gastrointestinal.md",
-    "Pharmacology/CNS.md",
-    "Pharmacology/Cardiovascular.md",
-    "Pharmacology/Respiratory.md",
-    "Pharmacology/Kidney.md",
-    "Pharmacology/特定用途/腦下腺前葉.md",
-    "Pharmacology/特定用途/骨質疏鬆.md",
-    "Pathology/toolbox/syndrome.md",
-    "img/Vit D metabolism.png",
-    "img/Ca metabolism.png",
-    "Pharmacology/特定用途/腦下腺後葉.md",
-    "Pharmacology/特定用途/情緒安定(鋰鹽).md",
-    "Pharmacology/特定用途/Thyroid.md",
-    "img/Thyroid synthesis.png",
-    "Pharmacology/ANS.md",
-    "Pharmacology/Autocrine.md",
-    "Histology/Digestive systems.md",
-    "Pharmacology/特定用途/Migraine.md",
-    "Pharmacology/特定用途/瀉劑 (Laxatives).md",
-    "Pharmacology/特定用途/Parkinson.md",
-    "Pharmacology/特定用途/Sex hormone.md",
-    "Pharmacology/特定用途/Adrenal gland.md",
+    "Histology/Respiratory systems.md",
     "Pharmacology/toolbox/Receptor.md",
-    "Pharmacology/特定用途/COPD.md",
-    "Pharmacology/特定用途/Asthma.md",
-    "Microbiology/Bacteria/GNBs/腸道菌.md",
-    "img/PDE_inhibitor.png",
-    "img/RAAS_blocker.png",
-    "img/LABA.png",
-    "img/Asthma.jpg",
+    "Pharmacology/Kidney.md",
+    "Pharmacology/Endocrine.md",
+    "Pharmacology/特定用途/高血壓.md",
+    "Pharmacology/特定用途/心衰竭.md",
+    "Pharmacology/Respiratory.md",
+    "Pharmacology/特定用途/Sex hormone.md",
+    "Pharmacology/特定用途/不孕症.md",
+    "Pharmacology/特定用途/Adrenal gland.md",
+    "Pharmacology/CNS.md",
+    "Pharmacology/特定用途/PTH-Calcitonin-VitD.md",
+    "Pharmacology/特定用途/骨質疏鬆.md",
+    "img/Cortex synthase pathway.png",
     "img/胃酸分泌.png",
-    "img/妹卡.png",
-    "img/心律不整class_I.png",
+    "img/Ca metabolism.png",
+    "img/RAAS_blocker.png",
+    "Pharmacology/Cardiovascular.md",
+    "Pharmacology/特定用途/Diurectics.md",
+    "Pharmacology/特定用途/Angiotensin (-).md",
+    "Pharmacology/特定用途/Asthma.md",
+    "Pathology/toolbox/syndrome.md",
+    "Pharmacology/特定用途/Parkinson.md",
+    "Pharmacology/特定用途/Migraine.md",
+    "Pharmacology/特定用途/抗憂鬱.md",
+    "Pharmacology/toolbox/神經傳導物質副作用.md",
+    "Pharmacology/Autocrine.md",
+    "Pharmacology/toolbox/PDE inhibitor.md",
+    "Pharmacology/解毒.md",
+    "img/PDE inhibitor.png",
+    "img/PDE inhinitor.png",
+    "img/PDE_inhibitor.png",
+    "img/Vit D metabolism.png",
+    "img/Thyroid synthesis.png",
     "Microbiology/Bacteria",
     "Microbiology/Bacteria/GNBs",
     "img",

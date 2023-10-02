@@ -19,8 +19,9 @@
 | Carbidopa  | Carboxylase (-) | 減少周邊代謝 |
 | Enta**capone** | COMT inhibitor  |              |
 | Vit B6     | Carboxylase輔酶 | 增加周邊代謝 |
-## DA agonist
-- [[#Ergot類|麥角鹼]]
+## DA receptor agonist
+- 讓DA receptor 增加
+- [[Migraine#Ergot類|麥角鹼]]
 - #h/blue ==比較==
 	- Brimo**nidine** ($\alpha_2$ +) <-> Bromocriptine (DA)
 ## MAOI B

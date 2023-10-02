@@ -10,7 +10,7 @@
 - Theophylline
 	- Methylxanthine類 : **同Caffeine**
 	- 機轉 
-		- [[Cardiovascular#PDE3 inhibitior|Non-specific PDE inhibitor]] : cAMP、cGMP (+)
+		- [[PDE inhibitor]] : cAMP、cGMP (+)
 		- Adenosine Receptor-1 (-)
 		- 刺激HDAC : 抑制發炎
 	- 作用 : 專注、心跳及收縮力上升、胃酸分泌、利尿、平滑肌放鬆

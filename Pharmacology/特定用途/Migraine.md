@@ -1,3 +1,4 @@
+- 機轉 : 血管收縮又舒張 -> 搏動的感覺
 - 原理 : **收縮腦部血管** -> 腦壓降
 
 | 機轉       |      | 藥物                   | 副作用                                |
@@ -16,7 +17,7 @@
 	- 歐洲助產士用黑麥角菌核來**加速分娩**
 - **加速分娩 -> 懷孕禁用**
 ### 合成形
-- Methysergide、[[#DA agonist | Bromocriptine、Pergolide]] (**帕金森用藥**)
+- Methysergide、[[Parkinson#DA receptor agonist| Bromocriptine、Pergolide]] (**帕金森用藥**)
 ### Sumatriptan
 - #h/blue ==比較==
 	- 5-HT$_{1A}$ partial agonist ([[安眠#其他|Buspirone]]) <-> 5-HT$_{1D}$ (+) (Sumatriptan)
