@@ -112,6 +112,7 @@
 - Tropicamide : #h/red ==眼藥水局部(Tropical)給予==
 - Prienzepine : M1, Propantheline: M1+M3
 - Ipratropium : #h/red ==I 像直直的氣管==
+- [[肌肉鬆弛]]
 ***
 #h/blue ==比較==
 - Clonide ($\alpha_2$ +) <-> Clinidium (M3 -) <-> Cimetidine (H2 -)

@@ -46,5 +46,5 @@
 1. Thrombocyte (從骨髓跑到血液中)
 ### 性質
 - [[無核]]，但有[[granule]]
-- [[凝血]]
+- 凝血
 - 血小板adhesion (GpIb)、aggregation (GpIIbIIIa)、activation

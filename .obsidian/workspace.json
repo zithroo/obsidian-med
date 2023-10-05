@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e5dde5b31fd23a1d",
+        "id": "9b271316b44f892f",
         "type": "tabs",
         "children": [
           {
-            "id": "f72106af6222e38e",
+            "id": "198323739548ecc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pharmacology/Endocrine.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pharmacology/Endocrine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pharmacology/Endocrine.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pharmacology/Endocrine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,43 +147,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f72106af6222e38e",
+  "active": "198323739548ecc3",
   "lastOpenFiles": [
-    "Pharmacology/Gastrointestinal.md",
-    "Histology/Respiratory systems.md",
-    "Pharmacology/toolbox/Receptor.md",
-    "Pharmacology/Kidney.md",
-    "Pharmacology/Endocrine.md",
-    "Pharmacology/特定用途/高血壓.md",
-    "Pharmacology/特定用途/心衰竭.md",
+    "Pharmacology/特定用途/抗癌標靶藥物.md",
+    "Pharmacology/Immunosuppressants.md",
+    "Pharmacology/Anti-Cancer.md",
     "Pharmacology/Respiratory.md",
-    "Pharmacology/特定用途/Sex hormone.md",
-    "Pharmacology/特定用途/不孕症.md",
-    "Pharmacology/特定用途/Adrenal gland.md",
+    "Pharmacology/Endocrine.md",
     "Pharmacology/CNS.md",
-    "Pharmacology/特定用途/PTH-Calcitonin-VitD.md",
+    "Pharmacology/特定用途/痛風.md",
+    "Pharmacology/Autocrine.md",
+    "img/免疫療法.png",
+    "Pasted image 20231005151135.png",
+    "Pharmacology/特定用途/Asthma.md",
     "Pharmacology/特定用途/骨質疏鬆.md",
+    "Pharmacology/特定用途/Sex hormone.md",
+    "img/T嘧啶合成.png",
+    "Pharmacology/Gastrointestinal.md",
+    "Pharmacology/Kidney.md",
+    "Pharmacology/特定用途/抗憂鬱.md",
+    "Pharmacology/特定用途/抗精神病.md",
+    "Pharmacology/解毒.md",
+    "Pharmacology/toolbox/耳毒腎毒.md",
+    "Pharmacology/特定用途/Diurectics.md",
+    "img/Cell cycle.png",
+    "Pharmacology/Blood.md",
+    "Pharmacology/特定用途/高血脂.md",
+    "Pharmacology/toolbox/第一線.md",
+    "Pharmacology/特定用途/Diabetes.md",
+    "Histology/Urinary systems.md",
+    "Pharmacology/特定用途/貧血.md",
+    "Pharmacology/特定用途/腦下腺後葉.md",
+    "Pharmacology/特定用途/抗出血劑.md",
     "img/Cortex synthase pathway.png",
     "img/胃酸分泌.png",
     "img/Ca metabolism.png",
     "img/RAAS_blocker.png",
-    "Pharmacology/Cardiovascular.md",
-    "Pharmacology/特定用途/Diurectics.md",
-    "Pharmacology/特定用途/Angiotensin (-).md",
-    "Pharmacology/特定用途/Asthma.md",
-    "Pathology/toolbox/syndrome.md",
-    "Pharmacology/特定用途/Parkinson.md",
-    "Pharmacology/特定用途/Migraine.md",
-    "Pharmacology/特定用途/抗憂鬱.md",
-    "Pharmacology/toolbox/神經傳導物質副作用.md",
-    "Pharmacology/Autocrine.md",
-    "Pharmacology/toolbox/PDE inhibitor.md",
-    "Pharmacology/解毒.md",
     "img/PDE inhibitor.png",
     "img/PDE inhinitor.png",
-    "img/PDE_inhibitor.png",
-    "img/Vit D metabolism.png",
-    "img/Thyroid synthesis.png",
     "Microbiology/Bacteria",
     "Microbiology/Bacteria/GNBs",
     "img",

@@ -62,13 +62,3 @@ graph LR
 |----------------------|-------------|-------------|--------------------------------------|
 |                      | 5-LOX (-)   | Ze**leuton**    | Aspirin induced Asthma、不會吸的小孩 |
 |                      | Recptor (-) | Zafir**lukast** |                                      |
-## 痛風
-1. Acute 
-	- 抑制發炎 : NASID (**Indomethacin、Ibuprofen**)
-	- 抑制白血球趨化 : **Colchicine**
-2. Chronic
-	- 抑制尿酸形成 : Xanthine oxidase (**Allopurinol、Febuxostat**) <- **HLA-B5801**有SJS
-	- 抑制尿酸PCT再吸收 : **Probenecid、Benzbromarone、Sulfinpyrazone**
-	- 溶解尿酸 : Pegloti**case**、Rasb**uricase**
-		- 重組尿酸酶
-		- 預防tumor lysis syndrome

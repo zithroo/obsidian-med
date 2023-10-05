@@ -42,11 +42,12 @@
 - Metformin : 腹瀉、乳酸中毒
 	- #h/red  ==Mate for me(交配) ->(糖質)新生== 
 - TZD
-	- #h/blue ==比較==
-		- PPAR$\gamma$ : 促進GLUT-4，回收糖
-		- PPAR$\alpha$ : 回收TG
 	- 水腫，心衰竭禁用
-	- #h/red ==蛤蠣湯熟(-glitazone) -> 吃掉==
+	- #h/blue ==比較==
+		- PPAR$\alpha$ : [[高血脂#降TG|回收TG]]
+		- PPAR$\gamma$ : 促進GLUT-4，回收糖
+	- #h/red ==alpha (Adipose)、gamma (Glucose)==
+	- #h/red ==蛤蠣湯熟(-glitazone) -> 熟了就吃掉G==
 ### 腸道吸收寡糖
 1. 抑制寡糖分解 : 萬一低血糖，只能補充單/雙糖治療
 2. 寡糖不分解 : 腸內菌分解 -> 脹氣
