@@ -13,6 +13,8 @@
 | 一期 | < 6w | 硬性下疳 (無痛)                      |
 | 二期 | 6~8w | 紅疹、淋巴腫大、Condyloma lata       |
 | 三期 | 10年 | 象皮腫、梅毒主動脈炎、Tabes dorsalis |
+- #h/blue ==比較== 
+	- Condyloma lata <-> [[Papillomavirus|Condyloma acuminata]]
 - 先天性梅毒症候群
 	- 子宮內受感染
 	- 早期梅毒 (< 2 yr) : Saddle nose (軟骨)、Saber shin (骨膜)、White pneumonia

@@ -1,0 +1,17 @@
+- 異常摺疊蛋白  (α-to-β structural transition)
+	- 疊的很堅固 : 福馬林、紫外線、高溫沒用
+	- 人體蛋白 : 沒有強烈免疫反應
+- Creutzfeldt-Jakob disease (CJD)
+	- 病理特徵
+		- Spongiform degeneration
+		- 星形膠質細胞增生 (Astrocytic gliosis)
+	- 臨床表徵 : 快速進展性癡呆、肌躍症、視力障 礙、運動失調、錐體、錐體外症候群、發病一年內死亡
+	- 診斷方式
+		- MRI (Cortical ribbon sign)
+		- EEG (Periodic sharp wave complex) 
+		- CSF (14-3-3 protein)
+	- 種類 : 
+		- Sporadic form (sCTD) : 最常見 (85%)
+		- Iatrogenic CJD (iCJD) : 由硬腦膜移植、普恩蛋白汙染過的生長激素 (prion-contaminated hGH) 造成的感染
+		- Familial CJD (fCJD)  : Human prion protein gene (PRNP) 突變，顯性遺傳
+		- Variant CJD (vCJD) : Bovine prions (狂牛病病原)

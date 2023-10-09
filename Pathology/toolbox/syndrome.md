@@ -1,4 +1,6 @@
 ## Infection
+- Acute HIV syndrome : 和重感冒相似，發燒、淋巴腫大、有不明疹子 ^c18f45
+- Congenital rubella syndrome : 心臟畸形、耳聾、白內障、小頭症 ^c38b24
 - Fitz-Hugh-Cutis syndrome : 由性病引起的腹膜炎、肝周圍炎 ^ec3f3f
 - Hemolytic-Uremic Syndrome ^d5d267
 	- **溶血性貧血**->**血栓**->**急性腎損傷**

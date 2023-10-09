@@ -1,0 +1,11 @@
+- **最大**
+	- 大到自己帶DNA pol、RNA pol -> **質**內複製
+	- 大到複合型病毒
+- 潛伏性感染
+- 呼吸傳染 : 天花 (Small pox / Variola virus)
+	- 黏膜 -> 淋巴結 -> 病毒血症 -> 發燒、紅疹
+	- 活牛痘疫苗Vaccinia
+	- #h/blue ==比較== Small pox <-> Chicken pox
+- 接觸傳染
+	- 傳染性軟疣 (Molluscum contagiosum) : 白色腫塊，中間凹陷
+	- 猴痘 : 性傳染

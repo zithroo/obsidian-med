@@ -1,0 +1,19 @@
+- 杯小輪 : **無**套膜、想到**吃 (諾羅、腸病毒、輪狀)**
+	- #h/red ==卑鄙小輪不戴套==
+- 輪 : 雙股分段
+- 沙、布 : 單股**負**分段，但其實是**Ambisense RNA**
+- 複製位置 : 正、反**核內**
+***
+- 杯 : [[Calicivirus]]、諾羅病毒、**E**肝
+- 小 : [[Picornavirus]]、腸、鼻病毒、小兒麻痺、**A**肝
+- 披 : [[Togavirus]]、德國麻疹、屈公熱
+- 黃 : [[Flavivirus]]、日本腦炎、登革熱、茲卡病毒、**C**肝
+- 輪 : [[Reovirus]]、呼吸腸道孤兒病毒
+- 冠 : [[Coronavirus]]、SARS、MERS、武漢肺炎
+- 副 : [[Paramyxovirus]]、RSV、腮腺炎、麻疹
+- 桿 : [[Rhadovirus]]、狂犬病
+- 絲 : [[Filovirus]]、伊波拉、馬堡病毒
+- 沙 : [[Arenavirus]]、拉薩熱、老鼠
+- 布 : [[Bunyavirus]]、本洋病毒、漢他病毒
+- 正 : [[Orthomyxovirus]]、流感、禽流感
+- 反 : [[Retrovirus]]、HIV、 Human T-lymphocyte virus

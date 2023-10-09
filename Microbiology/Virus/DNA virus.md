@@ -1,0 +1,11 @@
+- 肝皰痘 : 套膜
+	- #h/red ==幹、打炮、逗女人要戴套==
+- 小DNA病毒 : 單股不分
+- 痘病毒 : 複雜型 (超大)、不是核內複製 (大到自己帶酵素)
+***
+- 小 : [[Parvovirus]]、小DNA病毒、B19、第五病
+- 腺 : [[Adenovirus]]、結膜炎、新兵腸胃炎、呼吸道
+- 皰 : [[Human herpes virus]]、皰疹、水痘、EBV、CMV
+- 肝 : **[[Hepadnavirus]]**
+- 乳 : [[Papillomavirus]]、子宮頸、肛門生殖器、頭頸SCC
+- 痘 : [[Poxvirus]]、天花、猴痘、Small pox、傳染性軟疣

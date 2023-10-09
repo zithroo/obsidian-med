@@ -24,7 +24,7 @@
 	- **嚴重肺炎 : 有capsule的菌株**
 ## Clostridium (孢子、厭氧)
 ### C.botulinum
-- 毒素 : botulinum toxin，**抑制Ach釋放** -> 副交感抑制、肌肉癱軟
+- 毒素 : botulinum toxin，**抑制Ach釋放** -> 副交感抑制、肌肉癱軟、[[A-B toxin]]
 - 孢子可以在<1歲幼兒腸道內成長，**幼兒不能吃蜂蜜**
 - 診斷 : 病人血清中毒素
 
@@ -39,7 +39,9 @@
 - 毒素 : Tetanospasmin(**[[A-B toxin]]**)，熱不穩定、**抑制脊髓突觸GABA、Glycine** -> 肌肉收縮
 - 診斷 : 臨床症狀 (菌不好養、毒素不好分離)
 - 治療
-	- clean/minor傷口 : [[Vaccine#DPT|vaccine]] (Tetanus toxoid)
+	- clean/minor傷口
+		- 清創、抗生素
+		- [[Vaccine#DPT|vaccine]] (Tetanus toxoid) : **非治療**，只能預防之後的受傷
 	- 嚴重傷口 : human tetanus immune globulin
 ### C.perfringens
 - 產氣 : milk plate上產生暴風雨般的發酵
@@ -48,7 +50,7 @@
 
 |          | Gas gangrene         | Food poisoning |
 |----------|----------------------|----------------|
-| 毒素     | alpha toxin          | theta toxin    |
+| 毒素     | $\alpha$ toxin          | $\theta$ toxin    |
 | 毒素類型 | Lecithinase          | Enterotoxic    |
 | 途徑     | 土糞接觸傷口         | 吃重複加熱的肉 |
 | 症狀     | 傷口腫脹、肌肉壞死    | 水瀉           |
