@@ -1,48 +1,3 @@
-## Psudomonans
-### P.aeruginosa
-- 絕對需氧
-- 色素 (墨綠色金屬)、葡萄味
-- [[抑制蛋白質合成毒素]]
-- **想到水**
-
-|        | 位置         | 症狀                  |
-|--------|--------------|-----------------------|
-| 正常   | 肺           | Cystic Fibrosis人肺炎 |
-|        | 眼           | 隱形眼鏡->角膜潰瘍    |
-|        | 耳           | swimming ear (外耳)   |
-| 伺機性 | 傷口、導尿管 |                       |
-### P.pseudomallei
-- 現名 : Burkholderia psudomallei
-- **類鼻疽** (Meilioidosis) : 皮膚潰瘍、肺炎、敗血症
-## 彎桿菌
-### Vibrio
-- Oxidase (+)、海水中 -> 耐鹽
-
-|                    | 感染              | 毒素                        | 症狀                  |
-|--------------------|-------------------|-----------------------------|-----------------------|
-| V.cholerae         | 汙水              | [[cAMP toxin]]                        | 霍亂 (rice water便便) |
-| V.parahaemolyticus | 生魚片            | Kanagawa hemolysin (熱穩定) | 腸炎                  |
-| V.vulnificus       | 傷口/肝硬化吃生蠔 |                             | 壞死性筋膜炎/sepsis   |
-- 霍亂 : **[[人類唯一宿主]]**
-- #h/blue ==比較== 致病菌數 : 霍亂$10^7$ > 沙門$10^5$ > 志賀$10^2$
-- **Kanagawa (神奈川) hemolysin**
-	- 在Wagatsuma agar (高鹽人/兔血) 中產生$\beta$溶血
-	- 熱穩定
-- 創傷弧菌 #h/red ==工作到肝硬化很有錢 -> 吃生蠔==
-### Campylobacter
-- 微厭氧
-- 海鷗翅膀狀 (Gulls’ Wings)
-- 吃**雞鴨牛羊肉** : 腹瀉
-	- [[syndrome#^518a34|Guillain-Barre syndrome]] : 細菌的 LPS 與神經節苷酯很像，誤傷髓鞘
-### Helicobacter
-- [[人類唯一宿主]]
-- Urease : 破壞mucous
-- 破壞D cell : somatosatin降 -> Gastric升 -> HCl
-- Cag-A (Cytotoxin-associate gene A) : 致癌
-- 引起胃炎、peptic ulcer、胃癌、MALT-lymphoma
-- #h/blue  ==比較== 
-	- Helicobacter (破壞胃黏液) <-> [[#Proteus mibirabilis|Proteus]](鹼化尿液 -> 尿結石)
-## Enterobacteriaceae
 - **Catalase (+)、Oxidase (-)**
 	- #h/blue ==比較==
 		- 唯一Oxidase (-)
@@ -63,7 +18,7 @@
 	- Lipid A : 毒素
 - H antigen : 鞭毛
 - Vi antigen : capsule
-### E.coli
+## E.coli
 - Uropathogenic E. coli (UPEC)
 	- **泌尿道**感染
 	- P pili : 黏附
@@ -78,11 +33,11 @@
 - EH(hemorriage)EC = ST(Shiga Toxin Producing)EC : **O157:H7**
 - [[抑制蛋白質合成毒素|Shiga toxin]]
 - [[syndrome#^d5d267|Hemolytic-Uremic Syndrome]]
-### K.pneumoniae
+## K.pneumoniae
 - 厚capsule
 - 正常菌相 : 口腔、皮膚、腸道
 - 只伺機性感染 -> **血痰**、各處感染
-### Salmonella
+## Salmonella
 | 分類     | Typhoid fever                                                         | Non-Typhi         |
 |----------|-----------------------------------------------------------------------|-------------------|
 | 感染源   | 帶原人 (吃大便)                                                       | 雞的卵巢 (吃雞蛋) |
@@ -94,36 +49,18 @@
 	- [[人類唯一宿主]]
 	- 不腹瀉，而是發燒
 	- **先進血液、再進腸道**
-	- [[intracellular pathgen]]]
+	- [[intracellular pathgen]]
 	- Vi (capsule) Ag : [[Vaccine]]
 	- **Relative Bradycardia** : 發燒時心跳沒變快 (相對慢)，原因為Salmonella、腹腔內abcess、G (-)sepsis、Atypical pneumoniae
-### Proteus mibirabilis
+## Proteus mibirabilis
 - [[GPB#Listeria (無孢子、嗜氧)|運動性強]] : 故種不出單一菌落 
 	- #h/blue ==比較== 
 		- 運動性 : Listeria、彎曲桿菌、Proteus
 - [[#Helicobacter|Urease]] : 尿結石
 - **Weil-Felix test** : 感染**立克次體**後人產生非特異性Ab，剛好可以和**Proteus**的Ag凝集
-### Shigella
+## Shigella
 - 超強致病 : $10^2$隻
 - Shiga toxin : [[抑制蛋白質合成毒素]]、[[syndrome#^d5d267|HUS]]
 	- #h/blue ==比較== Shigella <-> EHEC 
-### Yersinia
-1. Y.entercolitica
-	- 可[[GPB#Listeria (無孢子、嗜氧)|生長於低溫]] #h/blue ==比較== Listeria
-	- 未消毒乳製品、豬肉
-	- 年輕人 : **pseudoappendicitis、Enterocolitis**
-	- 老人 : **Reactive Arthritis**
-2. Y.pestis
-	- 傳播 : 跳蚤，傳染源 : 老鼠
-	- [[intracellular pathgen]]
-
-|            | 感染 | 死亡率 | 症狀              |
-|------------|------|--------|-------------------|
-| 腺鼠疫     | 跳蚤 | 50%    | 淋巴腫大          |
-| 肺鼠疫     | 飛沫 | 100%   | 咳血等            |
-| 敗血性鼠疫 |      | 100%   | 黑死病 (皮下出血) |
-## Bacteroid
-- B.fragilis
-	- 正常菌相 : 腸道
-	- 橫膈膜下膿瘍
-	- 抗生素 : Metronidazole + $\beta$ lactam，不可用Clindamycin
+## Yersinia
+- [[Yersinia#Y.entercolitica]]

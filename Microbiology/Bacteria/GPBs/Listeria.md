@@ -1,0 +1,13 @@
+- 無孢子、嗜氧
+- L.monocytogenes
+	- 運動性強 : end-over-dend tumbling motion，和[[Enterobacteriaceae#Proteus mibirabilis|Proteus]]相同
+	- 可生長於低溫 (Cold enrichment)，和[[Yersinia#Y.entercolitica]]相同
+	- CAMP(+)，同GBS
+	- 未消毒乳製品、過胎盤、過陰道時胎兒感染
+	- 新生兒、**免疫不全**病人 : 菌血症、**腦膜炎**
+	- [[intracellular pathgen]]
+	- 毒素
+		- Internalin : 附著E-cadherin -> 進入lysosome
+		- Listeriolysin O : 打破lysosome
+		- ActA : 在細胞內組裝**actin filament tail**，穿到鄰近細胞感染
+		- **LPS : 唯一有內毒素的G(+)**

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "611b0cadb11577db",
+        "id": "9d0135dea76c233a",
         "type": "tabs",
         "children": [
           {
-            "id": "94729af47cbe3567",
+            "id": "6e221d8ad9fc81eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microbiology/Prion.md",
+                "file": "Microbiology/Bacteria/Mycoplasma.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiology/Prion.md",
+                "file": "Microbiology/Bacteria/Mycoplasma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiology/Prion.md"
+                "file": "Microbiology/Bacteria/Mycoplasma.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiology/Prion.md",
+                "file": "Microbiology/Bacteria/Mycoplasma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,34 +156,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94729af47cbe3567",
+  "active": "6e221d8ad9fc81eb",
   "lastOpenFiles": [
-    "Microbiology/Virus/RNA virus/Retrovirus.md",
-    "Microbiology/Virus/病毒分類.md",
-    "Pathology/toolbox/syndrome.md",
-    "Microbiology/Virus/RNA virus.md",
-    "Microbiology/Virus/DNA virus.md",
-    "Microbiology/Virus/Hepatitis virus.md",
-    "Pharmacology/特定用途/麻醉.md",
-    "Pharmacology/CNS.md",
-    "Microbiology/Virus/RNA virus/Calicivirus.md",
-    "Microbiology/Bacteria/GNB.md",
-    "Microbiology/Bacteria/GNBs/腸道菌.md",
-    "Microbiology/Bacteria/GN絕對胞內.md",
-    "Microbiology/Bacteria/細菌分類.md",
-    "Microbiology/Bacteria/GNS.md",
-    "Microbiology/Bacteria/GPB.md",
-    "Microbiology/Bacteria/GPC.md",
     "Microbiology/Bacteria/Mycobacteria.md",
-    "Microbiology/Bacteria/GNBs/呼吸道菌.md",
-    "Microbiology/Bacteria/GNBs/人畜共通菌.md",
-    "Microbiology/Virus/DNA virus/Poxvirus.md",
-    "Microbiology/Virus/DNA virus/Papillomavirus.md",
-    "Microbiology/Prion.md",
+    "Microbiology/Bacteria/GPC.md",
+    "Microbiology/Bacteria/GPB.md",
+    "Microbiology/Bacteria/GNC.md",
+    "Microbiology/Bacteria/GNB.md",
+    "Microbiology/Fungus/系統性非典型.md",
+    "Microbiology/Fungus/黴菌分類.md",
+    "Microbiology/Bacteria/細菌分類.md",
+    "Microbiology/Fungus/系統性典型.md",
+    "Microbiology/Fungus/表皮下黴菌.md",
+    "Microbiology/Fungus/表皮黴菌.md",
+    "Microbiology/Fungus/表淺黴菌.md",
+    "Pharmacology/Anti-Cancer.md",
+    "Microbiology/Fungus",
+    "Histology/Genital systems.md",
+    "Microbiology/Virus/RNA virus/Retrovirus.md",
+    "Microbiology/Virus/RNA virus.md",
+    "Microbiology/Virus/病毒分類.md",
+    "Microbiology/Virus/DNA virus.md",
+    "Microbiology/Bacteria/Rickettsia.md",
+    "Microbiology/Bacteria/Mycoplasma.md",
+    "Microbiology/Bacteria/GNS.md",
+    "Microbiology/Bacteria/GN絕對胞內.md",
+    "Microbiology/Bacteria/GPBs/Actinomyces.md",
+    "Microbiology/Bacteria/GPBs/Clostridium.md",
     "Microbiology/Vaccine.md",
-    "Microbiology/Virus/RNA virus/Flavivirus.md",
-    "Microbiology/Virus/RNA virus/Picornavirus.md",
-    "Microbiology/Virus/DNA virus/Parvovirus.md",
+    "Microbiology/toolbox/A-B toxin.md",
+    "Microbiology/Bacteria/GPBs",
     "img/慢性肝炎.png",
     "img/急性肝炎.png",
     "img/麻疹口訣.png",
@@ -202,8 +204,6 @@
     "Microbiology/Bacteria",
     "Microbiology/Bacteria/GNBs",
     "img",
-    "Pharmacology/特定用途",
-    "Pathology/toolbox",
-    "Pharmacology/CNS drugs"
+    "Pharmacology/特定用途"
   ]
 }

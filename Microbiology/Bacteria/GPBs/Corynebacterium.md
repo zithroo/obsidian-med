@@ -1,0 +1,11 @@
+- 無孢子、嗜氧
+- C.dipththeria
+	- [[人類唯一宿主]]，僅在咽喉，不會更深入，但毒素會入侵
+	- 症狀 : 白喉、心肌炎、周邊神經麻痺 (GB-like syndrome)
+	- 毒素 : Diphtheria toxin (**[[A-B toxin]]**)
+		- A : 經由ADP-ribosylation抑制**EF-2** -> [[抑制蛋白質合成毒素|抑制蛋白質製造]]
+		- B : 送A進入
+	- 診斷
+			- Elek test : 免疫檢測**毒素**
+			- Schik test : 皮下注射毒素檢測**抗體**
+	- [[Vaccine#DTP]]

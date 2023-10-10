@@ -4,7 +4,7 @@
 	- #h/blue ==比較== [[GPB#Actinomyces (無孢子、厭氧)|Nocardia]]
 ## M.tuberculosis
 - 絕對需氧
-- Cord growth
+- Cord growth (Cord factor)
 - 空氣傳染 [[呼吸道菌#Legionella]]
 ### 肺結核
 1. 原發性 (child type)

@@ -8,7 +8,7 @@
 | Human monocytic ehrlichiosis                | Ehrlichia       | 硬蜱      |
 
 - [[疾病比較|口訣]]
-- [[腸道菌#Proteus mibirabilis|Weil-Felix test]] : 以血清反應區分立克次體，**和Proteus有關**
+- [[Enterobacteriaceae#Proteus mibirabilis|Weil-Felix test]] : 以血清反應區分立克次體，**和Proteus有關**
 ## Orienta tsutsugamushi
 - 恙蟲**幼蟲**叮咬
 - 發燒
