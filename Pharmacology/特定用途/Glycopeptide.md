@@ -1,0 +1,10 @@
+- Vancomycin、**Teicoplanin**
+- 殺**G(+)**、但G(-)完全無效
+- 建議使用 : MRSA、PRSP、Enterococci、C.difficile
+- 機轉 : 結合D-Ala-D-Ala terminus of pentapeptide ， 抑制peptodoglycan glycosyltransferase
+- 藥物動力學
+	- 口服吸收率很差 -> IV
+	- 口服只用在[[Clostridium#C.difficle|偽膜性大腸炎]]
+- 副作用
+	- [[耳毒腎毒]]
+	- Red man syndrome : Histamine釋放

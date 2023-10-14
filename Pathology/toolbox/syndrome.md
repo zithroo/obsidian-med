@@ -34,3 +34,5 @@
 		- 消化性潰瘍
 		- 抑制發炎
 	- Permission effect : 增加catecholamine敏感度
+## 藥物副作用
+- Gray baby syndrome : 使用Chloramphenicol，新生兒肝臟UDP-glucuronyl transferase能力不足，干擾粒線體功能 ^845c1f

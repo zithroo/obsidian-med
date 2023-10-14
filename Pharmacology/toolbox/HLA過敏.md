@@ -1,0 +1,3 @@
+- B 1502 : [[癲癇#傳統藥物|Carbamazepine]]、Oxacarbazepine
+- B 5701 : Abacavir
+- B 5801 : [[痛風|Allopurinol]]

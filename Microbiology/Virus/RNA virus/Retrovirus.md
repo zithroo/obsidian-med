@@ -16,6 +16,7 @@
 ### 感染
 - 如果經黏膜感染 : 由**Dendritic cell攜帶**到淋巴結
 - 感染Th (gp120辨識、gp40送進去)
+	- CD4 + co-receptor (CXCR4 or CCR5)共同辨識
 	- 和**CXCR4**結合 : **T** tropic，作用**naive T**
 	- 和**CCR5**結合 : **M** tropic，作用活化T、**Macrophage**
 - RNA -> **反轉錄** -> cDNA

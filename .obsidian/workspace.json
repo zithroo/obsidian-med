@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d0135dea76c233a",
+        "id": "6b73c7aba23bf158",
         "type": "tabs",
         "children": [
           {
-            "id": "6e221d8ad9fc81eb",
+            "id": "cfddefd3034d8adf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microbiology/Bacteria/Mycoplasma.md",
+                "file": "Pharmacology/特定用途/抗寄生蟲.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiology/Bacteria/Mycoplasma.md",
+                "file": "Pharmacology/特定用途/抗寄生蟲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiology/Bacteria/Mycoplasma.md"
+                "file": "Pharmacology/特定用途/抗寄生蟲.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiology/Bacteria/Mycoplasma.md",
+                "file": "Pharmacology/特定用途/抗寄生蟲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 218.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,35 +156,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e221d8ad9fc81eb",
+  "active": "cfddefd3034d8adf",
   "lastOpenFiles": [
-    "Microbiology/Bacteria/Mycobacteria.md",
-    "Microbiology/Bacteria/GPC.md",
-    "Microbiology/Bacteria/GPB.md",
-    "Microbiology/Bacteria/GNC.md",
-    "Microbiology/Bacteria/GNB.md",
-    "Microbiology/Fungus/系統性非典型.md",
-    "Microbiology/Fungus/黴菌分類.md",
-    "Microbiology/Bacteria/細菌分類.md",
-    "Microbiology/Fungus/系統性典型.md",
-    "Microbiology/Fungus/表皮下黴菌.md",
-    "Microbiology/Fungus/表皮黴菌.md",
-    "Microbiology/Fungus/表淺黴菌.md",
+    "Pharmacology/Antimicrobial.md",
+    "Pharmacology/特定用途/抗黴菌.md",
+    "Pharmacology/特定用途/抗TB.md",
+    "Pharmacology/特定用途/抗細菌.md",
+    "Pharmacology/特定用途/抗病毒.md",
+    "Pharmacology/特定用途/SARS-COV-2藥物.md",
+    "Pharmacology/特定用途/抗寄生蟲.md",
     "Pharmacology/Anti-Cancer.md",
-    "Microbiology/Fungus",
-    "Histology/Genital systems.md",
+    "Pharmacology/Immunosuppressants.md",
+    "Pharmacology/特定用途/肝炎病毒藥物.md",
+    "Microbiology/Virus/Hepatitis virus.md",
+    "Pharmacology/特定用途/HHV藥物.md",
     "Microbiology/Virus/RNA virus/Retrovirus.md",
+    "Pharmacology/特定用途/HIV藥物.md",
     "Microbiology/Virus/RNA virus.md",
-    "Microbiology/Virus/病毒分類.md",
-    "Microbiology/Virus/DNA virus.md",
-    "Microbiology/Bacteria/Rickettsia.md",
-    "Microbiology/Bacteria/Mycoplasma.md",
-    "Microbiology/Bacteria/GNS.md",
-    "Microbiology/Bacteria/GN絕對胞內.md",
-    "Microbiology/Bacteria/GPBs/Actinomyces.md",
-    "Microbiology/Bacteria/GPBs/Clostridium.md",
-    "Microbiology/Vaccine.md",
-    "Microbiology/toolbox/A-B toxin.md",
+    "Microbiology/Virus/RNA virus/Orthomyxovirus.md",
+    "img/抗病毒藥機轉2.png",
+    "img/抗病毒藥機轉.png",
+    "Pharmacology/特定用途/beta lactam.md",
+    "Pharmacology/特定用途/抗蛋白質.md",
+    "Pharmacology/特定用途/抗核酸.md",
+    "Pharmacology/特定用途/抗細胞壁.md",
+    "Pharmacology/特定用途/Glycopeptide.md",
+    "Microbiology/Fungus/系統性典型.md",
+    "Microbiology/Fungus/黴菌分類.md",
+    "img/抗黴菌藥機轉.png",
+    "img/Baktar機轉.png",
+    "Pharmacology/toolbox/第一線.md",
+    "Pathology/toolbox/syndrome.md",
+    "Pharmacology/特定用途/抗細胞膜.md",
+    "img/Cross link抑制.png",
+    "img/PDG結構.png",
+    "img/抗生素目標.png",
+    "Microbiology/Fungus",
     "Microbiology/Bacteria/GPBs",
     "img/慢性肝炎.png",
     "img/急性肝炎.png",
@@ -192,15 +199,8 @@
     "Microbiology/Virus/RNA virus",
     "Untitled.canvas",
     "Microbiology/Virus/DNA virus",
-    "img/病毒分類.png",
     "病毒分類",
     "Microbiology/Virus",
-    "img/免疫療法.png",
-    "Pasted image 20231005151135.png",
-    "img/T嘧啶合成.png",
-    "img/Cell cycle.png",
-    "img/Cortex synthase pathway.png",
-    "img/胃酸分泌.png",
     "Microbiology/Bacteria",
     "Microbiology/Bacteria/GNBs",
     "img",

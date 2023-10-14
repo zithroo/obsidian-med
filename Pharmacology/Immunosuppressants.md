@@ -26,7 +26,7 @@
 |            | **Dihydroorotate去氫酶** | Leflunomide      |
 - 當癌在打 : 骨髓抑制、容易感染
 - Mycophenolate MoFetil (MMF)
-	- IMP dehydrogenase (-) : IMP -> XMP，最後抑制GMP生成
+	- IMP dehydrogenase (-) : IMP -> XMP，最後抑制GMP生成，同[[抗病毒#HCV|Ribavirin]]
 	- 抑制Purine的**De novo pathway**
 	- 較不影響一般細胞 : 走slavage pathway
 - Dihydroorotate dehydrogenase : pyrimidine->UMP
