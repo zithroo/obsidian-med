@@ -37,10 +37,10 @@
 | 機轉         | 藥名           | 作用     |
 |--------------|----------------|----------|
 | P (+)        | Levonorgestrel | 射後避孕 |
-| P receptor (-)| Mifepristone   | 墮胎     |
+| P receptor (-)| Mifepristone   | 早期墮胎     |
 - Mifepristone (RU486)
 	- Progesterone、Androgen、Corticosteroid (-)
 	- **非Estrogen (-)**、墮胎
-	- #h/red ==米妃pre私通==
+	- #h/red ==米妃pre私通，早點墮掉==
 ## 不孕
 - [[不孕症]]

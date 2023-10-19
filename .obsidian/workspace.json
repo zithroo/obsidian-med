@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b73c7aba23bf158",
+        "id": "b19278ac043e9dec",
         "type": "tabs",
         "children": [
           {
-            "id": "cfddefd3034d8adf",
+            "id": "4f24ae4a40c24071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pharmacology/特定用途/抗寄生蟲.md",
+                "file": "Pharmacology/特定用途/Diabetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pharmacology/特定用途/抗寄生蟲.md",
+                "file": "Pharmacology/特定用途/Diabetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pharmacology/特定用途/抗寄生蟲.md"
+                "file": "Pharmacology/特定用途/Diabetes.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pharmacology/特定用途/抗寄生蟲.md",
+                "file": "Pharmacology/特定用途/Diabetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,38 +156,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfddefd3034d8adf",
+  "active": "4f24ae4a40c24071",
   "lastOpenFiles": [
-    "Pharmacology/Antimicrobial.md",
-    "Pharmacology/特定用途/抗黴菌.md",
-    "Pharmacology/特定用途/抗TB.md",
-    "Pharmacology/特定用途/抗細菌.md",
-    "Pharmacology/特定用途/抗病毒.md",
-    "Pharmacology/特定用途/SARS-COV-2藥物.md",
-    "Pharmacology/特定用途/抗寄生蟲.md",
-    "Pharmacology/Anti-Cancer.md",
+    "Pharmacology/特定用途/高血脂.md",
+    "Pharmacology/特定用途/Diabetes.md",
+    "Pharmacology/Endocrine.md",
+    "Pharmacology/特定用途/Sex hormone.md",
+    "Pharmacology/特定用途/不孕症.md",
+    "Pathology/toolbox/syndrome.md",
+    "Pharmacology/特定用途/腦下腺前葉.md",
+    "Pharmacology/CNS.md",
+    "Pharmacology/特定用途/情緒安定(鋰鹽).md",
+    "Pharmacology/特定用途/Thyroid.md",
+    "Pharmacology/特定用途/腦下腺後葉.md",
+    "Pharmacology/特定用途/PTH-Calcitonin-VitD.md",
+    "Pharmacology/特定用途/骨質疏鬆.md",
+    "Pharmacology/Autocrine.md",
+    "Pharmacology/ANS.md",
+    "Pharmacology/Gastrointestinal.md",
+    "Pharmacology/Cardiovascular.md",
+    "Pharmacology/Blood.md",
+    "Pharmacology/Kidney.md",
+    "Pharmacology/特定用途/青光眼.md",
     "Pharmacology/Immunosuppressants.md",
-    "Pharmacology/特定用途/肝炎病毒藥物.md",
-    "Microbiology/Virus/Hepatitis virus.md",
-    "Pharmacology/特定用途/HHV藥物.md",
-    "Microbiology/Virus/RNA virus/Retrovirus.md",
-    "Pharmacology/特定用途/HIV藥物.md",
-    "Microbiology/Virus/RNA virus.md",
-    "Microbiology/Virus/RNA virus/Orthomyxovirus.md",
+    "Pharmacology/特定用途/Diurectics.md",
+    "Pharmacology/toolbox/第一線.md",
+    "Pharmacology/特定用途/Adrenal gland.md",
+    "Pharmacology/特定用途/抗癌標靶藥物.md",
+    "Pharmacology/Anti-Cancer.md",
     "img/抗病毒藥機轉2.png",
     "img/抗病毒藥機轉.png",
-    "Pharmacology/特定用途/beta lactam.md",
-    "Pharmacology/特定用途/抗蛋白質.md",
-    "Pharmacology/特定用途/抗核酸.md",
-    "Pharmacology/特定用途/抗細胞壁.md",
-    "Pharmacology/特定用途/Glycopeptide.md",
-    "Microbiology/Fungus/系統性典型.md",
-    "Microbiology/Fungus/黴菌分類.md",
     "img/抗黴菌藥機轉.png",
     "img/Baktar機轉.png",
-    "Pharmacology/toolbox/第一線.md",
-    "Pathology/toolbox/syndrome.md",
-    "Pharmacology/特定用途/抗細胞膜.md",
     "img/Cross link抑制.png",
     "img/PDG結構.png",
     "img/抗生素目標.png",

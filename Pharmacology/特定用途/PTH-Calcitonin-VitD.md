@@ -6,9 +6,9 @@
 | PTH        |  + | - | 升鈣 | 破骨、Vit D3、腎留鈣排磷  |
 | Vit D3     |  + | + | 長骨 | 腸吸收 (Calbindin D-28K) |
 | Calcironin |  - | - | 降鈣 | 抑破骨                   |            |
-
-- 持續的PTH : RANKL升，OPG降 -> 蝕骨
-- **Pulsatile PTH*** : RANKL降、OPG升 -> **成骨**
+- PTH有84個胺基酸，1~34 a.a有功能 -> Teriparatide
+- 持續性低劑量PTH : RANKL升，OPG降 -> 蝕骨
+- **Pulsatile 高劑量PTH*** : RANKL降、OPG升 -> **成骨**
 ![[Vit D metabolism.png]]
 ### 骨免疫
 1.RANKL-RANK-OPG system

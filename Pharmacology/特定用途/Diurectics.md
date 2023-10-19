@@ -15,7 +15,7 @@
 >> PCT、Limb中Ca靠Na再吸收，所以排Ca
 - 副作用
 	- 稀釋血液 : **尿酸diffusion回去** -> 痛風
-	- Furosemid + **Aminoglycoside** : **耳毒性**
+	- Furosemide + **Aminoglycoside** : **耳毒性**
 	- Ethacrynic acid : 磺酸少過敏、不會高尿酸
 ## Thiazide
 - 腎源性尿崩 : ADH recptor沒用，DCT、CD的水無法擴散到血管 -> 稀尿
@@ -23,7 +23,7 @@
 	- Furosemid : 超強利尿、用下去尿更多
 	-  [參考連結](https://meddataspeaks.wordpress.com/2015/05/17/%E5%9C%8B%E8%80%83%E8%A7%A3%E9%A1%8C-thiazide%E5%88%A9%E5%B0%BF%E5%8A%91%E7%94%A8%E6%96%BC%E8%85%8E%E5%9B%A0%E6%80%A7%E5%B0%BF%E5%B4%A9%E7%97%87%E7%9A%84%E6%A9%9F%E8%BD%89/)
 - 副作用 #h/red ==Hyper GLUC==
-	- **Glucose、Lipid、Uriac、Ca**
+	- **Glucose、Lipid、Uric acid、Ca**
 	- **抑制排Ca**
 >> 	DCT靠basolateral Na-Ca exchanger吸收鈣，抑制Na流入細胞 -> 促進Ca吸收
 ## 保鉀利尿劑

@@ -50,13 +50,13 @@ graph LR
 
 |      | 藥名                                 | 作用                 |
 |------|--------------------------------------|----------------------|
-| PGE1 | **Miso**prostol                          | 保護**胃**黏膜、降低胃酸 |
+| PGE1 | **Miso**prostol                          | 保護**胃**黏膜、降低胃酸、墮胎引產 |
 |      | **A**lprostadil                          | 開PD**A**                |
 | PGE2 | Dinoprostone                         | 墮胎                 |
-| PGF2 | Lantao**prost**                          | 青光眼               |
+| PGF2 | Lantao**prost**                          | [[青光眼]]               |
 | PGI2 | Epoprostenol、Treprostinil、Iloprost | 降肺高壓             |
 - #h/red  ==喝Miso胃很舒服==
-- Misoprostol、Carboprost : 子宮收縮
+- Misoprostol、Carboprost、Dinoprostone : 子宮收縮
 
 | Leukotriene modifier | 機制        | 藥名        | 特別使用                             |
 |----------------------|-------------|-------------|--------------------------------------|

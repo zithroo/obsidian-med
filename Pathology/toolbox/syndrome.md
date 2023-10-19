@@ -34,5 +34,11 @@
 		- 消化性潰瘍
 		- 抑制發炎
 	- Permission effect : 增加catecholamine敏感度
+- Sheehan's syndrome
+	- 定義 : 產後腦下垂體血流不足而壞死
+	- 原因
+		- 先天 : 腦下垂體血流供應較少
+		- 中間 : 懷孕時PRL細胞大量增生，供不應求
+		- 產後 : 孕婦大出血
 ## 藥物副作用
 - Gray baby syndrome : 使用Chloramphenicol，新生兒肝臟UDP-glucuronyl transferase能力不足，干擾粒線體功能 ^845c1f

@@ -48,7 +48,7 @@
 |       | **Methyldopa**    |         | 孕婦降壓       |
 | b1,b2 | Isoproterenol | b1,b2   | SBP升 DBP降    |
 | b1    | Dobutamine    |         | 強心           |
-| b2    | terol         |         | 氣喘           |
+| b2    | -terol         |         | 氣喘           |
 | b2    | **Ritodrine**     |子宮肌肉放鬆| 安胎           |
 #### $\beta_2$ 氣喘用藥 -terol
 | 分類 |            |            |             |
@@ -78,7 +78,7 @@
 	- #h/red ==Pheno== -> Pheochromocytoma
 	- #h/red ==名字短->診斷==
 - beta : #h/red ==N以後Non-selective，M以前selective==
-	- **Timolol** : **青光眼**[[第一線#ANS|第一線]]
+	- **Timolol** : **[[青光眼]]**
 	- **Esmolol** : **超短效，心律不整診斷**
 - 副作用
 	- $\alpha$ : 姿勢性低血壓 -> 反射性心搏過速
@@ -87,7 +87,7 @@
 - **Carbachol、Ach** : 對Muscarinic+Nicotinic有親和力
 - Benthanechol、Neostigmine : **尿液滯留**
 	- #h/red ==便衣褲(台語)、Neo尿尿==
-- Physosigmine、Pilocarpine、Carbachol : **青光眼**
+- Physosigmine、Pilocarpine、Carbachol : **[[青光眼]]**
 	- #h/red ==Physo肥餿搜(亮光)==
 	- #h/red ==Pilo疲勞 Car開車==
 - Methacholine : Methacholine provocation test，**氣喘**

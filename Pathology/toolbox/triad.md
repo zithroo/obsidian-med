@@ -1,1 +1,2 @@
+- Cushing triad : 腦壓過高時要維持腦部血流 -> 血壓高、心跳慢 (baroreflex)、呼吸不規則 ^057023
 - Hutchinson’s triad : 先天性梅毒、Hutchinson’s teeth、Interstitial keratitis、CN VIII deafness ^56d168

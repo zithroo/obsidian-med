@@ -25,7 +25,7 @@
 ### Hyperthroidism
 #### 急性甲狀腺風暴
 - 原則 : **抑制釋放、抑制甲狀腺素活性、症狀壓制**
-- 抑制釋放 : 碘、[[情緒安定(鋰鹽)|鋰鹽]]
+- **抑制釋放** : 碘、**[[情緒安定(鋰鹽)|鋰鹽]]**
 - **抑制甲狀腺素活性** (T4 -> deiodinase -> T3)
 		- ~~[[心律不整#Class III|Amiodarone]]~~
 		- $\beta$ blocker
@@ -41,7 +41,7 @@
 
 |Thioamide      | Propylthiouracil (PTU)   | Methi**mazole**              |
 |---------------|--------------------------|--------------------------|
-| 共同          | Anti-TPO、Anti Tg        |                          |
+| 共同          | Anti-TPO、Anti Tg        |  Anti-TPO、Anti Tg        |
 | 特點          | 抑deiodinase、用於**急性期** | 長效、**首選**               |
 | 孕婦          | O                        | 穿胎盤、分泌乳汁、**致畸胎** |
 | 副作用 (共同) | 皮疹、白血球過低         | 肝功能異常、SLE syndrome |
