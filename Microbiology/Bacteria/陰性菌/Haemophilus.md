@@ -1,12 +1,13 @@
 - 正常菌相 : 上呼吸道 (除了Hib)
 - Chocolate Agar
-	- 需要factor X (hemin)
+	- 需要factor X (hematin)、factor V (NAD)
 	- #h/blue ==比較== H.influenza <-> [[GNC#Neisseria (嗜氧)|Neisseria]]
-- Satellite Phenomenon : 如果養在未加熱的 blood agar上，H. influenzae長在S. aureus周圍，因為S. aureus會溶血
+- Satellite Phenomenon : 如果養在未加熱的blood agar上，H. influenzae長在S. aureus周圍，因為S. aureus會溶血
 ## H.influenzae
 - capsule : **Hib**的**Polyribitol Phosphate** capsule做[[Vaccine]]
 - 症狀
 	- 兒童 : 腦膜炎、Epiglottitis、關節炎
+		- 腦膜炎中唯一可以加類固醇治療
 	- 老人 : 肺炎、中耳炎
 
 |        | Epiglottitis            | Croup (哮吼)             |

@@ -14,7 +14,7 @@
 | mTOR (-)        | FKBP        | Sirolimus    | 高血脂   |
 - #h/blue ==比較==
 	- Calcineurin (-) : **APC無法活化Th、IL-2不分泌** 、無骨髓抑制
-	- mTOR : **Th無法活化別人、IL-2失效** (全部抑制)
+	- mTOR : **Th無法活化別人、IL-2失效** (全部抑制)、因此有骨髓抑制
 - #h/red ==西螺(Siro)大橋騎摩托(mTOR)==
 ## 抑制淋巴球複製
 | 分類       | 機轉                | 藥名             |

@@ -1,4 +1,0 @@
-- F.tularensis
-	- 絕對需氧
-	- [[intracellular pathgen]]
-	- **兔熱病** : 硬蜱叮咬 -> 潰瘍腺、淋巴腫大

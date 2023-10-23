@@ -1,0 +1,9 @@
+- B.fragilis
+	- 厭氧菌
+	- 正常菌相 : 大腸
+	- Bile-esuclin agar
+		- Bile刺激B.fragilis生長
+		- Gentamycin抑制非厭氧菌
+		- Esuclin被水解產生黑色沉澱
+	- 橫膈膜下膿瘍
+	- 抗生素 : Metronidazole + $\beta$ lactam，不可用Clindamycin

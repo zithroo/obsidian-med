@@ -3,6 +3,7 @@
 		- 唯一Oxidase (-)
 		- Catalase (+) : 葡萄球菌
 - 發酵葡萄糖
+- 可還原nitrate -> nitrite (Urine test strip)
 
 | 腸內桿菌科   |                |                  |
 |--------------|----------------|------------------|
@@ -20,23 +21,24 @@
 - Vi antigen : capsule
 ## E.coli
 - Uropathogenic E. coli (UPEC)
-	- **泌尿道**感染
+	- **泌尿道**感染 (前三名E.coli、K.p、Proteus)
 	- P pili : 黏附
 	- Hemolysin : 溶解RBC、上皮 -> 出血性泌尿道感染
 ***
 
 |      | 毒素              | 機轉       | 症狀                         |
 |------|-------------------|------------|------------------------------|
-| ETEC | Heat **L**iable **T**oxin | [[cAMP toxin]]   | 腹瀉                         |
-|      | Heat **S**table **T**oxin | cGMP (+)   |                              |
-| EHEC | Verotoxin         | **Shiga-like** | 出血、**HUS** (溶血性尿毒症候群) |
-- EH(hemorriage)EC = ST(Shiga Toxin Producing)EC : **O157:H7**
-- [[抑制蛋白質合成毒素|Shiga toxin]]
-- [[syndrome#^d5d267|Hemolytic-Uremic Syndrome]]
+| ETEC | Heat **L**iable **T**oxin | [[cAMP toxin]]   | 旅行者腹瀉                 |
+|      | Heat **S**table **T**oxin | cGMP (+)   |                             |
+| EHEC | Verotoxin         | **Shiga-like** | 出血腹瀉、**HUS**|
+- EH (hemorriage) EC = ST (Shiga Toxin Producing) EC : **O157:H7**
+	- [[抑制蛋白質合成毒素|Shiga toxin]]
+	- [[syndrome#^d5d267|Hemolytic-Uremic Syndrome]] : 溶血性尿毒症候群
+	- 在牛腸道中 -> 牛肉、生乳、附近水源汙染
 ## K.pneumoniae
 - 厚capsule
 - 正常菌相 : 口腔、皮膚、腸道
-- 只伺機性感染 -> **血痰**、各處感染
+- 只伺機性感染 -> **血痰**、UTI、肺炎、DM liver abcess
 ## Salmonella
 | 分類     | Typhoid fever                                                         | Non-Typhi         |
 |----------|-----------------------------------------------------------------------|-------------------|
@@ -50,16 +52,19 @@
 	- 不腹瀉，而是發燒
 	- **先進血液、再進腸道**
 	- [[intracellular pathgen]]
-	- Vi (capsule) Ag : [[Vaccine]]
-	- **Relative Bradycardia** : 發燒時心跳沒變快 (相對慢)，原因為Salmonella、腹腔內abcess、G (-)sepsis、Atypical pneumoniae
+	- Vi (capsule) Ag : [[Vaccine]]、Widal test
+	- **Relative Bradycardia** : 發燒時心跳沒變快 (相對慢)，原因為Salmonella、腹腔內abcess、G (-) sepsis、Atypical pneumoniae
 ## Proteus mibirabilis
 - [[GPB#Listeria (無孢子、嗜氧)|運動性強]] : 故種不出單一菌落 
 	- #h/blue ==比較== 
 		- 運動性 : Listeria、彎曲桿菌、Proteus
-- [[#Helicobacter|Urease]] : 尿結石
-- **Weil-Felix test** : 感染**立克次體**後人產生非特異性Ab，剛好可以和**Proteus**的Ag凝集
+- [[彎桿菌#Helicobacter|Urease]] : 尿結石
+- **Weil-Felix test**
+	- 立克次體無法培養，如何拿到抗原
+	- 感染**立克次體**後人產生非特異性Ab，剛好可以和**Proteus**的Ag凝集
 ## Shigella
 - 超強致病 : $10^2$隻
+- 桿菌性痢疾
 - Shiga toxin : [[抑制蛋白質合成毒素]]、[[syndrome#^d5d267|HUS]]
 	- #h/blue ==比較== Shigella <-> EHEC 
 ## Yersinia

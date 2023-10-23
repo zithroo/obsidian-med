@@ -1,4 +1,0 @@
-- B.fragilis
-	- 正常菌相 : 腸道
-	- 橫膈膜下膿瘍
-	- 抗生素 : Metronidazole + $\beta$ lactam，不可用Clindamycin

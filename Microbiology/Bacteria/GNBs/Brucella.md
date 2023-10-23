@@ -1,3 +1,0 @@
-- 絕對需氧
-- [[intracellular pathgen]]
-- Brucellosis / **Undulant Fever** (波狀熱) : 反覆下午發燒，晚上至隔天退燒

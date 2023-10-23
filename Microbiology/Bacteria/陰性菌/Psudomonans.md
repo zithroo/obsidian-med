@@ -1,6 +1,7 @@
 ## P.aeruginosa
 - 絕對需氧
 - 色素 (墨綠色金屬)、葡萄味
+- 不發酵葡萄糖、Oxidase (+)、不能還原nitrate
 - [[抑制蛋白質合成毒素]]
 - **想到水**
 
@@ -12,4 +13,9 @@
 | 伺機性 | 傷口、導尿管 |                       |
 ## P.pseudomallei
 - 現名 : Burkholderia psudomallei
-- **類鼻疽** (Meilioidosis) : 皮膚潰瘍、肺炎、敗血症
+- 長在濕泥土 : 颱風過後塵土飄起來 -> 吸入
+	- #h/blue ==比較== 颱風過後 : [[GNS#Leptospira interrogans|問號鉤端螺旋體]]
+- **類鼻疽** (Meilioidosis)
+	- 皮膚接觸 : 皮膚潰瘍、淋巴腺炎
+	- 吸入 : 肺炎、敗血症
+	- 園藝、農夫 : 戴手套、穿膠鞋、戴口罩

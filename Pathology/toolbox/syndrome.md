@@ -5,12 +5,12 @@
 - Hemolytic-Uremic Syndrome ^d5d267
 	- **溶血性貧血**->**血栓**->**急性腎損傷**
 	- RBC溶解、Platelet降、腎衰竭
-	- 最常見 : Shiga toxin溶血 -> 腎臟
+	- 最常見 : Shiga toxin溶血 -> 腎臟，少數由S.pneumoniae引起
 - Waterhouse-Friderichsen syndrome (猛爆性腦膜炎雙球菌菌血症) : 嚴重sepsis、DIC、兩側腎上腺由髓質擴展到皮質的大出血 ^2e720f
 ## Autoimmune
 - Guillain-Barre syndrome ^518a34
 	- Acute inflammatory demyelinating poly-radiculo-neuropathy
-	- 致病機轉：先有其他病毒感染後引發免疫反應，造成周邊神經以及脊神經發炎
+	- 致病機轉 : 先有其他病毒感染後引發免疫反應，造成周邊神經以及脊神經發炎
 	- 病變 : Segmental demyelination (**髓鞘受傷，axon還好**)
 	- 上行性麻痹 : 影響運動能力，Sensory 正常，遠端四肢無力 -> 心肌、橫膈肌
 	- 治療 : IVIG、steroid、血漿置換
@@ -42,3 +42,4 @@
 		- 產後 : 孕婦大出血
 ## 藥物副作用
 - Gray baby syndrome : 使用Chloramphenicol，新生兒肝臟UDP-glucuronyl transferase能力不足，干擾粒線體功能 ^845c1f
+- Reye syndrome : < 18歲，感染流感或水痘，用Aspirin退燒，導致急性肝臟衰竭、肝性腦病變 ^80f5f5

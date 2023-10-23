@@ -22,7 +22,7 @@
 ***
 - 腸內菌Oxidase (-)，其他都(+)
 - #h/blue ==比較==
-	- [[呼吸道菌#Bordetella|Bordetella]] : 百日咳
+	- [[Bordetella]] : 百日咳
 	- [[Brucella]] : 牛
 	- [[GN絕對胞內#Bartonella|Bartonella]] : 貓抓病
 	- Borrehia : 螺旋菌、萊姆病

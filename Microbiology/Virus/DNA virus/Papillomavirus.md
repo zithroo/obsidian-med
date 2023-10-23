@@ -8,6 +8,7 @@
 - 通常只會感染上皮細胞、形成疣 (wart)，除了
 	- High risk : 16、18
 	- Low risk : 6、11
+- 大多人自己痊癒
 - **子宮頸、肛門生殖器、頭頸部SCC**
 - #h/blue ==比較== 
 	- Condyloma acuminatum <-> [[GNS#梅毒症狀|Codyloma latum]]

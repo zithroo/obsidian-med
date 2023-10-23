@@ -1,0 +1,5 @@
+- F.tularensis
+	- 絕對需氧
+	- [[intracellular pathgen]]
+	- **兔熱病** (Glandular fever、Tick fever)
+		- 硬蜱叮咬 -> 潰瘍腺、淋巴腫大

@@ -10,7 +10,7 @@
 ## Staphylococcus (catalase +)
 ### S.aureus (coagulase +)
 - $\beta$ 溶血
-- Protein A : **主要毒力因子**、中和抗體、防止調理
+- Protein A : **主要毒力因子**、中和抗體Fc區、防止調理
 - Cogulase (+)
 - hyaluronidase、fibrinolysin
 - 毒素 (**Super Ag**)
@@ -38,7 +38,7 @@
 	- 正常菌相 : 口咽、呼吸道
 	- **最常見**肺炎、腦膜炎、急性中耳炎、鼻竇炎
 	- Urine Ag test
-		- #h/blue ==比較== S.pneumoniae <-> [[呼吸道菌#Legionella|Legionella]]
+		- #h/blue ==比較== S.pneumoniae <-> [[Legionella]]
 2. Viridans Streptococci (草綠色鏈球菌)
 	- **牙科**、**亞急性心內膜炎**
 	- #h/blue ==比較== 心內膜炎

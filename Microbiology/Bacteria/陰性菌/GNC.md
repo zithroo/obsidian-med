@@ -1,10 +1,11 @@
 ## Neisseria (嗜氧)
 - [[人類唯一宿主]]
 - Oxidase (+)
-- Chocolate Agar
-	- #h/blue ==比較== Neisseria <-> [[呼吸道菌#Haemophilus|Haemophilus]]
+- Chocolate Agar : 需要factor X (hematin)
+	- #h/blue ==比較== Neisseria <-> [[Haemophilus]]
 - 室溫下容易死亡
 - 雙球菌
+- 治療 : Ceftriaxone (過BBB又可治淋病)
 
 |           | 腦膜炎雙球菌 | 淋病雙球菌    |
 |-----------|--------------|---------------|
