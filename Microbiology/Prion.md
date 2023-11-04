@@ -1,11 +1,13 @@
 - 異常摺疊蛋白  (α-to-β structural transition)
+	- PrP$^c$ (抑制neuron apoptosis) -> PrP$^{sc}$
 	- 疊的很堅固 : 福馬林、紫外線、高溫沒用
 	- 人體蛋白 : 沒有強烈免疫反應
+- 疾病 : Kuru disease、CJD、Bovine spongiform encephalopathy (狂牛症)、Scrapie (羊搔癢症)
 - Creutzfeldt-Jakob disease (CJD)
 	- 病理特徵
 		- Spongiform degeneration
 		- 星形膠質細胞增生 (Astrocytic gliosis)
-	- 臨床表徵 : 快速進展性癡呆、肌躍症、視力障 礙、運動失調、錐體、錐體外症候群、發病一年內死亡
+	- 臨床表徵 : 快速進展性癡呆、肌躍症、視力障礙、運動失調、錐體、錐體外症候群、發病一年內死亡
 	- 診斷方式
 		- MRI (Cortical ribbon sign)
 		- EEG (Periodic sharp wave complex) 

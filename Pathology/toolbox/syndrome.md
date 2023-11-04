@@ -9,7 +9,7 @@
 - Waterhouse-Friderichsen syndrome (猛爆性腦膜炎雙球菌菌血症) : 嚴重sepsis、DIC、兩側腎上腺由髓質擴展到皮質的大出血 ^2e720f
 ## Autoimmune
 - Guillain-Barre syndrome ^518a34
-	- Acute inflammatory demyelinating poly-radiculo-neuropathy
+	- 定義 : Acute inflammatory demyelinating poly-radiculo-neuropathy
 	- 致病機轉 : 先有其他病毒感染後引發免疫反應，造成周邊神經以及脊神經發炎
 	- 病變 : Segmental demyelination (**髓鞘受傷，axon還好**)
 	- 上行性麻痹 : 影響運動能力，Sensory 正常，遠端四肢無力 -> 心肌、橫膈肌
@@ -29,12 +29,26 @@
 		- 部分Testosterone -> 體毛增加
 	- 免疫低下 (IL-2降)
 		- 降 : 嗜酸、嗜鹼、淋巴球、單核球、Mast cell分泌
-		- 增 : RBC、嗜中、血小板
+		- 數量增 : RBC、嗜中 (但功能下降)、血小板
 	- 花生四烯酸代謝 (PLA2)
 		- 消化性潰瘍
 		- 抑制發炎
-	- Permission effect : 增加catecholamine敏感度
-- Sheehan's syndrome
+	- Permission effect : 增加Catecholamine、Glucagon敏感度
+	- 微血管擴張、臉潮紅
+- Liddle syndrome ^5cf8b6
+	- Epithelial Na Channel (Amioride sodium channel) 基因突變不易降解，Aldosterone作用時間加長
+	- AR
+- Nelson syndrome ^1cc9a5
+	- 定義 : 腎上腺切除後腦下腺分泌ACTH的細胞增長，ACTH過高
+	- Cushing syndrome過高時考慮摘除腎上腺，反而使腦下腺產生Macroadenoma
+	- ACTH過高 -> $\alpha$ MSH -> 色素沉澱
+- Polycystic ovarian syndrome (POCS) ^6b9247
+	- 定義 : 卵巢內有許多不成熟的濾泡
+	- 原因 : LH過高
+		- 卵巢內太多顆濾泡、但來不及成熟
+		- 刺激Leydig cell分泌Androgen
+	- 唯一合法藥物[[Sex hormone#Estrogen|Clomiphene]]
+- Sheehan syndrome ^74e1a7
 	- 定義 : 產後腦下垂體血流不足而壞死
 	- 原因
 		- 先天 : 腦下垂體血流供應較少

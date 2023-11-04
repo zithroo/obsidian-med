@@ -45,7 +45,7 @@
 | 痲瘋素檢測 |              (+)             |        (-)       |
 | 菌量       |              少              |        多        |
 | 傳染力     |              弱              |        強        |
-| 病理       |         Lagerhan cell        | Foamy macrophage |
+| 病理       |         Langerhan's giat cell| Foamy macrophage |
 | 症狀       | 周圍神經炎、臉部脫屑、沒感覺 |      獅子臉      |
 ## NTM
 - 環境中正常菌，只會**伺機性感染**

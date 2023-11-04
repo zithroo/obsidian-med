@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c00401a0a9c092be",
+        "id": "7aa41af9505f1309",
         "type": "tabs",
         "children": [
           {
-            "id": "4887d42deadda970",
+            "id": "21efa04cb4d3f237",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microbiology/Virus/DNA virus/Human herpes virus.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "cyclohex",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiology/Virus/DNA virus/Human herpes virus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Microbiology/Virus/DNA virus/Human herpes virus.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiology/Virus/DNA virus/Human herpes virus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,49 +148,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4887d42deadda970",
+  "active": "21efa04cb4d3f237",
   "lastOpenFiles": [
-    "Pathology/toolbox/syndrome.md",
+    "Microbiology/Virus/RNA virus/Calicivirus.md",
+    "Microbiology/病毒分類.md",
+    "Microbiology/Virus/RNA virus/Bunyavirus.md",
+    "Microbiology/Virus/RNA virus/Arenavirus.md",
+    "Microbiology/Virus/RNA virus/Coronavirus.md",
+    "Microbiology/Virus/RNA virus/Retrovirus.md",
+    "Microbiology/Virus/RNA virus/Filovirus.md",
+    "Microbiology/Virus/RNA virus/Rhadovirus.md",
+    "Pathology/toolbox/body.md",
+    "Microbiology/Virus/RNA virus/Togavirus.md",
+    "Microbiology/Virus/RNA virus/Flavivirus.md",
+    "Microbiology/Vaccine.md",
+    "Microbiology/Virus/RNA virus/Picornavirus.md",
+    "Microbiology/Virus/RNA virus/Reovirus.md",
+    "Microbiology/Bacteria/陰性菌/Haemophilus.md",
+    "Microbiology/Bacteria/陽性菌/Corynebacterium.md",
+    "Microbiology/Bacteria/陽性菌/Clostridium.md",
+    "Microbiology/Bacteria/陰性菌/Bordetella.md",
+    "Microbiology/Virus/致癌病原.md",
     "Microbiology/Virus/DNA virus/Human herpes virus.md",
-    "Pasted image 20231023135329.png",
-    "Microbiology/Virus/DNA virus.md",
-    "Microbiology/Virus/DNA virus/Adenovirus.md",
-    "Microbiology/Virus/DNA virus/Papillomavirus.md",
-    "Microbiology/Bacteria/細菌分類.md",
-    "Microbiology/Bacteria/陽性菌/GPB.md",
-    "Microbiology/Bacteria/陽性菌/GPC.md",
-    "Microbiology/Bacteria/陰性菌/Bacteroid.md",
+    "Microbiology/Bacteria/陰性菌/彎桿菌.md",
     "Microbiology/Bacteria/陰性菌/GNB.md",
-    "Microbiology/Fungus/表皮黴菌.md",
-    "Microbiology/Fungus/系統性非典型.md",
-    "Microbiology/Fungus/系統性典型.md",
-    "Microbiology/Virus/RNA virus.md",
-    "Microbiology/Virus/Hepatitis virus.md",
-    "Microbiology/Virus/病毒分類.md",
+    "Microbiology/細菌分類.md",
+    "Microbiology/Virus/DNA virus/Adenovirus.md",
+    "Microbiology/Virus/DNA virus.md",
+    "Microbiology/Virus/DNA virus/Papillomavirus.md",
+    "img/HIV viral protein.png",
+    "img/HIV viral protein.png",
+    "img/Reverse transcriptase.png",
+    "img/腎上腺皮質抑制藥物.png",
+    "Pasted image 20231023135329.png",
     "Microbiology/Bacteria/其他菌",
-    "Microbiology/Bacteria/其他菌/Mycobacteria.md",
-    "Microbiology/Bacteria/其他菌/Mycoplasma.md",
-    "Microbiology/Bacteria/陰性菌/GN絕對胞內.md",
     "Microbiology/Bacteria/陽性菌",
     "Microbiology/Bacteria/陰性菌",
-    "Microbiology/Bacteria/陰性菌/Psudomonans.md",
-    "Microbiology/Bacteria/陰性菌/GNC.md",
-    "Microbiology/Bacteria/陰性菌/Brucella.md",
-    "Microbiology/toolbox/intracellular pathgen.md",
-    "Microbiology/Bacteria/陰性菌/Francisella.md",
-    "Microbiology/Bacteria/陰性菌/Yersinia.md",
-    "Microbiology/Bacteria/陰性菌/Bordetella.md",
     "img/Arachidonic acid pathway.png",
     "img/抗病毒藥機轉2.png",
     "img/抗病毒藥機轉.png",
     "img/抗黴菌藥機轉.png",
     "img/Baktar機轉.png",
-    "img/Cross link抑制.png",
-    "img/PDG結構.png",
-    "img/抗生素目標.png",
     "Microbiology/Fungus",
     "Microbiology/Bacteria/GPBs",
-    "img/慢性肝炎.png",
     "Microbiology/Virus/RNA virus",
     "Untitled.canvas",
     "Microbiology/Virus/DNA virus",

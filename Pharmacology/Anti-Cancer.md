@@ -47,7 +47,14 @@
 - MTX骨髓抑制解藥
 	- MTX、**Leucovorin** (補充THF) **交替**使用
 - #h/blue ==比較==
-	- Sulfonamides (模仿PABA，抑Dihydropteroate synthase，只存在細菌中) <-> MTX (模仿folate，抑Dihydrofolate reductase，人類有)
+	- [[抗核酸|Sulfonamide]] (模仿PABA，抑Dihydropteroate synthase，只存在細菌中) <-> MTX (模仿folate，抑Dihydrofolate reductase，人類有)
+	
+| 酵素                         | 抑制        |
+|------------------------------|-------------|
+| Dihydropteroate synthase     | Sulfonamide |
+| Dihydrofolate reductase      | MTX、TMP    |
+| Dihydroorotate dehydrogenase | Leflunomide |
+| Dihydrobiopterine reductase  | PKU病患     |
 ## G2 / Late S phase (-)
 1. Top I (-)
 	- 拆一股接一股

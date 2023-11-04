@@ -1,4 +1,5 @@
-### HPV
+- Papovaviridae : Papilloma、Polyma、vacuole (大泡泡)
+## HPV
 | 侵犯位置 | 分型   | 病名                                  |
 |----------|--------|---------------------------------------|
 | 皮膚     | 1、2   | Common wart                           |
@@ -23,7 +24,9 @@
 - Integrated form : DNA斷裂嵌入，惡性
 	- Early gene的E1、E2斷裂，無法抑制E6、E7
 - HPV 類似promotor，本身不致癌 (**抑制抑癌基因**)，要同時有突變基因問題等，才會導致SCC
-### Polymavirus
+- #h/blue ==比較==
+	- 病毒大多用Early protein 影響Cell cycle來致癌 <-> 除了[[Human herpes virus#EBV 機轉|EBV]]
+## Polymavirus (多瘤病毒)
 - BK virus : 腎臟病
 - **JC virus**
 	- 免疫不全病人
@@ -33,3 +36,4 @@
 - Merckle cell polymavirus
 	- 免疫抑制老人曬太陽
 	- Merckle cell carcinoma
+- SV40 (Simian virus 40) : 靈長類腫瘤 (人除外)

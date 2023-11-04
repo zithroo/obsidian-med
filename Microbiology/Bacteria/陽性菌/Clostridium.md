@@ -22,7 +22,7 @@
 - 治療
 	- clean/minor傷口
 		- 清創、抗生素
-		- [[Vaccine#DTP|Vaccine]] (Tetanus toxoid) : **非治療**，只能預防之後的受傷
+		- [[Vaccine#DTaP-Hib-IPV|Vaccine]] (Tetanus toxoid) : **非治療**，只能預防之後的受傷
 	- 嚴重傷口 : human tetanus immune globulin
 ## C.perfringens
 - 產氣 : milk plate上產生暴風雨般的發酵

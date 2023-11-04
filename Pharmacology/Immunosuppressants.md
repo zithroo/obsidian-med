@@ -29,8 +29,9 @@
 	- IMP dehydrogenase (-) : IMP -> XMP，最後抑制GMP生成，同[[抗病毒#HCV|Ribavirin]]
 	- 抑制Purine的**De novo pathway**
 	- 較不影響一般細胞 : 走slavage pathway
-- Dihydroorotate dehydrogenase : pyrimidine->UMP
-- #h/red ==魯夫(Leflu)歐歐叫(ooro)==
+- Dihydroorotate dehydrogenase
+	- Pyrimidine->UMP
+	- #h/red ==魯夫(Leflu)歐歐叫(ooro)==
 ## Cytokine (-)
 | 抑制       | 藥名                               | 治療             |
 |------------|------------------------------------|------------------|

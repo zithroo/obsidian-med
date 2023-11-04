@@ -3,8 +3,9 @@
 	- Double RNA : 雙股分段
 	- Double capsid
 ## Rotavirus
-- Group A : **幼兒**腸胃炎 (主)
+- Group A : **幼兒**腸胃炎 (主)，秋冬嬰兒腹瀉
 - Group B : 中國Adult diarrhea rotavirus
+- Latex agglutination test
 - 口服[[Vaccine]]
 	- RotaTeq
 	- Rotarix

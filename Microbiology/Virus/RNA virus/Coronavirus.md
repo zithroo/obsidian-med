@@ -1,8 +1,11 @@
 - 最大的RNA病毒
 	- #h/blue ==比較== 最大DNA病毒 [[Poxvirus]]
 - Common cold第二名 : [[Picornavirus#Rhinovirus|Rhinovirus]]第一
+- 人類性冠狀病毒生長於33~35度，所以只停在上呼吸道
+- 動物性冠狀病毒生長於37度，可以全身感染
 ## SARS
 - 蝙蝠、果子狸
+- 發燒時才有傳染力
 ## MERS
 - 駱駝
 ## SARS-COV-2

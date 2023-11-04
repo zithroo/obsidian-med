@@ -8,4 +8,4 @@
 	- 診斷
 			- Elek test : 免疫檢測**毒素**
 			- Schik test : 皮下注射毒素檢測**抗體**
-	- [[Vaccine#DTP]]
+	- [[Vaccine#DTaP-Hib-IPV]]

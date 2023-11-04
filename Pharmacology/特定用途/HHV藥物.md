@@ -14,10 +14,10 @@
 - #h/blue ==比較==
 
 |是否需要Thymidine kinase|  病毒TK |  宿主TK |
-|------------|:-------:|:-------:|
+|:------------:|:-------:|:-------:|
 | Acyclovir  | O (+1P) | O (+2P) |
 | Cidofovir  |    X    | O (+2P) |
-| Zidovudine |    X    | O (+3P) |
+| Zidovudine (AZT) |    X    | O (+3P) |
 | Foscarnet  |    X    |    X    |
 ## 核甘酸類似物
 - Acyclovir : Prodrug、三次磷酸化、競爭d**G**TP

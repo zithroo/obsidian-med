@@ -1,6 +1,6 @@
 | 病毒 | 別名 | 疾病                                                            |
 |------|------|-----------------------------------------------------------------|
-| HHV1 | HSV1 | 齦口炎、腦炎 (上)、Herpetic Whitlow                               |
+| HHV1 | HSV1 | 齦口炎、腦炎、Herpetic Whitlow (上)                               |
 | HHV2 | HSV2 | 生殖器、TORC**H** (下)                                                 |
 | HHV3 | VZV  | 水痘、帶狀皰疹                                                  |
 | HHV4 | EBV  | Kissing disease、Infectous mononucleosis、Brukkit lymphoma、Hodgkin lymphoma、NPC|
@@ -27,5 +27,15 @@
 - 症狀
 	- 小孩 : 無症狀
 	- 青少年 : Kissing disease (淋巴腫大、咽喉炎)
+### EBV 機轉
+- LMP-1 (Latent membrane protein)
+	- 抑制B cell apoptosis
+	- 活化STAT -> NF-$_\kappa$B -> 增加MHC表現 ->活化T cell
+	- 分泌IL-10 -> 走向TH2 -> 分泌IL-4 -> B cell增生
+## CMV
+- 傳染 : 接觸、器官移植、垂直感染
+- Cytomegalic inclusion disease
+- 類單核球增多症，但沒有Heterophilic body
+- 新生兒 : 肺炎、腎炎、肝炎
 ## HHV-6
 - 玫瑰疹: 不明原因高燒3~5天 -> 起疹子後1~2天退燒

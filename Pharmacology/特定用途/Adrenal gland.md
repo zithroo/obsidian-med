@@ -12,16 +12,30 @@
 | 36~55 hr        | Betamethasone       |   35   |     0    |
 |                 | **Dexamethasone**       |   30   |     0    |
 - 作用越快、抗發炎越差、越有水腫副作用
-- -prednisolone : [[Asthma#Quick relief]]
+- Prednisolone : [[Asthma#Quick relief]]
 - Dexamethasone (**過BBB**)
 	- 腦水腫降壓
 	- 診斷Cushing syndrome或Ectopic ACTH
+- Cortsol drug分為活化 (11C接OH)、不活化 (11C接O)
+	- 靠11$\beta$ hydroxysteroid DH.轉換
+	- Type I 表現在肝，不活化 -> 活化
+	- Type II表現在腎，活化 -> 不活化
+	- 一般都使用活化的藥物，除了
+		- 肝功能差、局部用藥 : 必用活化態
+		- 孕婦 : 必用不活化態
 ## 抑制皮質藥物
 ![[Cortex synthase pathway.png]]
 ### Receptor Antagonist
-1. Spirolactone、Eplerenone : Aldosterone (-)
-2. Cyproterone、Flutamide : Androgen (-)
-3. **Mifepristone** (RU486) : Progesterone (-)、墮胎
+|              | 醛固酮 | 雄性素 | Progesterone | Estrogen |
+|--------------|:------:|:------:|:------:|:------:|
+| Spirolactone |    **O**   |    **O**   |        |        |
+| Eplerenone   |    O   |        |        |        |
+| Cyproterone  |        |    O   |        |        |
+| Flutamide    |        |    O   |        |        |
+| Mifepristone |        |    **O**   |    **O**   |        |
+| Fulvestrant  |        |        |        |    O   |
+- Spirolactone : 原本當利尿劑，副作用 : 男性女乳
+- [[Sex hormone#Progesterone|Mifepristone]] : 當墮胎，也可抑制Glucocorticol
 ### Synthesis Inhibitor
 | 藥名              | 抑制                | 礦物皮質 | 糖皮質 | 性腺 |
 |-------------------|---------------------|----------|--------|------|
@@ -34,4 +48,6 @@
 	- 治療Cushing syndrome或性腺、別想醛固酮
 	- 不抑制的激素會升高
 - Ketoconazole : 黴菌用藥、CYP450 inhibitor
+- Mitotane : 抑制皮質粒線體，等於化學性切除
 - #h/red ==Metyrapone打炮砰砰砰，性慾提高==
+![[腎上腺皮質抑制藥物.png]]

@@ -40,6 +40,8 @@
 - 胚胎 : 中(T cell) + 外(上皮網狀細胞)
 - 每個小葉
 	1. Cortex : T多、上皮網狀少
+		- Positive selection : 皮質上皮細胞
+		- Negative selection : 皮髓交界Dentritic cell
 	2. Medulla : T少、上皮網狀多、**Hassall body/Thymic corpuscle**
 ### Spleen (TBM)
 1. White pulp

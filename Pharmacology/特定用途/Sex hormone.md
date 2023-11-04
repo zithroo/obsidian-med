@@ -1,4 +1,5 @@
 ## GnRH
+- GnRH應該為Pustile釋放，濃度穩定高或低都會抑制
 - Leuprolide
 	- GnRH analog，但最後**抑制**FSH、LH
 	- 性腺抑制、子宮內膜異位
@@ -23,11 +24,13 @@
 |---------------|--------------|------------|
 | SERM          | Tamoxifen    | 停經前乳癌 |
 |               | Raloxifene   | 停經後骨鬆 |
-|               | **Clomiphene**   | 排卵針     |
+|               | **Clomiphene**   | 排卵針、PCOS     |
 |E receptor (-) | Fulvestrant  | 最後線乳癌 |
 | Aromatase (-) | -trozole | 停經後乳癌 |
 - [[骨質疏鬆#雌激素]] : E、E+P、SERM的不同
-- Clomiphene : **抑制中樞Estrogen receptor負回饋** -> 排卵
+- Clomiphene
+	- **抑制下視丘Estrogen receptor負回饋** -> 排卵、治療[[syndrome#^6b9247|Polycystic ovarian syndrom]]
+	- 卵巢的Estrongen (+) : 促卵成熟
 - #h/red ==Clone me (複製生小孩)==
 - Estrogen
 	- 停經前 <- 卵巢granulosa cell
@@ -38,9 +41,11 @@
 |--------------|----------------|----------|
 | P (+)        | Levonorgestrel | 射後避孕 |
 | P receptor (-)| Mifepristone   | 早期墮胎     |
+- Levonorgestrl : 抑制LH surge
 - Mifepristone (RU486)
-	- Progesterone、Androgen、Corticosteroid (-)
-	- **非Estrogen (-)**、墮胎
+	- Progesterone、Androgen、Glucocorticol (-)
+	- **非Estrogen (-)**
+	- G (-) : 治療Cushing syndrome (無法切除腫瘤時)
 	- #h/red ==米妃pre私通，早點墮掉==
 ## 不孕
 - [[不孕症]]

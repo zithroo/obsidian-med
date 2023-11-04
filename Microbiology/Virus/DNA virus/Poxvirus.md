@@ -2,10 +2,12 @@
 	- 大到自己帶DNA pol、RNA pol -> **質**內複製
 	- 大到複合型病毒
 - 潛伏性感染
+- 細胞質出現Inclusion body : Garnieri body
 - 呼吸傳染 : 天花 (Small pox / Variola virus)
 	- 黏膜 -> 淋巴結 -> 病毒血症 -> 發燒、紅疹
-	- 活牛痘疫苗Vaccinia
-	- #h/blue ==比較== Small pox <-> Chicken pox
+	-  #h/blue ==比較== Small pox <-> Chicken pox
+- [[Vaccine]] : 活牛痘Vaccinia virus
+	- 是水牛痘，不是Cowpox (乳牛痘)
 - 接觸傳染
 	- 傳染性軟疣 (Molluscum contagiosum) : 白色腫塊，中間凹陷
-	- 猴痘 : 性傳染
+	- 猴痘 : 性傳染 (男男性行為)、人畜共通
