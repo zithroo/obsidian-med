@@ -22,10 +22,11 @@
 ### 梅毒篩檢
 |        | Nontreponemal Test              | Treponemal Test              |
 |--------|---------------------------------|------------------------------|
-| 測甚麼 | Anti-cardiolipin                | Anti-T. pallidum Ab          |
+| 測啥 | Anti-cardiolipin                | Anti-T. pallidum Ab          |
 | 試驗   | VDRL、RPR                       | TPHA、FTA-ABS                |
-| 用途   | 篩檢 (Screen)                   | 確診 (Confirm)、治癒後仍陽性 |
-| FALSE  | SLE、IV毒品、孕婦 (+)、AIDS (-) | 正常人1~2% (+)               |
+| 用途   | 篩檢(Screen)、追蹤藥效          | 確診 (Confirm)、治癒後仍陽性 |
+| FALSE  | **SLE**、IV毒品、孕婦 (+)、AIDS (-) | 正常人1~2% (+)               |
+- 第三期梅毒Neurosyphilis只能CSF測VDRL
 ## Borrelia burgdorferi
 - 蜱蝨的不同症狀
 	- **體蝨、軟**蜱 : **迴歸熱**
@@ -40,4 +41,4 @@
 - 絕對需氧
 - 生長在**老鼠腎小管** -> 尿 -> 人傷口接觸
 - 輕症 : Flu-like
-- 重症 :  [[新同學#^2be150 | Weil disease]]
+- 重症 : [[新同學#^2be150 | Weil disease]]

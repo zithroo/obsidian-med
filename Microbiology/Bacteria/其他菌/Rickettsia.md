@@ -6,11 +6,10 @@
 | 叢林型斑疹傷寒 (Scrub)                      | O.tsutsugamushi | 恙蟲 (螨) |
 | Q Fever                                     | C.burnetii      | 軟蜱      |
 | Human monocytic ehrlichiosis                | Ehrlichia       | 硬蜱      |
-
 - [[疾病比較|口訣]]
-- [[Enterobacteriaceae#Proteus mibirabilis|Weil-Felix test]] : 以血清反應區分立克次體，**和Proteus有關**
+- [[Weil-Felix test]] : 以血清反應區分立克次體，**和Proteus有關**
 ## Orienta tsutsugamushi
-- 恙蟲**幼蟲**叮咬
+- 恙蟲**幼蟲**爬到身體皺褶處叮咬
 - 發燒
 - 洞穿性焦痂 (eschar) : 感染血管內皮 -> 血管炎、栓塞
 ## Coxiella burnetti

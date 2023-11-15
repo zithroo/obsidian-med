@@ -28,7 +28,6 @@
 |----------------------|-------------|-------------|--------------------------------------|
 |                      | 5-LOX (-)   | Ze**leuton**    | Aspirin induced Asthma、不會吸的小孩 |
 |                      | Recptor (-) | Zafir**lukast** |                                      |
-
 ## COX下產物
 - PGE/F : Prostaglandin、PGI : Prostacyclin
 - 原則
@@ -41,7 +40,7 @@
 | PGE1 | **Miso**prostol                          | 保護**胃**黏膜、降低胃酸、墮胎引產 |
 |      | **A**lprostadil                          | 開PD**A**                |
 | PGE2 | Dinoprostone                         | 墮胎                 |
-|      | Carbo**prost**                           | 引產、墮胎           |
+| PGF2 | Carbo**prost**                           | 引產、墮胎           |
 |      | Lantao**prost**                          | [[青光眼]]               |
 | PGI2 | Epoprostenol、Treprostinil、Iloprost | 降肺高壓             |
 - #h/red  ==喝Miso胃很舒服==

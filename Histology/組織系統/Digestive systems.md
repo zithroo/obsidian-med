@@ -12,7 +12,8 @@
 3. 迴腸Peyer patch
 #### Muscularis mucosae
 ### Submucosa(最多神經血管淋巴管)
-1. **食道、十二指腸(Bruenner)腺體**
+1. **食道、十二指腸 (Bruenner) 腺體**
+	- #h/red ==大胃腸黏，下指食 (大衛長年下指示)==
 2. 胃皺壁、小腸環狀皺壁為**mucosa+submucosa**組成
 3. **Meissner's** plexus
 ### Muscularis externa (default : 內環外縱)
@@ -29,7 +30,7 @@
 - 腹膜內器官 
 	1. 胃、**十二指腸1 part**、其他小腸、**盲腸**、橫結腸、乙狀結腸、
 	   直腸上**2/3**、**脾**
-	2. 卵巢、輸卵管、子宮(頸除外)
+	2. 卵巢、輸卵管、子宮 (頸除外)
 - 腹膜後器官
 	1. **十二指腸234 part、升結腸、降結腸、胰**
 	2. 腎上腺、腎、輸尿管、膀胱
@@ -54,10 +55,10 @@
 - 最容易結石 : submandibular gland
 比較[[#胰#外分泌|胰腺]]
 1. acinar cell : **單立**，有[[myoepithelium]]
-2. intralobular duct(內)
+2. intralobular duct (內)
 	1. intercalated duct (閏管) : **單立**、吸收$Cl^-$排$HCO3^-$
-	2. striated duct(紋管) : **單柱**、吸Na排K、有**basal striatum** (基底面向內皺褶，皺褶內有很多粒線體)、嗜酸性(粒線體多)
-3. interlobular duct(間) : 排出管、**偽複柱**
+	2. striated duct (紋管) : **單柱**、吸Na排K、有**basal striatum** (基底面向內皺褶，皺褶內有很多粒線體)、嗜酸性 (粒線體多)
+3. interlobular duct (間) : 排出管、**偽複柱**
 
 ## 胃
 - 胃腺全在**mucosa**內
@@ -66,19 +67,21 @@
 	- 廣布胃壁、有大型頂杯、**mucinogen granule**、分泌不可溶(雲霧狀)黏液、[[Intercellular junction#Tight junction|tight junction]]
 ### Fundic gland
 - **[[單式管腺型]]**
-1. mucous neck cell #h/red ==(fundus、body)==
+1. mucous neck cell #h/fuchsia  ==(fundus、body)==
 	- 分泌可溶性黏液，是胃液的一部分，只有迷走神經刺激才會分泌
 2. stem cell : **GI唯一幹細胞不在底部**
-3. parietal cell #h/red ==**(fundus、body)**==
+3. parietal cell #h/fuchsia  ==**(fundus、body)**==
 	- **嗜酸**性 : 粒線體for$H^+-K^+$pump
 	- **tubovesicular system**
-	- HCl->活化pepsin+小腸吸收**鐵**、**內在因子**->到迴腸吸收B12
-4. chief cell #h/red ==**(fundus、body)**==
-	- 嗜**鹼性** : rER(pepsinogen、lipase分泌)
+	- 分泌HCl->活化pepsin+小腸吸收**鐵**
+	- 分泌**內在因子**->到迴腸吸收B12
+4. chief cell #h/fuchsia  ==**(fundus、body)**==
+	- 嗜**鹼性** : rER (pepsinogen、lipase分泌)
 5. enteroendocrine cell
 	- G cell : #h/lime  ==**antrum**==
-	- ECL cell : histamine -> 促parietal cell
+	- ECL cell : histamine -> 促parietal cell #h/fuchsia   ==**fundus**==
 	- D cell : somatostain -> 抑parietal cell
+	- P/D1 cell : ghrelin -> 促下視丘食慾
 ### 比較
 |         |   類型   |     細胞    |
 |:-------:|:--------:|:-----------:|
@@ -117,7 +120,7 @@
 ### 外分泌
 1. acinar cell : **單立**、 #h/red ==有centrolacinar cell (為插到腺泡的閏管細胞)、無myoepithelium==
 2. intercalated duct (閏管)  : **單立**、吸收$Cl^-$排$HCO3^-$
-3. intralobular duct : **單柱**、 #h/red ==無basal striatum==所以不叫紋管、吸Na排K
+3. intralobular duct : **單柱**、 #h/red ==無basal striatum==所以不叫紋管、吸Na排K (但BRS p.223說沒有)
 4. interlobular duct
 ### 內分泌
 1. $\beta$ cell (70%)
@@ -135,7 +138,7 @@
 	- **Paneth cell** : 腺體底部，分泌lysozyme，十二指腸最多
 	- **Payer's patch** : 淋巴小結
 	- M cell : 凹陷，把細菌送往下方的payer's patch
-1. **Brunner's gland**
+2. **Brunner's gland**
 	- **十二指腸**的**submucosa**
 	- 無消化酶、分泌$HCO3^-$
 ### 小腸結構
@@ -143,6 +146,7 @@
 	- 絨毛 : **由mucosa**組成的紙狀突起，含很多小腸上皮細胞
 		- 乳糜管 : 位於**mucosa**，向下注入submucosa的淋巴管
 		- [[microvili|微絨毛]] : 單一小腸上皮細胞上的**細胞膜特化**、又名brush border
+![[小腸結構.png]]
 ### 空腸迴腸
 |      | Peyer's patch | 皺褶 | 血管arcade | vasa recta |
 |:----:|:-------------:|:----:|:----------:|:----------:|

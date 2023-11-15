@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7aa41af9505f1309",
+        "id": "ee09dbd7dc47ca29",
         "type": "tabs",
         "children": [
           {
-            "id": "21efa04cb4d3f237",
+            "id": "b9b9bbf7cdace908",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pharmacology/特定用途/抗凝血劑.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cyclohex",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pharmacology/特定用途/抗凝血劑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pharmacology/特定用途/抗凝血劑.md"
+              }
             }
           },
           {
@@ -121,13 +128,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pharmacology/特定用途/抗凝血劑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -148,54 +156,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21efa04cb4d3f237",
+  "active": "b9b9bbf7cdace908",
   "lastOpenFiles": [
-    "Microbiology/Virus/RNA virus/Calicivirus.md",
-    "Microbiology/病毒分類.md",
-    "Microbiology/Virus/RNA virus/Bunyavirus.md",
-    "Microbiology/Virus/RNA virus/Arenavirus.md",
-    "Microbiology/Virus/RNA virus/Coronavirus.md",
-    "Microbiology/Virus/RNA virus/Retrovirus.md",
-    "Microbiology/Virus/RNA virus/Filovirus.md",
-    "Microbiology/Virus/RNA virus/Rhadovirus.md",
-    "Pathology/toolbox/body.md",
-    "Microbiology/Virus/RNA virus/Togavirus.md",
-    "Microbiology/Virus/RNA virus/Flavivirus.md",
-    "Microbiology/Vaccine.md",
-    "Microbiology/Virus/RNA virus/Picornavirus.md",
-    "Microbiology/Virus/RNA virus/Reovirus.md",
-    "Microbiology/Bacteria/陰性菌/Haemophilus.md",
-    "Microbiology/Bacteria/陽性菌/Corynebacterium.md",
-    "Microbiology/Bacteria/陽性菌/Clostridium.md",
-    "Microbiology/Bacteria/陰性菌/Bordetella.md",
-    "Microbiology/Virus/致癌病原.md",
-    "Microbiology/Virus/DNA virus/Human herpes virus.md",
+    "Pharmacology/Blood.md",
+    "Pharmacology/特定用途/抗出血劑.md",
+    "Pharmacology/特定用途/抗凝血劑.md",
+    "Pharmacology/Autocrine.md",
+    "Pharmacology/toolbox/Arachidonic acid藥物.md",
+    "Pathology/Syndrome/syndrome.md",
+    "Pathology/Syndrome/Glycogenoses.md",
     "Microbiology/Bacteria/陰性菌/彎桿菌.md",
     "Microbiology/Bacteria/陰性菌/GNB.md",
     "Microbiology/細菌分類.md",
-    "Microbiology/Virus/DNA virus/Adenovirus.md",
-    "Microbiology/Virus/DNA virus.md",
-    "Microbiology/Virus/DNA virus/Papillomavirus.md",
+    "Histology/組織系統/Respiratory systems.md",
+    "Histology/組織系統/Skeletal systems.md",
+    "Histology/組織系統/Skin.md",
+    "Pathology/toolbox/body.md",
+    "Pathology/細胞病變.md",
+    "Pathology/染色.md",
+    "Pharmacology/特定用途/貧血.md",
+    "Pharmacology/特定用途/腦下腺後葉.md",
+    "Pharmacology/Endocrine.md",
+    "Pharmacology/Antimicrobial.md",
+    "Pharmacology/toolbox/PDE inhibitor.md",
+    "Pharmacology/特定用途/COPD.md",
+    "Pharmacology/特定用途/心律不整.md",
+    "Pharmacology/特定用途/墮胎和安產.md",
+    "Pharmacology/特定用途/Sex hormone.md",
+    "Pharmacology/特定用途/高血脂.md",
+    "Histology/組織系統",
+    "img/小腸結構.png",
+    "img/cell necrosis.png",
+    "img/Pasted image 20231114103820.png",
+    "img/系統性典型黴菌分布.png",
+    "img/藥物影響Aldosterone.png",
+    "Pathology/Syndrome",
+    "img/Amyloid.png",
+    "IMG_0453 1.png",
     "img/HIV viral protein.png",
     "img/HIV viral protein.png",
     "img/Reverse transcriptase.png",
-    "img/腎上腺皮質抑制藥物.png",
-    "Pasted image 20231023135329.png",
     "Microbiology/Bacteria/其他菌",
     "Microbiology/Bacteria/陽性菌",
     "Microbiology/Bacteria/陰性菌",
-    "img/Arachidonic acid pathway.png",
-    "img/抗病毒藥機轉2.png",
-    "img/抗病毒藥機轉.png",
-    "img/抗黴菌藥機轉.png",
-    "img/Baktar機轉.png",
     "Microbiology/Fungus",
     "Microbiology/Bacteria/GPBs",
     "Microbiology/Virus/RNA virus",
     "Untitled.canvas",
     "Microbiology/Virus/DNA virus",
-    "病毒分類",
-    "Microbiology/Virus",
-    "Microbiology/Bacteria"
+    "病毒分類"
   ]
 }

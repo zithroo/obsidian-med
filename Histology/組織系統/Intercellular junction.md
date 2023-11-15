@@ -20,7 +20,7 @@
 	- 細胞內蛋白質圓盤 : desmoplakin
 	- 跨膜連接蛋白 : integrin
 - zonula adherens (adhesion belt)
-	-  細胞內細胞骨架 : [[Cytoskeleton#Microfilament|actin]]
+	- 細胞內細胞骨架 : [[Cytoskeleton#Microfilament|actin]]
 	- 細胞內蛋白質細帶 : catenin
 	- 跨膜連接蛋白 : cadherin
 - focal contacts

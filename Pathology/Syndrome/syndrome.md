@@ -4,8 +4,13 @@
 - Fitz-Hugh-Cutis syndrome : 由性病引起的腹膜炎、肝周圍炎 ^ec3f3f
 - Hemolytic-Uremic Syndrome ^d5d267
 	- **溶血性貧血**->**血栓**->**急性腎損傷**
-	- RBC溶解、Platelet降、腎衰竭
-	- 最常見 : Shiga toxin溶血 -> 腎臟，少數由S.pneumoniae引起
+	- RBC溶解 (顯微血尿)、Platelet降、腎衰竭
+	- 肉眼不可見血尿 (因為RBC已破碎)
+	- Typical : Shiga toxin溶血
+	- Atypical
+		- 40% S.pneumoniae
+		- 補體過度活化
+		- 藥物 : Mitomycin C、Ticlopidine
 - Waterhouse-Friderichsen syndrome (猛爆性腦膜炎雙球菌菌血症) : 嚴重sepsis、DIC、兩側腎上腺由髓質擴展到皮質的大出血 ^2e720f
 ## Autoimmune
 - Guillain-Barre syndrome ^518a34
@@ -36,8 +41,10 @@
 	- Permission effect : 增加Catecholamine、Glucagon敏感度
 	- 微血管擴張、臉潮紅
 - Liddle syndrome ^5cf8b6
-	- Epithelial Na Channel (Amioride sodium channel) 基因突變不易降解，Aldosterone作用時間加長
-	- AR
+	- AR -> Amiloride sensitive Na channel mutation
+	- DCT、CD上的ENa channel基因突變 -> 不易分解
+	- ENaC持續表現，延長Aldosterone的作用
+	- 低血鉀、高血壓
 - Nelson syndrome ^1cc9a5
 	- 定義 : 腎上腺切除後腦下腺分泌ACTH的細胞增長，ACTH過高
 	- Cushing syndrome過高時考慮摘除腎上腺，反而使腦下腺產生Macroadenoma
@@ -56,4 +63,46 @@
 		- 產後 : 孕婦大出血
 ## 藥物副作用
 - Gray baby syndrome : 使用Chloramphenicol，新生兒肝臟UDP-glucuronyl transferase能力不足，干擾粒線體功能 ^845c1f
-- Reye syndrome : < 18歲，感染流感或水痘，用Aspirin退燒，導致急性肝臟衰竭、肝性腦病變 ^80f5f5
+- Reye syndrome ^80f5f5
+	- < 18歲，感染流感或水痘，用Aspirin退燒
+	- 急性脂肪肝 + 肝性腦病變
+## 營養相關
+- Dumping syndrome
+	- 原因 : 胃切除手術後，食物一下子dump到小腸
+	- 初期 (10~20min) : 高滲食物到小腸，把血管的水拉出小腸 -> 腹脹及噁心
+	- 中期 (20~60min) : 醣類吸收不良 -> 腸內發酵 -> 腹部氣脹、腹絞痛
+	- 後期 (1~3hr) : 醣類快速吸收 -> 胰島素反彈性分泌 -> 繼發性**低血糖** -> 盜汗、虛弱、暈眩
+- Wernicke-Korsakoff syndrome ^fc6350
+	- 原因 : Vit B1缺乏 <- 喝酒營養不良
+	- Wernicke : Cofusion、Opthalmoplegia、Ataxia
+	- Korsakoff : Confabulation、Amnesia、Personality
+## 基因缺損
+- Bartter syndrome
+	- 很多type的基因缺失
+	- 低血鉀
+- Crigler Najjar syndrome ^466559
+	- AR
+	- Unconjugated hyperbilirubinemia
+	- type I : 缺乏UGT1A1，新生兒致命
+	- type II : UGT1A1活性下降，症狀輕微
+- Dubin Johnson syndrome ^85705c
+	- AR -> MRP2基因缺失 -> 肝細胞secretion受損
+	- Conjugated hyperbilirubinemia，但無害
+	- 色素沉澱 -> blcak liver
+- Gilbert syndrome ^062d50
+	- AR -> UGT1A1活性下降
+	- 肝臟uptake減少
+	- Unconjugated hyperbilirubinemia，但無害
+- Gitelman syndrome
+	- AR -> Early DCT的Na-Cl cotransporter突變失能
+	- 導致Late DCT代償留Na排K
+	- 低血鉀、低血壓
+- Gordon syndrome
+	- Pseudo-hypoaldosteronism type II
+	- Early DCT的Na-Cl cotransporter突變活化
+	- 導致Late DCT因為Na太少，無法留Na排K
+	- 高血鉀、高血壓
+- Rotor syndrome ^47b741
+	- AR -> 減少excretion，也減少肝臟儲存，Conjugated bilirubin漏出去
+	- Conjugated hyperbilirubinemia，但無害
+	- 沒有色素沉澱

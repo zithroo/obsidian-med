@@ -1,4 +1,5 @@
 - **無細胞壁、無肽聚醣** : G(+)的祖先脫去細胞壁
 - 最小的自營細菌  -> 可濾過
-- 培養時要加固醇
-- 非典型肺炎 : Walking pneumonia
+- 培養時要加固醇，因為細胞膜含有固醇
+- [[非典型肺炎]] : Walking pneumonia
+- 診斷 : Cold hemagglutin test (非特異性)

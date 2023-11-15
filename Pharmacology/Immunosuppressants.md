@@ -9,8 +9,8 @@
 ### 藥物
 | 分類            | receptor    | 藥名         | 副作用   |
 |-----------------|-------------|--------------|----------|
-| Calcineurin (-) | **Cyclo**philin | **Cyclo**sporine | 神經腎毒 |
-|                 | **FKBP**        | Tacro**limus**   |          |
+| Calcineurin (-) | **Cyclo**philin | **Cyclo**sporin | 神經、腎毒 |
+|                 | **FKBP**        | Tacro**limus**   | 神經、腎毒 |
 | mTOR (-)        | FKBP        | Sirolimus    | 高血脂   |
 - #h/blue ==比較==
 	- Calcineurin (-) : **APC無法活化Th、IL-2不分泌** 、無骨髓抑制

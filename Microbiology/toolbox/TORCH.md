@@ -1,7 +1,9 @@
 - 先天性感染，最常見的為**C**
 - 懷孕三個月內感染
 ***
-- 弓蟲病 (**T**oxoplasmosis) 
+- 弓蟲病 (**T**oxoplasmosis)
+	- 母親無症狀
+	- 胎兒 : 脈絡膜炎 (Chorioretinitis)、水腦、顱內鈣化
 - 其它 (**O**ther，梅毒、水痘、HIV等) 
 - 德國麻疹 (**R**ubella) : **心臟畸形、白內障、耳聾**、[[syndrome#^c38b24|Congenital rubella syndrome]]
 - 巨細胞病毒感染 (**C**MV) : **脈絡膜**炎、耳聾、智障

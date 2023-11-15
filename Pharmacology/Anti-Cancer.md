@@ -26,6 +26,7 @@
 		- 製造自由基 -> DNA斷裂、**心毒性**
 	- 心毒性 : **Dexrazoxane**清除自由基
 	- 皮膚壞死 : 不能周邊施打，滲漏會皮膚壞死，冰敷治療
+- Actinomycin D : 嵌入DNA，抑制RNA pol
 - Bleomycin (是細胞週期性藥物) : G2 phase
 ## S phase (-)
 - 抗生素、抗病毒藥物機轉亦同

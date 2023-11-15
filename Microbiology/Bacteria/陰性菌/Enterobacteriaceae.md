@@ -59,9 +59,7 @@
 	- #h/blue ==比較== 
 		- 運動性 : Listeria、彎曲桿菌、Proteus
 - [[彎桿菌#Helicobacter|Urease]] : 尿結石
-- **Weil-Felix test**
-	- 立克次體無法培養，如何拿到抗原
-	- 感染**立克次體**後人產生非特異性Ab，剛好可以和**Proteus**的Ag凝集
+- [[Weil-Felix test]]
 ## Shigella
 - 超強致病 : $10^2$隻
 - 桿菌性痢疾
