@@ -1,13 +1,14 @@
 ## GnRH
 - GnRH應該為Pustile釋放，濃度穩定高或低都會抑制
-- Leuprolide
-	- GnRH analog，但最後**抑制**FSH、LH
-	- 性腺抑制、子宮內膜異位
+- GnRH analog
+	- **Leuprolide**、Goserelin
+	- **抑制**FSH、LH -> 性腺抑制、子宮內膜異位
+- GnRH (-) : Gani**relix**
 ## Androgen
 | 機轉                 | 藥名                                   | 作用                   |
 |----------------------|----------------------------------------|------------------------|
 | weak androgen        | Danazol                                | **子宮內膜異位**           |
-| receptor (-)         | Flutamide、Cyproterone、Spironolactone | 多毛症、前列腺癌       |
+| receptor (-)         | Flu**tamide**、Cyproterone、Spironolactone | 多毛症、前列腺癌       |
 | 5$\alpha$ reductase (-) | **Fi**naste**r**i**de**                            | 多毛症、前列腺、雄性禿 |
 - Testosterone -> 5$\alpha$ reductase -> DHT
 - DHT : 負責**第二性徵**
@@ -35,6 +36,7 @@
 - Estrogen
 	- 停經前 <- 卵巢granulosa cell
 	- 停經**後** <- 腎上腺Androgen + **脂肪Aromatase**
+- #h/red ==Fulvestrant (Ful estrogen anta.)==
 - #h/red ==Aroma(芳香)洗手乳搓手(-trozole)==
 ## Progesterone
 | 機轉         | 藥名           | 作用     |

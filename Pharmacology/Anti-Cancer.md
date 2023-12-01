@@ -1,4 +1,6 @@
 ![[Cell cycle.png]]
+## 標靶藥物
+- [[抗癌標靶藥物]]
 ## 非細胞週期
 - 通殺，優先殺分裂快速的細胞
 ### DNA烷化劑
@@ -11,13 +13,13 @@
 	- **Prodrug** : 肝CYP450代謝
 	- 副產物 **Acrolein**，出血性膀胱炎
 	- **MESNA** : 抗氧化劑，形成膀胱保護膜
-### 抗生素性
+### 抗生素性 (DNA嵌入)
 | 類型            | 藥名               | 特色                     |
 |-----------------|--------------------|--------------------------|
 | Anthracycline   | **小紅莓-rubicin**      | **心毒性**、滲漏皮膚壞死          |
 | Anthracenedione | 小藍莓mitoxantrone | 尿藍                     |
 | Actinomycin D   |                    |                          |
-| Bleomycin       |                    | 肺纖維化                 |
+| **G2 phase (-)**    |  Bleomycin         | 肺纖維化                 |
 | Mitomycin       |                    | 間質性肺炎               |
 - 小紅莓 (Doxorubicin)
 	- 機轉
@@ -27,7 +29,6 @@
 	- 心毒性 : **Dexrazoxane**清除自由基
 	- 皮膚壞死 : 不能周邊施打，滲漏會皮膚壞死，冰敷治療
 - Actinomycin D : 嵌入DNA，抑制RNA pol
-- Bleomycin (是細胞週期性藥物) : G2 phase
 ## S phase (-)
 - 抗生素、抗病毒藥物機轉亦同
 - 有核酸模仿物為Prodrug
@@ -40,13 +41,17 @@
 |            | Ara-C     | DNA pol               |
 | Folic acid | MTX       | DHF reductase         |
 - PRPP amidotransferase : **Purine合成第一步** -> 把PRPP加上Glutamine的氨基
-- #h/blue ==比較==
-	- 6-MP由**xanthine oxidase**代謝，和**Allopurinol**併用會起飛
-	- MTX由腎小管分泌，和**Penicillin、NSAID**併用 會起飛
+- 6-MP由**xanthine oxidase**代謝，和**Allopurinol**併用會起飛
 ### dTMP合成相關
+| DHF reductase (-) | 對象   | 藥物           |
+|-------------------|--------|----------------|
+| Trimethoprim      | 原核   | 抗生素         |
+| Methotrexate      | 真核   | 抗癌、免疫抑制 |
+| Pyrimethamine     | 寄生蟲 | 舊瘧疾藥       |
 ![[T嘧啶合成.png]]
 - MTX骨髓抑制解藥
 	- MTX、**Leucovorin** (補充THF) **交替**使用
+	- 禁止和Penicillin、NSAID併用 -> 抑制MTX腎小管分泌
 - #h/blue ==比較==
 	- [[抗核酸|Sulfonamide]] (模仿PABA，抑Dihydropteroate synthase，只存在細菌中) <-> MTX (模仿folate，抑Dihydrofolate reductase，人類有)
 	
@@ -65,6 +70,8 @@
 	- Eto**poside** : 骨髓抑制
 	- #h/red ==波賽頓(poside)是老二==
 	- 小紅莓 **-rubicin**
+- Bleomycin : 抗生素的例外，肺纖維化
+
 ## M phase (-)
 1. 長春花**Vinca** : 抑制微管聚合
 	- 不可周邊施打，滲漏皮膚壞死，熱敷解
@@ -74,5 +81,3 @@
 	- #h/red ==Vin(冰) -> 不易靠近(抑聚合)、碰了要熱敷==
 2. 紫杉醇**Taxane** : 抑制微管分開
 - 副作用 : 周邊神經毒性 (感覺異常)、DTR降、便祕
-## 標靶藥物
-- [[抗癌標靶藥物]]

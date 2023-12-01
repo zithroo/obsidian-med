@@ -5,6 +5,7 @@
 	- Na/K pump活化，低血鉀
 	- #h/blue ==比較== Thyroid <-> [[Diabetes|Insulin]] (也低血鉀)
 - 升血糖 : 分解醣+脂肪、Insulin resistence
+- [[Thyroid synthesis.png]]
 
 |     | 來源                 | 結構         | 半衰期 | 量 | 功能 |
 |-----|----------------------|--------------|--------|----|------|
@@ -12,7 +13,7 @@
 | T4  | DIT+DIT              | 3, 5, 3’, 5’ | 長     | 多 | 弱   |
 | rT3 | deiodinase           | 3, 3’,5’     |        |    | X    |
 ## 藥物
-![[Thyroid synthesis.png]]
+![[Thyroid drug.png]]
 ### Hypothyroidism
 - 補甲狀腺素
 
@@ -25,12 +26,12 @@
 ### Hyperthroidism
 #### 急性甲狀腺風暴
 - 原則 : **抑制釋放、抑制甲狀腺素活性、症狀壓制**
-- **抑制釋放** : 碘、**[[情緒安定(鋰鹽)|鋰鹽]]**
+- **抑制釋放** : 碘、**[[情緒安定 (鋰鹽)|鋰鹽]]**
 - **抑制甲狀腺素活性** (T4 -> deiodinase -> T3)
 		- ~~[[心律不整#Class III|Amiodarone]]~~
 		- $\beta$ blocker
 		- Corticosteroid
-		- Iodine
+		- Iodine (先給PTU，避免延後PTU的onset)
 		- ~~Starve~~
 		- **PTU**
 	- #h/red ==ABCISP==
@@ -45,7 +46,7 @@
 | 特點          | 抑deiodinase、用於**急性期** | 長效、**首選**               |
 | 孕婦          | O                        | 穿胎盤、分泌乳汁、**致畸胎** |
 | 副作用 (共同) | 皮疹、白血球過低         | 肝功能異常、SLE syndrome |
-
+- Thioamide先用，碘後用 (碘會影響其Onset time)
 #### 碘的功能
 - 甲狀腺製造 (-) : Wolff-Chiakoff effect
 - 甲狀腺釋放 (-)

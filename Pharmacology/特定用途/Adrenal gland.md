@@ -18,7 +18,7 @@
 	- 診斷Cushing syndrome或Ectopic ACTH
 - Cortsol drug分為活化 (11C接OH)、不活化 (11C接O)
 	- 靠11$\beta$ hydroxysteroid DH.轉換
-	- Type I 表現在肝，不活化 -> 活化
+	- Type I表現在肝，不活化 -> 活化
 	- Type II表現在腎，活化 -> 不活化
 	- 一般都使用活化的藥物，除了
 		- 肝功能差、局部用藥 : 必用活化態

@@ -1,0 +1,3 @@
+- Clozapine : [[抗精神病]]
+- Thioamide : [[Thyroid#Hyperthroidism]]
+- Ticlopidine : [[抗凝血劑#初級凝血 (-)]]

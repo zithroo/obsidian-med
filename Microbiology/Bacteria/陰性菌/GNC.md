@@ -5,7 +5,7 @@
 	- #h/blue ==比較== Neisseria <-> [[Haemophilus]]
 - 室溫下容易死亡
 - 雙球菌
-- 治療 : Ceftriaxone (過BBB又可治淋病)
+- 治療 : **Ceftriaxone** (過BBB又可治淋病)
 
 |           | 腦膜炎雙球菌 | 淋病雙球菌    |
 |-----------|--------------|---------------|
@@ -25,3 +25,6 @@
 | 女性   | **子宮頸炎**、PID、Perihepatitis、**Fitz-Hugh-Cutis syndrome** |
 | 新生兒 | 新生兒眼炎 (滴硝酸銀預防)                              |
 - [[syndrome#^ec3f3f|Fitz-Hugh-Cutis syndrome]]
+- Gonococcal urethritis
+	- 男性 : 尿道分泌物黃綠色
+	- 女性 : 無症狀，大多是子宮頸出事

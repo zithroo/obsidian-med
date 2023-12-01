@@ -19,7 +19,7 @@
 |E6|刺激|TERT|增生分化|
 ||結合抑制|**p53**|抑制腫瘤|
 |E7|結合抑制|**pRb**|抑制腫瘤|
-||抑制|p21|干擾p53|
+||抑制|p21、p27|干擾p53|
 - Episomal form : 一般維持雙股線狀DNA、良性
 - Integrated form : DNA斷裂嵌入，惡性
 	- Early gene的E1、E2斷裂，無法抑制E6、E7

@@ -1,3 +1,4 @@
+- B 1301 : [[抗TB#M.leprae|Dapsone]]
 - B 1502 : [[癲癇#傳統藥物|Carbamazepine]]、Oxacarbazepine
-- B 5701 : Abacavir
+- B 5701 : [[HIV藥物|Abacavir]]
 - B 5801 : [[痛風|Allopurinol]]

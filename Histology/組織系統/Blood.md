@@ -13,7 +13,7 @@
 	- 無核、無胞器、無核醣體
 ### Hb
 #### 組成 : 4 heme + 1 球蛋白
-- Heme = prophyrin + $Fe^{2+}$
+- Heme = prophyrin + Fe$^{2+}$
 - 鐵為六配位，四個用prophyrin的N，兩端用histidine，proximal histidine用N配位，distal histidine沒有配位，留給$O_2$配位
 - 球蛋白為四條peptide，和$H、CO_2$結合
 - 因此$O_2$不和$H、CO_2$競爭，但$CO$會
@@ -31,6 +31,7 @@
 1. Mono**blast**
 2. **Pro**monocyte
 3. [[monocyte]]
+4. macrophage
 ### Lymphoid
 - T cell、[[B cell]]、NK cell
 
@@ -43,7 +44,7 @@
 2. **Pro**megakaryo**cyte**
 3. Megakaryo**cyte**
 	- 分界凹溝 (Demarcation channel) : 細胞膜向內凹陷，之後凹陷融合裂開
-1. Thrombocyte (從骨髓跑到血液中)
+4. Thrombocyte (從骨髓跑到血液中)
 ### 性質
 - [[無核]]，但有[[granule]]
 - 凝血

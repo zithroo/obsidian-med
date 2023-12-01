@@ -1,5 +1,5 @@
-- Vancomycin、**Teicoplanin**
-- 殺**G(+)**、但G(-)完全無效
+- Vancomycin、**Teicoplanin**、Dalba**vancin**
+- 殺**G(+)**、但G(-) 完全無效
 - 建議使用 : MRSA、PRSP、Enterococci、C.difficile
 - 機轉 : 結合D-Ala-D-Ala terminus of pentapeptide ， 抑制peptodoglycan glycosyltransferase
 - 藥物動力學

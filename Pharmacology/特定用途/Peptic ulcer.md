@@ -20,12 +20,14 @@
 | 機轉           | 藥名          | 副作用                                            |
 |----------------|---------------|---------------------------------------------------|
 | Para (-) **M1(-)** | Pirenzepine   |                                                   |
-| M1、M3 (-)     | Propantheline | 抑制腸胃蠕動、便秘                                |
+| M1、**M3** (-)     | Propantheline | **抑制腸胃蠕動**、便秘                                |
 | Gastrin (-)    | Oxethazaine   | 止痛效果                                          |
 | **H2 (-)**         |    **-tidine**    | Cemetidine : Hyperprolactinemia、陽痿、CYP450 (-) |
-| PPI (最強)     | Ome**prazole**    | 酸性下有效 -> 飯前服用，不可併制酸劑、骨質疏鬆      |
+| PPI            | Ome**prazole**    | 酸性下有效 -> 飯前服用，**不可併制酸劑**、骨質疏鬆      |
+- 效果 : **PPI** > H2 (-) > M (-)
+- #h/blue ==比較== [[抗精神病|Aripiprazole]]，非PPI
 ## 增加黏膜
-1. Sulcrafate : 酸性下有效 -> 飯前服用、不可併制酸劑
+1. Sulcrafate : 酸性下有效 -> 飯前服用、**不可併制酸劑**
 2. **Miso**prostol : [[Autocrine#Eicosanoid (+)|PGE1]]、子宮收縮 (孕婦禁止)
 3. Bismuth subsalicylate : 殺菌 (**旅行者腹瀉**)、黏液分泌
 ## 殺H.pylori

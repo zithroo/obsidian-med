@@ -15,16 +15,16 @@
 	- tanycyte (伸長細胞) : 位於下視丘正中隆突、有細長basal process，幫助激素傳遞到portal vein影響前葉
 	- choroidal epithelium : **tight junction**，分泌CSF
 
-|                      |      |                |              |                  |
+|  腦室系統           |      |                |              |                  |
 |----------------------|------|----------------|--------------|------------------|
-| ependymocyte         | 單立 | desmosome      | 不在基底膜上 | cilia、microvili |
-| choroidal epithelium | 單柱 | tight junction | 基底膜上     | apical microvili |
+| Ependymocyte         | 單立 | desmosome      | 不在基底膜上 | cilia、microvili |
+| Choroidal epithelium | 單柱 | tight junction | 基底膜上     | apical microvili |
 2. 神經元
 	- 本體 : Nissel body (rER，不在**軸丘、軸突**)、neurofibril
 	- 突起
 ## 分層
 ### 大腦
-1. molecular layer : 水平細胞
+1. molecular layer : 水平細胞 (Cajal cell)
 2. ext. granular layer : 星狀細胞
 3. ext. pyramidal layer : 小錐狀細胞
 4. int. granular layer : 星狀細胞

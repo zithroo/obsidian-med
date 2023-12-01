@@ -1,0 +1,6 @@
+- Ami**triptyline**、Im**ipramine**
+- 非選擇性抑制交感reuptake
+- 副作用 #h/red ==抗ACH==
+	- $\alpha 1$ : 姿勢性低血壓、反射性心搏過速
+	- Cholinergic : 口乾、便祕、不尿尿
+	- H1 : 鎮靜、嗜睡

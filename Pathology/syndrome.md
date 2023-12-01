@@ -19,6 +19,18 @@
 	- 病變 : Segmental demyelination (**髓鞘受傷，axon還好**)
 	- 上行性麻痹 : 影響運動能力，Sensory 正常，遠端四肢無力 -> 心肌、橫膈肌
 	- 治療 : IVIG、steroid、血漿置換
+- Paraneoplastic syndrome
+	- 腫瘤不藉由轉移、侵犯影響的症狀
+	- Ectopic hormone
+		- ACTH : 小細胞肺癌
+		- ADH : 小細胞肺癌
+		- PTH : 鱗狀細胞肺癌、RCC
+		- EPO : Hemangioblastoma、RCC
+	- Acanthosis nigricans : 胃癌
+	- Myasthenic gravis : Thymoma
+	- Clubbing finger : 肺癌
+	- Migrating thrombophlebitis (Trousseau sign)
+		- 胰臟、大腸、肺癌
 ## Endocrine
 - Cusing syndrome ^327c2c
 	- 定義 : **Cortisol過多**
@@ -40,11 +52,23 @@
 		- 抑制發炎
 	- Permission effect : 增加Catecholamine、Glucagon敏感度
 	- 微血管擴張、臉潮紅
+	- ~~促進surfactant分泌~~
 - Liddle syndrome ^5cf8b6
 	- AR -> Amiloride sensitive Na channel mutation
 	- DCT、CD上的ENa channel基因突變 -> 不易分解
 	- ENaC持續表現，延長Aldosterone的作用
 	- 低血鉀、高血壓
+	- #h/blue ==比較== PHA type I (ENaC突變失能)
+- MEN-I (Werner syndrome) ^1ac14a
+	- Multiple Endocrine Neoplasia
+	- Menin gene突變 (Tumor supressor gene)
+	- 症狀 : 3P
+		- Hyper**p**arathyroidsim
+		- **P**ituitary tumor : PRL > GH
+		- **P**ancreatic tumor : Gastrin > Insulin
+- MEN-II ^eeea59
+	- RET gene突變 (Proto-oncogene)
+	- MEN-IIA : Medullary thyroid cancer、Hyperparathyroidism、Pheochromocytoma
 - Nelson syndrome ^1cc9a5
 	- 定義 : 腎上腺切除後腦下腺分泌ACTH的細胞增長，ACTH過高
 	- Cushing syndrome過高時考慮摘除腎上腺，反而使腦下腺產生Macroadenoma
@@ -66,6 +90,7 @@
 - Reye syndrome ^80f5f5
 	- < 18歲，感染流感或水痘，用Aspirin退燒
 	- 急性脂肪肝 + 肝性腦病變
+	- 改用Acetaminophen
 ## 營養相關
 - Dumping syndrome
 	- 原因 : 胃切除手術後，食物一下子dump到小腸
@@ -78,8 +103,13 @@
 	- Korsakoff : Confabulation、Amnesia、Personality
 ## 基因缺損
 - Bartter syndrome
-	- 很多type的基因缺失
-	- 低血鉀
+	- 粗上升枝通道蛋白異常
+	- 低血鉀、鹼中毒
+	- type I : NKCC2
+	- type II : ROMK
+	- type III : CIC-NKb
+	- type IV : Barttin
+	- type V : CaSR
 - Crigler Najjar syndrome ^466559
 	- AR
 	- Unconjugated hyperbilirubinemia
@@ -97,12 +127,23 @@
 	- AR -> Early DCT的Na-Cl cotransporter突變失能
 	- 導致Late DCT代償留Na排K
 	- 低血鉀、低血壓
+	- #h/blue ==比較== PHA type II (NaCC增強)
 - Gordon syndrome
 	- Pseudo-hypoaldosteronism type II
 	- Early DCT的Na-Cl cotransporter突變活化
 	- 導致Late DCT因為Na太少，無法留Na排K
 	- 高血鉀、高血壓
+	- #h/blue ==比較== Gitelman syndrome (NaCC失能)
+- HNPCC syndrome ^121a0d
+	- Mismatch repair gene缺陷
+	- 相關 : MLH、Mut
+- Li-Fraumeni syndrome ^e7de75
+	- 缺乏p53 gene
 - Rotor syndrome ^47b741
 	- AR -> 減少excretion，也減少肝臟儲存，Conjugated bilirubin漏出去
 	- Conjugated hyperbilirubinemia，但無害
 	- 沒有色素沉澱
+- VHL (Von Hippel Lindau syndrome) ^f20993
+	- Renal Cell Carcinoma
+	- CNS Hemangioblastomas
+	- Pheochromocytoma

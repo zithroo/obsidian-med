@@ -14,7 +14,7 @@
 - Leydig cell
 	- 有Reinke氏結晶體
 	- 內分泌 : testosterone，sER、**tubulvesicular cristae粒線體**
-- 睪丸輸出管 : 單柱、有**纖毛**
+- 睪丸輸出管 : **單柱纖毛**上皮
 ### 副睪
 - 偽複柱、有[[Cytoskeleton#Microfilament|stereocilia]]
 - 產生**decapacitaion factor**，精子直到進入陰道後才再活化
@@ -30,7 +30,8 @@
 	- 其下 : Tunica albugenia
 - 濾泡
 	- 原始濾泡 : 單扁follicular cell
-	- 初級濾泡 : **zone pellucida**+**單立follicular cell**，當follicular cell變成多層時改稱granulosa cell
+	- 初級濾泡 : 出現**zone pellucida**+**單立follicular cell**
+		- 當follicular cell變成多層時改稱granulosa cell
 	- 次級濾泡 : 出現**antrum**
 		- granulosa cell : 源自sex cord，有**Call-Exner body**，和theca cell之間有**基底膜**
 		  轉換**Androgen->Estrogen (by aromatase)**
@@ -43,7 +44,9 @@
 	  - 白體 : 黃體凋亡，巨噬細胞吞噬，纖維母細胞取代
 	  - 閉鎖濾泡 : 濾泡自己萎縮，先granulosa cell死亡，再卵死亡，基底膜增厚形成glassy membrane
 ### 輸卵管
-- 單柱纖毛上皮，Estrogen作用纖毛細胞，Progesterone做用無纖毛
+- 單柱纖毛上皮
+- Estrogen作用纖毛細胞 (擺動)
+- Progesterone作用無纖毛細胞 (分泌營養)
 ### 子宮
 - 黏膜層
 	- stratum funcrionale : **spiral a.**

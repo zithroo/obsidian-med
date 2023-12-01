@@ -19,5 +19,6 @@
 ### 合成形
 - Methysergide、[[Parkinson#DA receptor agonist| Bromocriptine、Pergolide]] (**帕金森用藥**)
 ### Sumatriptan
+- #h/red ==紓麻(Migraine)三分==
 - #h/blue ==比較==
 	- 5-HT$_{1A}$ partial agonist ([[安眠#其他|Buspirone]]) <-> 5-HT$_{1D}$ (+) (Sumatriptan)

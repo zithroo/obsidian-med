@@ -1,5 +1,5 @@
 ## 比較
-[[Epithelium#泌尿上皮||上皮型態]]
+[[Epithelium#泌尿上皮|上皮型態]]
 [[Muscular systems#排列|平滑肌排列]]
 ## 腎
 ### 大體構造
@@ -28,8 +28,11 @@
 		- [[microvili]]、頂端胞飲小泡、基底**basal striatum**、粒線體多嗜酸性、有**junctional complex**所以無明顯細胞分界
 	- Loop : 粗細/ 細粗
 	- DCT
-		- Parietal cell(多) : 淡染、basal folding、**留Na排K (Aldosterone)**
-		- I cell : 濃染、無basal folding、**留K排H+ (Aldosterone)****
+		- Parietal cell (多) : 淡染、basal folding
+			- **留Na排K (Aldosterone)**
+		- Intercalated cell : 濃染、無basal folding
+			- type A : **留K+排H+ (Aldosterone)**
+			- type B : 留Cl排HCO3-
 - **Juxta-glomerular apparatus**
 	- JG cell : **入球小動脈平滑肌**特化，分泌renin，偵測血壓
 	- macula densa : **DCT管壁細胞**特化，影響JG cell，偵測濾液中Na (Na**下降**活化JG cell)

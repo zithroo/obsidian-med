@@ -9,7 +9,12 @@
 - Gi : $\alpha_2、D_2、M_2、\mu$、$5HT_1$(腦血管收縮治偏頭痛)
 - GABA$_B$ : $K+$ (**透過G protein但開離子通道**)
 ## Tyrosin kinase
-- RTK : insulin
+- RTK : insulin、IGF
 - JAK-STAT : EPO、cytokine、somatostatin、IFN
 ## DNA
 - Thyroid hormone、腎上腺皮質分泌
+## 非G protein的cGMP
+- Guanylyl cyclase當receptor
+	- cytosolic form : NO
+	- membrane bound : ANP
+	- GTP -> cGMP -> PKG -> 活化下游

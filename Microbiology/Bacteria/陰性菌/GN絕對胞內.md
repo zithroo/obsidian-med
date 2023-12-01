@@ -32,7 +32,7 @@
 | 正常     | 肉芽腫       | 抓傷處丘疹、淋巴腫大 | 不用 |
 | 免疫缺失 | Angiomatosis | 皮膚腫塊、表面潰瘍   | 要   |
 
-- #h/blue ==比較== 貓抓病 (Bartonella) <-> 貓狗咬傷 ([[人畜共通菌#Pasteurella| P.multocida]]])
+- #h/blue ==比較== 貓抓病 (Bartonella) <-> 貓狗咬傷 ([[Pasteurella| P.multocida]]])
 ### B.quintana
 - **戰壕熱** (五日熱或脛骨熱)
 	- **體虱**傳播

@@ -1,9 +1,9 @@
 ## 支持細胞
-### 網狀細胞(Reticular cell)
+### 網狀細胞 (Reticular cell)
 - 中胚層
 - 位於除胸腺之外的淋巴器官
-### 上皮網狀細胞(Epithelial reticular cell)
-- 內胚層(第三咽囊)
+### 上皮網狀細胞 (Epithelial reticular cell)
+- 內胚層 (第三咽囊)
 - 位於胸腺
 - 支持、分泌thymosin、形成blood-thymud barrier
 - 老化改稱nurse cell
@@ -30,14 +30,14 @@
 - **只有胸腺的皮質髓質不是內外決定**
 ### Lymph node (BTM)
 1. Cortex
-	- 外皮質 : 具淋巴小結(**B cell**)
+	- 外皮質 : 具淋巴小結 (**B cell**)
 	- 旁皮質 : **T cell**
 2. Medulla
 	- medullary cord & sinus : **Macrophage**、淋巴球、網狀細胞
 3. 淋巴球大多由**postcapillary venule**進入，少部分由affernt淋巴管
 ### Thymus (Only T)
 - **皮質髓質非整個胸腺的內外，而是小葉的內外**
-- 胚胎 : 中(T cell) + 外(上皮網狀細胞)
+- 胚胎 : 中 (T cell) + 內 (上皮網狀細胞)
 - 每個小葉
 	1. Cortex : T多、上皮網狀少
 		- Positive selection : 皮質上皮細胞

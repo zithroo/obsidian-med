@@ -23,15 +23,15 @@
 | Carboxy-PCN             | Ticarcillin、Piperacillin          | 併用$\beta$-lmase inhibitor |
 1. Penicillin G (Benzathine Penicillin) : IV
 2. Methicillin : Anti-**Staphylococcal**
-	- Oxacillin (IV)、Cloxacillin、Dicloxacillin (Oral)
+	- Oxacillin (IV)、Cloxacillin (Oral)、Dicloxacillin (Oral)
 3. Amino-PCN
 	- Ampicillin (IV)、Am**o**xicillin (Oral)
 	- #h/red ==Am"o" (門診Oral抗生素)==
-	- + $\beta$ lactamase inhibitor後 -> + **H**EN PEcK
+	- +$\beta$ lactamase inhibitor後 -> + **H**EN PEcK
 4. Carboxy-PCN : Anti-**Psudomonal** PCN
-	- + $\beta$ lactamase inhibitor後 -> + HEN PEcK、綠膿
+	- +$\beta$ lactamase inhibitor後 -> + HEN PEcK、綠膿
 ### $\beta$ lactamase inhibitor
-- Clavulanate、Sulbactam、Tazobactam
+- Clavulanate、Sul**bactam**、Tazobactam
 ***
 - Amoxicillin + Clavulanate -> Augmentin
 - Ampicillin + Sulbactam -> Unasyn
@@ -40,19 +40,21 @@
 ## Cephalosporin
 - 第一代
 	- #h/red ==打包(PEcK)一串(鏈球)葡萄==
-	- #h/red ==所有Cefa發音，除Cefaclor、Cefamandole==
+	- #h/red ==所有Cefa發音，除Cefaclor、Cefamandole (法國曼陀珠)==
 	- Cefazolin : **手術前預防用藥首選**
 		- #h/red ==手術是一種蹂躪(zolin)==
 - 第二代
 	- #h/red ==打包(PEcK)一串葡萄和母雞(HEN)==
 		- **抗Haemophilus**、可用於肺炎
-	- Cefuroxime
+	- Cefuroxime (過BBB)
 - 第2.5~~條悟~~代
 	- Cephamycin類 : Cefametazole
 	- **ESBL**、膽道感染
 - 第三代
 	- #h/red ==打包一串葡萄和母雞、臉都綠(綠膿)了==
 	- Cef**tri**axone : **淋病雙球菌**、過**BBB** (腦膜炎雙球菌)
+	- 淋病雙球菌 : Cefixime、Ceftriaxone
+		- #h/red ==Fucking me、吹到爽 (triaxone)==
 	- Ceftazidime : 綠膿桿菌
 - 第四代
 	- 第一代+第三代
@@ -61,11 +63,11 @@
 - Cefmetazole(2)、Ceftriaxone(3)、Cefoperazone(3) : 肝代謝
 ## Monobactam
 - Aztreonam
-- 只對**GNB**有效
+- 只對**GNB嗜養菌**有效
 - $\beta$ lactam類中最不容易過敏
 ## Carbapenem
 - Imi**penam** + Cilastatin
-	- Imipenam腎PCT中被Dehydropeptidase分解成毒性物
-	- Cilastatin抑制Dehydropeptidase
+	- Imipenam在腎PCT中被Dehydropeptidase分解成毒性物
+	- Cilastatin : Dehydropeptidase inhibitor
 - #h/red ==超強，記無效的就好==
 	- 無效 : MRSA、Enterococci、Stenotrophomonas

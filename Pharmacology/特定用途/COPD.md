@@ -11,8 +11,8 @@
 	- Methylxanthine類 : **同Caffeine**
 	- 機轉 
 		- [[PDE inhibitor]] : cAMP、cGMP (+)
-		- Adenosine Receptor-1 (-)
-		- 刺激HDAC : 抑制發炎
+		- Adenosine Receptor 1 (-)
+		- 刺激Histone deacetylation : 抑制發炎
 	- 作用 : 專注、心跳及收縮力上升、胃酸分泌、利尿、平滑肌放鬆
 ## 治療
 - Bronchodilator : 單用**LAMA** > LABA，或合併使用

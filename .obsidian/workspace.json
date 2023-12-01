@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ee09dbd7dc47ca29",
+        "id": "dd7ff38a570e6d7d",
         "type": "tabs",
         "children": [
           {
-            "id": "b9b9bbf7cdace908",
+            "id": "fd7bcaa47f8e305e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pharmacology/特定用途/抗凝血劑.md",
+                "file": "Pharmacology/特定用途/beta lactam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cd0861636b54de3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pharmacology/特定用途/心律不整.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pharmacology/特定用途/抗凝血劑.md",
+                "file": "Pharmacology/特定用途/beta lactam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pharmacology/特定用途/抗凝血劑.md"
+                "file": "Pharmacology/特定用途/beta lactam.md"
               }
             }
           },
@@ -128,14 +140,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pharmacology/特定用途/抗凝血劑.md",
+                "file": "Pharmacology/特定用途/beta lactam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -144,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,46 +168,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9b9bbf7cdace908",
+  "active": "fd7bcaa47f8e305e",
   "lastOpenFiles": [
-    "Pharmacology/Blood.md",
-    "Pharmacology/特定用途/抗出血劑.md",
-    "Pharmacology/特定用途/抗凝血劑.md",
-    "Pharmacology/Autocrine.md",
-    "Pharmacology/toolbox/Arachidonic acid藥物.md",
-    "Pathology/Syndrome/syndrome.md",
-    "Pathology/Syndrome/Glycogenoses.md",
-    "Microbiology/Bacteria/陰性菌/彎桿菌.md",
-    "Microbiology/Bacteria/陰性菌/GNB.md",
-    "Microbiology/細菌分類.md",
-    "Histology/組織系統/Respiratory systems.md",
-    "Histology/組織系統/Skeletal systems.md",
-    "Histology/組織系統/Skin.md",
-    "Pathology/toolbox/body.md",
-    "Pathology/細胞病變.md",
-    "Pathology/染色.md",
-    "Pharmacology/特定用途/貧血.md",
-    "Pharmacology/特定用途/腦下腺後葉.md",
-    "Pharmacology/Endocrine.md",
+    "Pharmacology/特定用途/抗細胞壁.md",
+    "Pharmacology/特定用途/抗細菌.md",
     "Pharmacology/Antimicrobial.md",
-    "Pharmacology/toolbox/PDE inhibitor.md",
-    "Pharmacology/特定用途/COPD.md",
+    "Pharmacology/Autocrine.md",
+    "Pharmacology/Respiratory.md",
+    "Pharmacology/Kidney.md",
+    "Pharmacology/Immunosuppressants.md",
+    "Pharmacology/Gastrointestinal.md",
+    "Pharmacology/Endocrine.md",
+    "Pharmacology/Cardiovascular.md",
+    "Pharmacology/特定用途/抗TB.md",
+    "Pharmacology/特定用途/beta lactam.md",
+    "Pharmacology/特定用途/抗核酸.md",
+    "Pharmacology/特定用途/痛風.md",
+    "Pharmacology/特定用途/Thyroid.md",
+    "Pharmacology/特定用途/Peptic ulcer.md",
+    "Pharmacology/特定用途/抗憂鬱.md",
+    "Pharmacology/toolbox/MAOI.md",
+    "Pharmacology/特定用途/抗蛋白質.md",
+    "Pharmacology/CNS.md",
     "Pharmacology/特定用途/心律不整.md",
-    "Pharmacology/特定用途/墮胎和安產.md",
-    "Pharmacology/特定用途/Sex hormone.md",
-    "Pharmacology/特定用途/高血脂.md",
+    "Pharmacology/Blood.md",
+    "Pharmacology/特定用途/肌肉鬆弛.md",
+    "Pharmacology/特定用途/孕婦用藥.md",
+    "Pharmacology/toolbox/HLA過敏.md",
+    "Pharmacology/特定用途/癲癇.md",
+    "img/WNT pathway.png",
+    "img/Thyroid drug.png",
+    "img/Thyroid synthesis.png",
+    "img/Asthma 1.png",
+    "img/Asthma.jpg",
+    "img/Asthma.png",
+    "img/癲癇藥.png",
+    "Pasted image 20231129020156.png",
+    "Pasted image 20231129020152.png",
+    "img/交感神經末梢.png",
     "Histology/組織系統",
-    "img/小腸結構.png",
-    "img/cell necrosis.png",
-    "img/Pasted image 20231114103820.png",
-    "img/系統性典型黴菌分布.png",
-    "img/藥物影響Aldosterone.png",
     "Pathology/Syndrome",
-    "img/Amyloid.png",
-    "IMG_0453 1.png",
-    "img/HIV viral protein.png",
-    "img/HIV viral protein.png",
-    "img/Reverse transcriptase.png",
     "Microbiology/Bacteria/其他菌",
     "Microbiology/Bacteria/陽性菌",
     "Microbiology/Bacteria/陰性菌",

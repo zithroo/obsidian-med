@@ -16,6 +16,7 @@
 	- #h/red ==大胃腸黏，下指食 (大衛長年下指示)==
 2. 胃皺壁、小腸環狀皺壁為**mucosa+submucosa**組成
 3. **Meissner's** plexus
+4. 迴腸Peyer patch
 ### Muscularis externa (default : 內環外縱)
 1. **Auerbach's** plexus
 2. 食道 : 上1/3骨骼肌、中1/3混合、下1/3平滑肌
@@ -51,13 +52,14 @@
 | Parotid       | 最大 | 25%     | 漿液 | Stensen | 上第二臼齒          | 9        |
 | Submandibular | 中   | 70%最多 | 混(漿) | Wharton | sublingual caruncle | 7        |
 | Submental     | 最小 | 5%      | 混(黏) | Rivinus | sublingual fold     | 7        |
-- 最容易發炎、腫瘤(多良性): parotid gland
+- 最容易發炎、腫瘤 (多良性) : parotid gland
 - 最容易結石 : submandibular gland
 比較[[#胰#外分泌|胰腺]]
 1. acinar cell : **單立**，有[[myoepithelium]]
 2. intralobular duct (內)
 	1. intercalated duct (閏管) : **單立**、吸收$Cl^-$排$HCO3^-$
 	2. striated duct (紋管) : **單柱**、吸Na排K、有**basal striatum** (基底面向內皺褶，皺褶內有很多粒線體)、嗜酸性 (粒線體多)
+	- #h/red ==閏娠紋 (先閏再紋)==
 3. interlobular duct (間) : 排出管、**偽複柱**
 
 ## 胃
@@ -96,7 +98,7 @@
 	- sinusoid之外~肝細胞之間的空間
 	- 血液和肝細胞交換處
 	- 肝淋巴液製造、albumin、VLDL分泌處
-	- **Ito cell (Stallet cell)** : 平常儲存**vit A**，肝損傷時Kuffer cell分泌細胞激素使Ito cell分化成**fibroblast**，讓肝纖維化、收縮
+	- **Ito cell (Stallet cell)** : 平常儲存**vit A**，肝損傷時Kuffer cell分泌TNF-$\alpha$使Ito cell分化成**fibroblast**，讓肝纖維化、收縮
 ### Portal lobule (portal triad為中心)
 ### Hepatic acinus (菱形)
 - 是**肝的功能單位**
@@ -123,10 +125,10 @@
 3. intralobular duct : **單柱**、 #h/red ==無basal striatum==所以不叫紋管、吸Na排K (但BRS p.223說沒有)
 4. interlobular duct
 ### 內分泌
-1. $\beta$ cell (70%)
-2. $\alpha$ cell (20%)
+1. $\beta$ cell (70%) : Insulin、Amylin
+2. $\alpha$ cell (20%) : Glucagon、GLP
 3. $\delta$ cell (10%)
-4. G cell、D1(VIP)、EC(5-HT、substance P)
+4. G cell、D1 (VIP)、EC (5-HT、substance P)
 - **細胞數目 : b > a > d，腫瘤 : b > G、惡性程度 : a > G**
 ## 小腸
 ### 小腸腺體
@@ -171,7 +173,7 @@
 - **Pectinate (dentate) line** : **mucocutaneous line**
 ***
 - 下1/3為表皮性肛管 : 外胚層
-- Aanl pecten : 肛管表皮，**複層鱗狀(未角質化)**、無汗腺毛囊
+- Anal pecten : 肛管表皮，**複層鱗狀(未角質化)**、無汗腺毛囊
 - **White line** : 位於內括約肌下緣
 ***
-- Anal cutaneous zone : 真性表皮，**複層鱗狀(角質化)**、有汗腺毛囔
+- Anal cutaneous zone : 真性表皮，**複層鱗狀(角質化)**、有汗腺毛囊

@@ -27,6 +27,8 @@
 | 用途   | 篩檢(Screen)、追蹤藥效          | 確診 (Confirm)、治癒後仍陽性 |
 | FALSE  | **SLE**、IV毒品、孕婦 (+)、AIDS (-) | 正常人1~2% (+)               |
 - 第三期梅毒Neurosyphilis只能CSF測VDRL
+- TPHA : Treponemal hemaagglutination test
+- FTA-ABS : Fluorescent treponemal Ab absorption test
 ## Borrelia burgdorferi
 - 蜱蝨的不同症狀
 	- **體蝨、軟**蜱 : **迴歸熱**

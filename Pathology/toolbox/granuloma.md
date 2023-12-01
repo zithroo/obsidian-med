@@ -1,0 +1,13 @@
+- 慢性發炎細胞聚集 : **Macrophage** (Epithelioid cell、Multinucleated giant cell)、Lymphocyte、Fibroblast
+- Multinucleated giant cell
+	- Foreign body type : 多核位於中央、雜亂聚集
+	- Langhans type : 多核位於周圍、馬蹄型排列
+- 常見Granuloma原因
+	- TB、Leprosy
+	- Syphilis
+	- Foreign body : 日本血吸蟲卵、縫線
+	- Q fever : [[Rickettsia#Coxiella burnetti]]
+	- LGV (花柳性腹股溝淋巴肉芽腫) : [[GN絕對胞內#Chlamydia]]
+	- Sarcoidosis
+	- Crohn disease
+	- 貓抓熱 : [[GN絕對胞內#Bartonella]]

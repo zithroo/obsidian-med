@@ -10,7 +10,7 @@
 |---------|-------------------|------|
 | 超短    | Lispro、Aspart、Glulisine    |      |
 | 短      | Regular Insulin (Crystalline Zn)  | 飯前 |
-| 中      | NPH               | 睡前 |
+| **中**      | NPH (**Neutral** protamine nagedorn)| 睡前 |
 | 長      | Glargine、Detemir、Degludec |      |
 - Type I DM **只能打胰島素**
 - 懷孕一律使用
@@ -43,8 +43,9 @@
 - **心肝腎**禁用
 - Metformin : 腹瀉、**乳酸中毒**
 	- Type II DM第一線用藥
+	- AMPK (+)
 	- #h/red  ==Mate for me(交配) ->(糖質)新生== 
-- TZD
+- TZD (Thiazolidinedione)
 	- **水腫**，心衰竭禁用
 	- #h/blue ==比較==
 		- PPAR$\alpha$ : [[高血脂#降TG|回收TG]]

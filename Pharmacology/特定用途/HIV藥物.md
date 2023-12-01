@@ -6,7 +6,7 @@
 | **Fu**sion    | 結合病毒gp41     | En**fu**virtide                                    |                              |
 |           | 結合宿主CCR5     | Maraviroc                                      |                              |
 | 反轉錄酶  | NRTI             | Zido**vudine**、Emtri**citabine**、Abacavir、Tenofovir | 乳酸中毒、脂肪肝             |
-|           | NNRTI            | Ne**vir**apine、Efavirenz、Delavirdine             | 肝毒                         |
+|           | NNRTI            | Ne**vir**apine、Efa**vir**enz、Dela**vir**dine             | 肝毒                         |
 | In**tegra**se | 抑制嵌入         | Ral**tegra**vir                                    |                              |
 | Protease  | 抑制表面蛋白修飾 | Ataza**navir**                                     | 乳酸中毒、脂肪肝、三高、肝毒 |
 - 雞尾酒療法 (HAART) : 2NRTIs+1 (NNRTI or PI or INSTI)

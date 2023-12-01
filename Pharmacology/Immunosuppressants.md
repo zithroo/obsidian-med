@@ -1,5 +1,5 @@
 ## 抑制發炎
-- Steroid : [[Autocrine#酶 (-)]]、急性、短期使用
+- Steroid : [[Arachidonic acid藥物#酶 (-)|PLA2 (-)]]、急性、短期使用
 ## 抑制Th活化
 ### Th活化路徑
 - **APC**的MHC II -> 接Th CD4 : 活化內部**Calcineurin**
@@ -10,8 +10,8 @@
 | 分類            | receptor    | 藥名         | 副作用   |
 |-----------------|-------------|--------------|----------|
 | Calcineurin (-) | **Cyclo**philin | **Cyclo**sporin | 神經、腎毒 |
-|                 | **FKBP**        | Tacro**limus**   | 神經、腎毒 |
-| mTOR (-)        | FKBP        | Sirolimus    | 高血脂   |
+|                 | **FKBP12**        | Tacro**limus**   | 神經、腎毒 |
+| mTOR (-)        | FKBP12        | Sirolimus    | 高血脂   |
 - #h/blue ==比較==
 	- Calcineurin (-) : **APC無法活化Th、IL-2不分泌** 、無骨髓抑制
 	- mTOR : **Th無法活化別人、IL-2失效** (全部抑制)、因此有骨髓抑制
@@ -35,7 +35,7 @@
 ## Cytokine (-)
 | 抑制       | 藥名                               | 治療             |
 |------------|------------------------------------|------------------|
-| TNF-$\alpha$  | Thalidomide                        | Multiple myeloma |
+| TNF-$\alpha$  | Tha**lidomide**                        | Multiple myeloma |
 |            | Etanercept、Adalimumab、Infliximab | RA、SpA          |
 | IL-1       | Anakinra                           | RA              |
 | IL-6       | Tocilizumab                        |                  |
@@ -45,6 +45,7 @@
 - #h/red ==Intern (Etaner) 很阿達 (Ada)，隨便應付 (Infli) 就好==
 - #h/red ==1號 (IL-1) 看到anal (Ana) 就硬啦(-inra)==
 - #h/red ==偷吸 (Toci) 要溜 (6) 了==
+- #h/red ==Abata (阿爸他) acept Bitch (B7)==
 - #h/blue ==比較==
 	- Abatacept (CTLA-4模仿) <-> Entarcept (TNF)
 	- Abatacept (CTLA-4模仿) <-> Anakinra (IL-1) <-> Adalimumab (TNF $\alpha$)

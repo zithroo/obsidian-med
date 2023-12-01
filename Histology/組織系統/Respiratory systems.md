@@ -13,7 +13,7 @@
 ## 氣管/支氣管
 - **C6 (cricoid cartilage) ~T4 (分支)**
 - Kulchitsky cell : 分泌5-HT、位於細支氣管
-- Clar cell : **單立**、分泌**surface active agent (非surfactant)**，在終末細支氣管、呼吸性細支氣管
+- Clara cell : **單立**、分泌**surface active agent (非surfactant)**，在終末細支氣管、呼吸性細支氣管
 ## 肺泡
 - type I : 數量占40%但面積占97%，單扁，分泌angiotensin-converting-enzyme
 - type II (**septal cell**) : 數量占60%但面積占3%，**立方**，有**lamellar body** (keratinocyte也有) 分泌surfactant
