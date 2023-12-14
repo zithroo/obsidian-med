@@ -15,8 +15,10 @@
 |                  | Poliomyelitis (**脊髓灰質**炎、**前角運動**神經元受損) |
 | Coxsackie A | 腦膜炎、**Herpangina、HFMD**                            |
 | Coxsackie B | 腦膜炎、**心肌炎**、肋膜炎                              |
+| Enterovirus A70  |   急性出血性結膜炎               |
 | Enterovirus A71  | 腦膜炎、Herpangina、HFMD、**死亡率最高**                 |
 | Echovirus        |                                                     |
+- 重症四大症狀 : 嗜睡、肌躍性抽搐、持續嘔吐、呼吸急促心跳加快
 ### Polio virus
 - 症狀
 	- 90% : 無症狀

@@ -6,5 +6,5 @@
 	- 胎兒 : 脈絡膜炎 (Chorioretinitis)、水腦、顱內鈣化
 - 其它 (**O**ther，梅毒、水痘、HIV等) 
 - 德國麻疹 (**R**ubella) : **心臟畸形、白內障、耳聾**、[[syndrome#^c38b24|Congenital rubella syndrome]]
-- 巨細胞病毒感染 (**C**MV) : **脈絡膜**炎、耳聾、智障
+- 巨細胞病毒感染 (**C**MV) : **脈絡膜**炎、**耳聾**、智障
 - 單純疱疹 (**H**SV-2) : 口腔、皮膚、眼睛、CNS 感染

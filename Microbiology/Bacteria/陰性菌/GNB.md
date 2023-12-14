@@ -2,7 +2,7 @@
 	-  [[Psudomonans|假單孢菌]]
 	-  [[彎桿菌|彎曲桿菌]]
 	-  [[Enterobacteriaceae|腸內菌 ]]
-	-  [[Bacteroid|類桿菌]]
+	-  [[Bacteroid]]
 2. 呼吸道菌
 	- [[Haemophilus]]
 	- [[Bordetella]]

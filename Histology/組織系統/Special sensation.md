@@ -50,7 +50,7 @@
 | 3    | ext. limiting membrane  | 感光細胞和Muller cell交接       |
 | 4    | outer nu. layer         | 感光細胞核                      |
 | 5    | outer plexiform layer   |                                 |
-| 6    | inner nu. layer         | horizontal、amacrine、bipolar核 |
+| 6    | inner nu. layer         | horizontal、amacrine、bipolar核 (抑制) |
 | 7    | inner plexiform layer   |                                 |
 | 8    | ganglion cell layer     | 神經節細胞核                    |
 | 9    | optic nerve fiber layer |                                 |
@@ -59,7 +59,7 @@
 	- outer segement : 插在RPE，有感光disc
 	- innter segment : 代謝區、核
 - Muller cell : 支持細胞，從ext. ~ int. limiting layer
-- optic nerve : 在蜘蛛膜下腔內，視為間腦延伸(**寡突膠細胞**)
+- optic nerve : 在蜘蛛膜下腔內，視為間腦延伸 (**寡突膠細胞**)
 ### Lens
 1. lens capsule : 厚基底層 (type IV collagen)
 2. subcapsular epi : **單立、只在前表面**，靠近懸韌帶有增生層

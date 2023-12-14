@@ -1,13 +1,13 @@
 | 病毒               | 症狀                   |
 |--------------------|------------------------|
 | Measles (Rubelola) | **3C、柯**式斑、肺炎       |
-| Mumps              | 腮腺炎 (豬頭皮)、**睪丸炎、胰臟炎** |
+| Mumps              | 腮腺炎 (豬頭皮)、**睪丸炎(成人)、胰臟炎、腦膜炎** |
 | Parainfluenza      | 小孩哮吼 (**Croup**)       |
 | RSV                | **嬰兒**下呼吸道感染       |
 - 套膜上特殊蛋白
 	- **Fusion** protein
 		- 幫助宿主細胞膜融合 -> 形成Syncytia
-		- #h/blue ==比較== [[Human herpes virus|CMV]]也會
+		- #h/blue ==比較== [[Human herpes virus]]、[[Retrovirus|HIV]]也會
 		- 幫助病毒融合進入細胞
 	- Viral attachment protein (用來區分病毒)
 
@@ -29,7 +29,7 @@
 ***
 - 肺炎 : 麻疹死亡主因
 - 腦炎
-	- ADEM (**Acute** Disseminated Encephalomyelitis)
+	- ADEM (**Acute** Disseminated Encephalomyelitis) : 自體抗體攻擊myelin
 	- MIBE (Measles Inclusion-Body Encephalitis)
 	- SSPE (**Subacute** Sclerosing Panencephalitis)
 ## Parainfluenza

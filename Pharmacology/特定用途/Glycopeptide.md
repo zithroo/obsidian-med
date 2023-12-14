@@ -8,3 +8,6 @@
 - 副作用
 	- [[耳毒腎毒]]
 	- Red man syndrome : Histamine釋放
+## -vancin類
+- Dalba**vancin**、Telavancin、Oritavancin
+	- 可用於Vancomycin有抗藥性之菌株、**除了腸球菌**

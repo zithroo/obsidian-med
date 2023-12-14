@@ -1,0 +1,219 @@
+- Acute HIV syndrome : 和重感冒相似，發燒、淋巴腫大、有不明疹子 ^c18f45
+- Acute Respiratory Distress Syndrome (ARDS) ^722b04
+	- Diffuse alevolar disease
+	- 呼吸窘迫 (病因後24~48 hr)
+	- PaO2降、PaCO2降、呼吸性鹼中毒
+	- X ray : Diffuse alveolar infiltration
+- Alport syndrome ^8810f3
+	- X-linked -> type IV collagen defect
+	- 腎絲球split GBM
+	- Nephritic syndrome、耳聾、白內障
+- Aortic arch syndrome ^2b081c
+	- Takayasu arteritis / Pulseless disease
+	- 年輕女性、下肢無脈搏
+	- 侵犯主動脈弓及分支
+	- [[血管炎]]
+- Bartter syndrome
+	- 粗上升枝通道蛋白異常
+	- 低血鉀、鹼中毒
+	- type I : NKCC2
+	- type II : ROMK
+	- type III : CIC-NKb
+	- type IV : Barttin
+	- type V : CaSR
+- Bernard-Soulier syndrome ^c8985a
+	- 先天缺乏GpIb (血小板 - vWF)
+- Churg-Strauss syndrome ^30fe45
+	- p-ANCA
+	- 氣喘、過敏性鼻炎有關
+	- 侵犯小型血管 (肺、心)
+- Congenital rubella syndrome : 心臟畸形、耳聾、白內障、小頭症 ^c38b24
+- Crigler Najjar syndrome ^466559
+	- AR
+	- Unconjugated hyperbilirubinemia
+	- type I : 缺乏UGT1A1，新生兒致命
+	- type II : UGT1A1活性下降，症狀輕微
+- Cusing syndrome ^327c2c
+	- 定義 : **Cortisol過多**
+	- 糖質新生 : 分解來升糖
+		- 分解脂肪
+			- 皮膚變薄 -> 容易瘀青、出現紋路
+			- 脂肪重新分配 -> 月亮臉、水牛肩
+		- 分解蛋白質 : 肌肉減少
+		- 骨質疏鬆 : 拮抗Vit D、抑制osteoblast
+		- 高血糖 : 胰島素阻抗
+	- Overlap其他腎上腺皮質激素
+		- 部分Aldosterone -> 高血壓、高血鈉、低血鉀
+		- 部分Testosterone -> 體毛增加
+	- 免疫低下 (IL-2降)
+		- 降 : 嗜酸、嗜鹼、淋巴球、單核球、Mast cell分泌
+		- 數量增 : RBC、嗜中 (但功能下降)、血小板
+	- 花生四烯酸代謝 (PLA2)
+		- 消化性潰瘍
+		- 抑制發炎
+	- Permission effect : 增加Catecholamine、Glucagon敏感度
+	- 微血管擴張、臉潮紅
+	- ~~促進surfactant分泌~~
+- DiGeroge syndrome ^3eefa6
+	- **CATCH 22** syndrome
+	- 22q11基因缺損 -> 3、4**咽囊**發育失敗 (胸腺、副甲狀腺)
+	- Neonatal seizure
+	- **C**ardiac、**A**bnormal face、**T**hymic、**C**left palate、**H**ypocalcemia
+- Dubin Johnson syndrome ^85705c
+	- AR -> MRP2基因缺失 -> 肝細胞secretion受損
+	- Conjugated hyperbilirubinemia，但無害
+	- 色素沉澱 -> blcak liver
+- Dumping syndrome
+	- 原因 : 胃切除手術後，食物一下子dump到小腸
+	- 初期 (10~20min) : 高滲食物到小腸，把血管的水拉出小腸 -> 腹脹及噁心
+	- 中期 (20~60min) : 醣類吸收不良 -> 腸內發酵 -> 腹部氣脹、腹絞痛
+	- 後期 (1~3hr) : 醣類快速吸收 -> 胰島素反彈性分泌 -> 繼發性**低血糖** -> 盜汗、虛弱、暈眩
+- Fitz-Hugh-Cutis syndrome : 由性病引起的腹膜炎、肝周圍炎 ^ec3f3f
+- Gilbert syndrome ^062d50
+	- AR -> UGT1A1活性下降
+	- 肝臟uptake減少
+	- Unconjugated hyperbilirubinemia，但無害
+- Gitelman syndrome
+	- AR -> Early DCT的Na-Cl cotransporter突變失能
+	- 導致Late DCT代償留Na排K
+	- 低血鉀、低血壓
+	- #h/blue ==比較== PHA type II (NaCC增強)
+- Goodpasture syndrome ^a31d6b
+	- Type II過敏 -> IgG攻擊Type IV collagen
+	- **肺 (壞死性出血性間質性肺炎)**
+	- **腎基底膜 (腎絲球腎炎)**
+- Gordon syndrome
+	- Pseudo-hypoaldosteronism type II
+	- Early DCT的Na-Cl cotransporter突變活化
+	- 導致Late DCT因為Na太少，無法留Na排K
+	- 高血鉀、高血壓
+	- #h/blue ==比較== Gitelman syndrome (NaCC失能)
+- Gray baby syndrome : 使用Chloramphenicol，新生兒肝臟UDP-glucuronyl transferase能力不足，干擾粒線體功能 ^845c1f
+- Guillain-Barre syndrome ^518a34
+	- 定義 : Acute inflammatory demyelinating poly-radiculo-neuropathy
+	- 致病機轉 : 先有其他病毒感染後引發免疫反應，造成周邊神經以及脊神經發炎
+	- 病變 : Segmental demyelination (**髓鞘受傷，axon還好**)
+	- 上行性麻痹 : 影響運動能力，Sensory 正常，遠端四肢無力 -> 心肌、橫膈肌
+	- 治療 : IVIG、steroid、血漿置換
+- Hemolytic-Uremic Syndrome ^d5d267
+	- **小血管溶血性貧血**、**血小板低下**->**急性腎損傷**
+	- RBC溶解 (顯微血尿)、Platelet降、腎衰竭
+	- 肉眼不可見血尿 (因為RBC已破碎)
+	- Typical
+		- Shiga toxin溶血 -> 活化**補體**alternative
+	- Atypical
+		- 40% **S.pneumoniae**
+		- **補體**過度活化 (C5)
+		- 藥物 : Mitomycin C、Ticlopidine
+- HNPCC syndrome ^121a0d
+	- Mismatch repair gene缺陷
+	- 相關 : MLH、Mut
+- Hyper IgE syndrome / Jobs syndrome ^51cde4
+	- AD -> **STAT3**基因缺陷
+- Hyper IgM syndrome ^d86fb1
+	- X-link -> **CD40L** 基因突變->T細胞無法活化B cell產生isotype switching
+- Liddle syndrome ^5cf8b6
+	- AR -> Amiloride sensitive Na channel mutation
+	- DCT、CD上的ENa channel基因突變 -> 不易分解
+	- ENaC持續表現，延長Aldosterone的作用
+	- 低血鉀、高血壓
+	- #h/blue ==比較== PHA type I (ENaC突變失能)
+- Li-Fraumeni syndrome ^e7de75
+	- 缺乏p53 gene
+- MEN-I (Werner syndrome) ^1ac14a
+	- Multiple Endocrine Neoplasia
+	- Menin gene突變 (Tumor supressor gene)
+	- 症狀 : 3P
+		- **P**ituitary tumor : PRL > GH
+		- Hyper**p**arathyroidsim
+		- **P**ancreatic tumor : Gastrin > Insulin
+- MEN-II ^eeea59
+	- **RET** gene突變 (Proto-oncogene)
+	- MEN-IIA : Medullary thyroid cancer、Hyperparathyroidism、Pheochromocytoma
+- Mucocutaneous Lymph node syndrome ^2c8810
+	- Kawasaki disease
+	- 持續發**燒** > 5天
+	- 黏膜 : 結膜**炎**、**草莓**舌
+	- 皮膚 : **紅疹**
+	- 淋巴結 : 頸部淋巴腫大、水腫
+	- 好犯幼兒
+	- 併發 : **冠狀動脈**血管炎、動脈瘤 -> AMI
+	- #h/red ==紅孩兒==
+- Nelson syndrome ^1cc9a5
+	- 定義 : 腎上腺切除後腦下腺分泌ACTH的細胞增長，ACTH過高
+	- Cushing syndrome過高時考慮摘除腎上腺，反而使腦下腺產生Macroadenoma
+	- ACTH過高 -> $\alpha$ MSH -> 色素沉澱
+- Nephritic syndrome ^d5b727
+	- 血尿、寡尿、高血壓
+	- WBC浸潤、細胞增生
+- Nephrotic syndrome ^f57eaa
+	- 蛋白尿、Hypoalbuminea、General edema、Hyperlipidemia
+	- 基底膜增厚、硬化
+- Paraneoplastic syndrome
+	- 腫瘤不藉由轉移、侵犯影響的症狀
+	- Ectopic hormone
+		- ACTH : 小細胞肺癌
+		- ADH : 小細胞肺癌
+		- **PTH** : **鱗狀**細胞肺癌、RCC
+		- EPO : Hemangioblastoma、RCC
+	- Acanthosis nigricans : 胃癌
+	- Myasthenic gravis : Thymoma
+	- Clubbing finger : 肺癌
+	- Migrating thrombophlebitis (Trousseau sign)
+		- 胰臟、大腸、肺癌
+- PCOS syndrome (Polycystic ovary syn) ^6a55ef
+	- Stein-Leventhal syndrome
+	- 長期無排卵、雄性素過高、Type II DM
+	- 雙側多發性濾泡囊腫，但**無黃體 (Thecal)**
+- POEMS syndrome
+	- Polyneuropathy
+	- Organomegaly : 肝、脾、淋巴腫大
+	- Endocrinopathy
+	- **Multiple myeloma**
+		- Multiple myeloma中少見POEMS
+		- 骨頭sclerotic，非lytic lesion
+	- Skin
+- Polycystic ovarian syndrome (POCS) ^6b9247
+	- 定義 : 卵巢內有許多不成熟的濾泡
+	- 原因 : LH過高
+		- 卵巢內太多顆濾泡、但來不及成熟
+		- 刺激Leydig cell分泌Androgen
+	- 唯一合法藥物[[Sex hormone#Estrogen|Clomiphene]]
+- Reye syndrome ^80f5f5
+	- < 18歲，感染流感或水痘，用Aspirin退燒
+	- 急性脂肪肝 + 肝性腦病變
+	- 改用Acetaminophen
+- Rotor syndrome ^47b741
+	- AR -> 減少excretion，也減少肝臟儲存，Conjugated bilirubin漏出去
+	- Conjugated hyperbilirubinemia，但無害
+	- 沒有色素沉澱
+- Sheehan syndrome ^74e1a7
+	- 定義 : 產後腦下垂體血流不足而壞死
+	- 原因
+		- 先天 : 腦下垂體血流供應較少
+		- 中間 : 懷孕時PRL細胞大量增生，供不應求
+		- 產後 : 孕婦大出血
+- Sjogren syndrome ^9ee6ab
+	- 自體抗體 : Anti-ribonucleoprotein (Anti-Ro、Anti-Ra)
+	- 為一種Rheumatic disease
+	- 症狀
+		- Primary : 乾燥症 (sicca syndrome)
+		- Secondary (合併其他系統性免疫疾病)
+			- Non Hodgkin lymphoma
+				- Marginal zone lymphoma
+- VHL (Von Hippel Lindau syndrome) ^f20993
+	- 3p (短臂) 缺失 (本身為腫瘤抑制基因)
+	- Renal Cell Carcinoma的**Clear cell**
+	- CNS Hemangioblastomas
+	- Pheochromocytoma
+- Waterhouse-Friderichsen syndrome ^2e720f
+	- 猛爆性腦膜炎雙球菌菌血症
+	- 嚴重sepsis、DIC、兩側腎上腺由髓質擴展到皮質的大出血
+- Wernicke-Korsakoff syndrome ^fc6350
+	- 原因 : Vit B1缺乏 <- 喝酒營養不良
+	- Wernicke : Cofusion、Opthalmoplegia、Ataxia
+	- Korsakoff : Confabulation、Amnesia、Personality
+- Wiskott-Aldrich syndrome ^9c1492
+	- X-link recessive
+	- WASP基因突變 -> 血小板、T 細胞骨架受損
+	- Triad : IgM減少、IgE增加 (過敏性皮炎)、對多糖類抗原無抗體反應、血小板低下

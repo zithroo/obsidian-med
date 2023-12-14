@@ -11,4 +11,4 @@
 | G(+) | 厭氧               | **嗜氧(似TB)**     |
 | 染色 | Acid-fast (-)      | **微Acid-fast (+)**|
 | 症狀 | 臉部感染、mycetoma | mycetoma       |
-| 治療 | Penicillin、清創   | tmp/smx        |
+| 治療 | **Penicillin**、清創   | TMP/SMX        |

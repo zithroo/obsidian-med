@@ -1,6 +1,8 @@
 - 皆**Heat liable**
 - Cholera
+	- Gs的$\alpha$ subunit上接ADP-ribose，抑制GTPase，Gs無法停止活化
 - E.coli heat liable toxin
 - Pertussis
+	- Gi的$\alpha$ subunit上接ADP-ribose，抑制GTP的置換，Gi無法抑制cAMP
 - B.anthracis Edema factor
 - 腹瀉型仙人掌桿菌

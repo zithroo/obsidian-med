@@ -6,7 +6,7 @@
 ## H.influenzae
 - capsule : **Hib**的**Polyribitol Phosphate** capsule做[[Vaccine#DTaP-Hib-IPV]]
 - 症狀
-	- 兒童 : 腦膜炎、Epiglottitis、關節炎
+	- 兒童 : 腦膜炎、**Epiglottitis**、關節炎
 		- 腦膜炎中唯一可以加類固醇治療
 	- 老人 : 肺炎、中耳炎
 

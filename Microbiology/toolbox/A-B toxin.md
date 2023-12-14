@@ -1,3 +1,4 @@
+- A : **A**cting (毒性物)，B : **B**inding (攜帶進入) 
 1. B.anthracics
 2. C.tetani
 3. C.botulinum

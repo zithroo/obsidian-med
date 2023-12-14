@@ -32,7 +32,8 @@
 	- 免疫不全病人
 	- **Progressive multifocal leukoencephalopathy**
 	- **CNS demyelination**
-	- Large T Ag : 抑制p105Rb、p53
+	- Large Tumor Ag : 抑制p105Rb、p53
+	- Small Tumor Ag : 病毒複製和癌化次要角色
 - Merckle cell polymavirus
 	- 免疫抑制老人曬太陽
 	- Merckle cell carcinoma

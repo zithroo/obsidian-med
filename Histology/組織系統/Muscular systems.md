@@ -1,8 +1,9 @@
 ## 結構
 - myofilament(肌絲) -> 多個sacromere (肌小節) -> myofibril (肌原纖維) -> **myofiber (肌細胞/肌纖維)** -> fasicle (肌束) -> muscle
-- endomysium : 包覆肌細胞
-- perimysium : 包覆肌束
-- epimysium : 包覆肌肉
+- Sacrolemma : 肌細胞的細胞膜
+- Endomysium : 包覆肌細胞的結締組織
+- Perimysium : 包覆肌束
+- Epimysium : 包覆肌肉
 ## 骨骼肌
 - Triad : 1 T-tuble + 2 Terimnal cisterna 在 **A-I band交界**
 - 不易再生，無細胞分裂能力，但**satellite cell (inactive myoblast)可以分化融合成骨骼肌細胞**

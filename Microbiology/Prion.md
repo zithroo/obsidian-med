@@ -2,7 +2,7 @@
 	- PrP$^c$ (抑制neuron apoptosis) -> PrP$^{sc}$
 	- 疊的很堅固 : 福馬林、紫外線、高溫沒用
 	- 人體蛋白 : 沒有強烈免疫反應
-- 疾病 : Kuru disease、CJD、Bovine spongiform encephalopathy (狂牛症)、Scrapie (羊搔癢症)
+- 疾病 : **Kuru** disease、CJD、Bovine spongiform encephalopathy (狂牛症)、Scrapie (羊搔癢症)
 - Creutzfeldt-Jakob disease (CJD)
 	- 病理特徵
 		- Spongiform degeneration

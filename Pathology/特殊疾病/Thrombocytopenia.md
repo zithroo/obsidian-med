@@ -1,0 +1,21 @@
+- Pseudo-thrombocytonpenia
+	- 血小板低下、但無出血症狀
+	- 原因 : EDTA dependent platelet agglutin，造成試管內血小板clumping
+## Immune ThrombocytoPenia
+- 產生anti-血小板、anti-Megakaryocyte
+	- < 3個月 : 可能由病毒引起
+## Thrombotic MicroAngiopathy
+- Triad : 小血管溶血性貧血、血小板低下、急性腎損傷
+- Thromotic Thrombocytopenic Purpura (TTP)
+	-  先天性
+		- **ADAMTS13** 酵素缺乏 < 5%
+			- 製造缺乏或Anti-ADAMTS13
+		- ADAMTS13可切割wWF (越長的vWF功能越強)
+		- 治療 : 血漿置換 (補充ADAMST13)
+	- 後天性
+		- 藥物 : Ticlopidine、Clopidogrel
+		- HIV、SLE、Antiphospholid syndrome
+- [[syndrome#^d5d267|HUS]]
+	- Typical HUS : Shiga toxin / EHEC
+	- Atypical HUS : S.pneumoina、C5過度活化
+	- 治療 : C5 inhibitor (Eculizumab)

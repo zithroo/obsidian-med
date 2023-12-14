@@ -15,12 +15,12 @@
 ## 藥物
 ![[Thyroid drug.png]]
 ### Hypothyroidism
-- 補甲狀腺素
+- 補甲狀腺素、**孕婦**都可以使用
 
 | 藥名          | 成分  | 特色           |
 |---------------|-------|----------------|
 | Liothyronine  | T3    | 心毒性、半衰短 |
-| Levothyroxine | T4    | **最常使用**       |
+| Levothyroxine | T4    | **最常使用**、不併用制酸劑|
 | Liotrix       | T3+T4 | 不穿胎盤、乳汁 |
 - #h/red ==左 (Levo) 近寺 (4)==
 ### Hyperthroidism
@@ -38,14 +38,14 @@
 - 症狀壓制 : $\beta$ blocker、Corticosteroid (防止休克)
 #### 慢性控制
 - 原則 : **抑制製造**，等現有甲狀腺消耗完才有效
-- **Perchlorate** : 抑制**NIS iodine trap**，治療[[心律不整#Class III|Amiodarone]]造成的亢進
+- **Perchlorate** : 抑制**NIS iodine trap**，治療[[心律不整#Class III|Amiodarone]]造成的亢進 (乳汁分泌、孕婦禁用)
 
 |Thioamide      | Propylthiouracil (PTU)   | Methi**mazole**              |
 |---------------|--------------------------|--------------------------|
 | 共同          | Anti-TPO、Anti Tg        |  Anti-TPO、Anti Tg        |
 | 特點          | 抑deiodinase、用於**急性期** | 長效、**首選**               |
-| 孕婦          | O                        | 穿胎盤、分泌乳汁、**致畸胎** |
-| 副作用 (共同) | 皮疹、白血球過低         | 肝功能異常、SLE syndrome |
+| **孕婦**          | O                        | 穿胎盤、分泌乳汁、**致畸胎** |
+| 副作用 (共同) | **皮疹、白血球過低**         | 肝功能異常、SLE syndrome |
 - Thioamide先用，碘後用 (碘會影響其Onset time)
 #### 碘的功能
 - 甲狀腺製造 (-) : Wolff-Chiakoff effect

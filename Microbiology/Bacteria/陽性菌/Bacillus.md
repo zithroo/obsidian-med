@@ -1,14 +1,15 @@
 - 孢子、嗜氧
 ## B.anthracis
 - **蛋白質capsule** : 主要毒力因子
+- $\gamma$ 溶血 (不溶血)
 - 傳染
 	- 接觸(95%，死亡率低)
-	- 吸入(**wool sorter's disease**)
-	- 食入
+	- 吸入孢子 (**wool sorter's disease**)
+	- 食入 (腸胃型炭疽)
 - 毒素 (**[[A-B toxin]]**)
-		- Protective Ag : [[Vaccine]] (動物的)、B(載體)
-		- Edema factor : cAMP
-		- Lethal factor : Zn metalloprotease
+	- Protective Ag : [[Vaccine]] (動物的)、B(載體)
+	- Edema factor : cAMP
+	- Lethal factor : Zn metalloprotease
 ## B.cereus
 |        |    嘔吐型    |    腹瀉型    |
 |:------:|:------------:|:------------:|

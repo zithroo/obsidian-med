@@ -1,5 +1,5 @@
 - N.asteroides
 	- Catalase (+)
-	- 像TB : 嗜氧、Acid Fast Stain (+)
+	- 像TB : 嗜氧、Acid Fast Stain (+)、**Cord factor**
 	- 像[[Actinomyces]]
 	- Mycetoma、肺炎、腦膿瘍

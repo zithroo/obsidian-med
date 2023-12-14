@@ -1,7 +1,10 @@
 - 生長緩慢 : TB分裂一次20 小時，慢性感染
 - DNA 中含有高 G+C (60~70%) (大部分細菌 G+C≦50%) 
 - **Acid-fast (+)** bacteria : 石碳酸複紅初染 -> 酸性酒精脫色 -> 亞甲基藍複染
-	- #h/blue ==比較== [[GPB#Actinomyces (無孢子、厭氧)|Nocardia]]
+	- #h/blue ==比較==
+	- 短鏈 Mycolic acid : [[Corynebacterium]]
+	- 中鏈 : [[Nocardia]]
+	- 長鏈 : Mycobacterium
 ## M.tuberculosis
 - 絕對需氧
 - Cord growth (Cord factor)
@@ -24,14 +27,13 @@
 | 篩檢 | Acid fast stain | 知道有mycolic acid而已 |
 | 確診 | **痰液培養**        |  超慢、可以測試抗藥性  |
 |      | PCR             | 2~4 hr                 |
-***
 
 | 檢測Latent TB                     | 方式                         | 結果        | 缺點                 |
 |-----------------------------------|------------------------------|-------------|----------------------|
 | Tuberculin skin test (TST)        | 皮下**注射**抗原                 | type IV過敏 | **打過BCG偽陽性**        |
 | Interferon-γ Release Assay (IGRA) | **抽血**分離T cell，用TB抗原刺激 | 分泌IFN-γ量 | 只知道最近曾被TB感染 |
 - 培養為Gold standard
-- [[Vaccine]] : 卡介苗
+- [[Vaccine]] : 卡介苗，**不防肺結核**，防腦膜炎TB、Milliary TB
 
 ## M.leprae
 - [[intracellular pathgen]]

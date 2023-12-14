@@ -46,6 +46,6 @@
 	- 分界凹溝 (Demarcation channel) : 細胞膜向內凹陷，之後凹陷融合裂開
 4. Thrombocyte (從骨髓跑到血液中)
 ### 性質
-- [[無核]]，但有[[granule]]
+- [[無核]]，但有[[granule]]、有**粒線體**、Golgi
 - 凝血
 - 血小板adhesion (GpIb)、aggregation (GpIIbIIIa)、activation

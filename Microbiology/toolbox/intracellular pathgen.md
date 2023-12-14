@@ -1,6 +1,6 @@
 | 胞內寄生 | 分類    | 致病菌                                                              |
 |----------|---------|---------------------------------------------------------------------|
-| 絕對胞內 |         | Rickettsiae、Chlamydia、**Bartonella**、Anaplasma、Ehrlichia、**Treponema** |
+| 絕對胞內 |         | Rickettsiae、Anaplasma、Ehrlichia、Chlamydia、**Bartonella**、**Treponema** |
 | 兼性胞內 | GPB     | Listeria                                                            |
 |          | GNB     | Salmonella、Legionella、Yershina、Francisella、Brucella             |
 |          | GNS     | **B.burgdorferi**                                                       |

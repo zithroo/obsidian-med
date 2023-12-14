@@ -5,7 +5,7 @@
 - **IVIG**前後注射的活疫苗 : 無效
 ### 個項
 - 大多是病毒類疫苗，除了
-	- TB : BCG，使用牛結核桿菌 (M. bovis) 製成
+	- TB : BCG，使用牛結核桿菌 (M. bovis) 製成，**不防肺結核**
 - MMR : Measles、Mumps、Rubella
 - VZV
 - 口服小兒麻痺Sabin
@@ -25,7 +25,7 @@
 - Diphtheria 、Tentanus toxoid
 - Pertussis
 	- DTP : 整隻百日咳菌
-	- DTaP (acellular vaccine) : 去活化百日咳類毒素+ Filamentous Hemagglutinin 、Pertactin，增強抗原性
+	- DTaP (**acellular** vaccine) : 去活化百日咳類毒素+ Filamentous Hemagglutinin 、Pertactin，增強抗原性
 * Hib : **conjugated**蛋白質
 * IPV : 小兒麻痺沙克
 * 打2、4、6、18個月

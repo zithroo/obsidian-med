@@ -1,6 +1,6 @@
 | GPB      |      |                 |
 |----------|------|-----------------|
-| 孢子 (+) | 嗜氧 | [[Bacillus]]        |
+| **孢子 (+)** | 嗜氧 | [[Bacillus]]        |
 |          | 厭氧 | [[Clostridium]]     |
 | 孢子 (-) | 嗜氧 | [[Corynebacterium]] |
 |          |      |  [[Listeria]]       |

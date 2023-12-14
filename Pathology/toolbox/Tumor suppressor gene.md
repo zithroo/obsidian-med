@@ -14,7 +14,7 @@
 	- 抑制[[WNT pathway.png|WNT pathway]]
 - PTEN
 	- PI3K / AKT pathway負向調節蛋白
-	- 乳癌、甲狀腺癌、子宮內膜癌
+	- 乳癌、**甲狀腺癌**、子宮內膜癌 (Type I)
 - VHL [[syndrome#^f20993]]
 ## 細胞核
 - P53 gene

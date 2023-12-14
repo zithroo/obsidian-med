@@ -56,14 +56,19 @@
 - type I collagen : **fibrous cartilage**
 - perichondrium、無endochondrium
 ### 生長
-- Interstitial growth : **大部分**，chondroblst分泌、增生後分開
-- Appositional growth : **纖維軟骨、骨垢版、關節軟骨(X)**，perichondrium生長
+- Interstitial growth
+	- **大部分軟骨**
+	- chondroblst分泌、增生後分開
+- Appositional growth
+	- **纖維軟骨、骨垢板、關節軟骨不能**
+	- perichondrium生長
 ### 分類
 |      | Collagen | 位置                                               |
 |------|----------|----------------------------------------------------|
 | 透明 | type 2   | 大部分(氣管、骨垢板、肋軟骨)                         |
 | 彈性 | type 2   | 外耳、會厭、arytenoid(頂端)、corniculate、cuneiform  |
 | 纖維 | type 1   | 椎間盤、恥骨聯合、Articular disc(SC joint, TMJ)、半月板 |
+- 只有透明軟骨會鈣化
 ## 關節
 1. 纖維性
 	- 骨縫 (suture) : 頭骨

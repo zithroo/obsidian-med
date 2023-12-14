@@ -21,9 +21,9 @@
 ## Signal transduction
 - Ras : G protein、有GTPase活性出現**點突變**
 - ABL-BCR (9 : 22) : 費城染色體
-- RTK (例如EGFR)-> 
-		- Ras -> Raf -> MEK -> ERK (MAPK)
-		- PI3K -> AKT -> mTOR
+- RTK (例如EGFR) -> 
+	- SOS -> Ras -> Raf -> MEK -> ERK (**MAPK**)
+	- PI3K -> AKT -> mTOR
 
 | Receptor相關Pathway | 突變         | 癌症             | 染色體 |
 |--------------|--------------|------------------|:------:|

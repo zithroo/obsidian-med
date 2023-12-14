@@ -20,7 +20,7 @@
 | Ependymocyte         | 單立 | desmosome      | 不在基底膜上 | cilia、microvili |
 | Choroidal epithelium | 單柱 | tight junction | 基底膜上     | apical microvili |
 2. 神經元
-	- 本體 : Nissel body (rER，不在**軸丘、軸突**)、neurofibril
+	- 本體 : Nissl body (rER，不在**軸丘、軸突**)、neurofibril
 	- 突起
 ## 分層
 ### 大腦

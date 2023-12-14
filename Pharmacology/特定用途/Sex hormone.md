@@ -26,6 +26,7 @@
 | SERM          | Tamoxifen    | 停經前乳癌 |
 |               | Raloxifene   | 停經後骨鬆 |
 |               | **Clomiphene**   | 排卵針、PCOS     |
+|E+P (+)        | M**estr**anol    | 口服避孕藥 |
 |E receptor (-) | Fulvestrant  | 最後線乳癌 |
 | Aromatase (-) | -trozole | 停經後乳癌 |
 - [[骨質疏鬆#雌激素]] : E、E+P、SERM的不同
@@ -43,7 +44,7 @@
 |--------------|----------------|----------|
 | P (+)        | Levonorgestrel | 射後避孕 |
 | P receptor (-)| Mifepristone   | 早期墮胎     |
-- Levonorgestrl : 抑制LH surge
+- Levonor**gestrl** : 抑制LH surge
 - Mifepristone (RU486)
 	- Progesterone、Androgen、Glucocorticol (-)
 	- **非Estrogen (-)**

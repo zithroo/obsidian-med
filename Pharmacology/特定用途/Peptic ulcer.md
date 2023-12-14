@@ -27,7 +27,7 @@
 - 效果 : **PPI** > H2 (-) > M (-)
 - #h/blue ==比較== [[抗精神病|Aripiprazole]]，非PPI
 ## 增加黏膜
-1. Sulcrafate : 酸性下有效 -> 飯前服用、**不可併制酸劑**
+1. Sucralfate : 酸性下有效 -> 飯前服用、**不可併制酸劑**
 2. **Miso**prostol : [[Autocrine#Eicosanoid (+)|PGE1]]、子宮收縮 (孕婦禁止)
 3. Bismuth subsalicylate : 殺菌 (**旅行者腹瀉**)、黏液分泌
 ## 殺H.pylori

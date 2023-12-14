@@ -68,4 +68,4 @@
 ### 檢驗
 - 初步篩檢 : ELISA - Anti-HIV、p24
 - 確診 : Western blot - Ab、RT-PCR
-- 監測藥效 : RT-PCR
+- 監測藥效 : RT-PCR (測病毒量)

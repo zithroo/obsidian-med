@@ -13,17 +13,24 @@
 |              |                | Proteus          |
 |              | 運動性+H2S (-) | Shigella         |
 |              |                | Y.enterocolitica |
-- O antigen : (**somatic** antigen) LPS由外而內
-	- O-Ag : 區分**血清型** (同種菌)
-	- Core : 區分菌種
+- 發酵/不發酵 乳醣 : MacConkey agar 紅色/ 黃色
+- 產生H2S : Hektoen Enteric agar 黑色
+- 強/發酵/不發酵 乳醣 : Eosin Methylene Blue agar 綠色金屬光澤(E.coli) / 紫色/ 無色
+***
+- LPS由外而內
+	- O-Ag (**somatic** antigen) : 區分**血清型** (同種菌)
+	- Core polysaccharide: 區分菌種
 	- Lipid A : 毒素
 - H antigen : 鞭毛
 - Vi antigen : capsule
 ## E.coli
+- [[E.coli表格1.png]]、[[E.coli表格2.png]]
+![[Ecoli表格全.png]]
 - Uropathogenic E. coli (UPEC)
 	- **泌尿道**感染 (前三名E.coli、K.p、Proteus)
-	- P pili : 黏附
+	- **P pili** (**Pylonephritis** associated pili): 黏附
 	- Hemolysin : 溶解RBC、上皮 -> 出血性泌尿道感染
+- EPEC : 細菌黏附至小腸上皮細胞，破壞微絨毛
 ***
 
 |      | 毒素              | 機轉       | 症狀                         |
@@ -31,6 +38,7 @@
 | ETEC | Heat **L**iable **T**oxin | [[cAMP toxin]]   | 旅行者腹瀉                 |
 |      | Heat **S**table **T**oxin | cGMP (+)   |                             |
 | EHEC | Verotoxin         | **Shiga-like** | 出血腹瀉、**HUS**|
+- 旅行者腹瀉 : Diarrhea without fever，細菌不破壞上皮，靠毒素讓水大量分泌
 - EH (hemorriage) EC = ST (Shiga Toxin Producing) EC : **O157:H7**
 	- [[抑制蛋白質合成毒素|Shiga toxin]]
 	- [[syndrome#^d5d267|Hemolytic-Uremic Syndrome]] : 溶血性尿毒症候群
@@ -40,7 +48,7 @@
 - 正常菌相 : 口腔、皮膚、腸道
 - 只伺機性感染 -> **血痰**、UTI、肺炎、DM liver abcess
 ## Salmonella
-| 分類     | Typhoid fever                                                         | Non-Typhi         |
+| 分類     | Typhoid fever (Enteric fever)                                         | Non-Typhi         |
 |----------|-----------------------------------------------------------------------|-------------------|
 | 感染源   | 帶原人 (吃大便)                                                       | 雞的卵巢 (吃雞蛋) |
 | 傳染途徑 | 迴盲區 (**便秘**) -> 侵入血液被巨噬吞 -> 全身淋巴、肝脾、骨髓 -> 膽汁排出 | 大小腸            |
@@ -62,7 +70,7 @@
 - [[Weil-Felix test]]
 ## Shigella
 - 超強致病 : $10^2$隻
-- 桿菌性痢疾
+- 桿菌性痢疾 (Dysentery)
 - Shiga toxin : [[抑制蛋白質合成毒素]]、[[syndrome#^d5d267|HUS]]
 	- #h/blue ==比較== Shigella <-> EHEC 
 ## Yersinia

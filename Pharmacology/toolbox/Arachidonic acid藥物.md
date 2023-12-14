@@ -13,11 +13,11 @@
 |          | Ibuprofen      | 最安全、**急性痛風**            |                   |
 |          | Ketoprofen     | 也抑制LOX                   |                   |
 |          | Indomethacin   | **關閉PDA、急性痛風、抑制宮縮** |                   |
-|          | Ketorolac      | 止痛最強                    | 腎/胃最強         |
+|          | Ketorolac      | 止痛最強、**術後止痛**          | 腎/胃最強         |
 |          | Diclofenac     |                             | 肝最強            |
 | COX 2 (-) | Celecoxib      |                             | 副作用最小        |
 |          | Rofecoxib      |                             | 血栓風險          |
-| **PGE2 (-)**  | Acetaminophen  | CNS退燒、止痛               | 肝毒性(NAC解)     |
+| **PGE2 (-)**  | Acetaminophen  | CNS退燒、止痛、**不**抗發炎       | 肝毒性(NAC解)     |
 
 | 副作用 |                |                  |        |
 |--------|----------------|------------------|--------|

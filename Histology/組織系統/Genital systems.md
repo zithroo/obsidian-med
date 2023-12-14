@@ -12,7 +12,7 @@
 	- 有androgen binding protein : 雄性素receptor
 	- 吞噬精子形成的廢物
 - Leydig cell
-	- 有Reinke氏結晶體
+	- 有**Reinke** crystalloid
 	- 內分泌 : testosterone，sER、**tubulvesicular cristae粒線體**
 - 睪丸輸出管 : **單柱纖毛**上皮
 ### 副睪

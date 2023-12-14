@@ -17,7 +17,7 @@
 ## C.tetani
 - 孢子在細胞末端、像鼓棒
 - 土壤接觸傷口
-- 毒素 : Tetanospasmin([[A-B toxin]])，熱不穩定、**抑制脊髓突觸GABA、Glycine** -> 肌肉收縮
+- 毒素 : Tetanospasmin ([[A-B toxin]])，熱不穩定、**抑制脊髓突觸GABA、Glycine** -> 肌肉收縮
 - 診斷 : **臨床症狀** (菌不好養、毒素不好分離)
 - 治療
 	- clean/minor傷口

@@ -21,11 +21,13 @@
 | Penicillinase-**resistent** | **Methicillin**、Naficillin、**Oxa**cillin | MSSA、**肝**代謝             |
 | Amino-PCN               | **Amp**icillin、**Amo**xicillin            | 併用$\beta$-lmase inhibitor |
 | Carboxy-PCN             | Ticarcillin、Piperacillin          | 併用$\beta$-lmase inhibitor |
-1. Penicillin G (Benzathine Penicillin) : IV
+1. Benzathine Penicillin : IM治梅毒
 2. Methicillin : Anti-**Staphylococcal**
 	- Oxacillin (IV)、Cloxacillin (Oral)、Dicloxacillin (Oral)
 3. Amino-PCN
 	- Ampicillin (IV)、Am**o**xicillin (Oral)
+		- Am**o** : 唯一不受食物影響的penicillin
+	- Listeria : Ampicillin
 	- #h/red ==Am"o" (門診Oral抗生素)==
 	- +$\beta$ lactamase inhibitor後 -> + **H**EN PEcK
 4. Carboxy-PCN : Anti-**Psudomonal** PCN
@@ -55,7 +57,7 @@
 	- Cef**tri**axone : **淋病雙球菌**、過**BBB** (腦膜炎雙球菌)
 	- 淋病雙球菌 : Cefixime、Ceftriaxone
 		- #h/red ==Fucking me、吹到爽 (triaxone)==
-	- Ceftazidime : 綠膿桿菌
+	- Ceftazidime、Cefoperazone : 綠膿桿菌
 - 第四代
 	- 第一代+第三代
 	- AmpC $\beta$ lactamase
@@ -66,8 +68,8 @@
 - 只對**GNB嗜養菌**有效
 - $\beta$ lactam類中最不容易過敏
 ## Carbapenem
-- Imi**penam** + Cilastatin
-	- Imipenam在腎PCT中被Dehydropeptidase分解成毒性物
+- Imi**penem** + Cilastatin
+	- Imipenem在腎PCT中被Dehydropeptidase分解成毒性物
 	- Cilastatin : Dehydropeptidase inhibitor
 - #h/red ==超強，記無效的就好==
 	- 無效 : MRSA、Enterococci、Stenotrophomonas

@@ -23,7 +23,7 @@
 |           | 來源         | 上皮   | Recess |
 |-----------|--------------|--------|--------|
 | Paryngeal | 中           | 偽複柱 | 0      |
-| Palatine  | 內(第二咽囊) | 複鱗   | 10~20  |
+| Palatine  | 內 (第二咽囊) | 複鱗   | 10~20  |
 | Lingual   | 中           | 複鱗   | 1      |
 ## 有capsule
 - **只有淋巴結有輸入淋巴管**
@@ -45,8 +45,8 @@
 	2. Medulla : T少、上皮網狀多、**Hassall body/Thymic corpuscle**
 ### Spleen (TBM)
 1. White pulp
-	- 中央 : **PALS**(periarterial lymphatic sheath)(**T cell**)圍繞central a.
-	- 周圍 : lymphatic nodule(**B cell**)
+	- 中央 : **PALS** (periarterial lymphatic sheath) (**T cell**) 圍繞central a.
+	- 周圍 : lymphatic nodule (**B cell**)
 2. Sheathed capillary : 刷動脈末端包覆**Macrophage**
 3. Red pulp : 脾索、脾竇
-- 血流 : splenic a. -> trabecular a. -> central a. -> penicillar a.(刷動脈) ->sheathed capillary -> splenic cord -> splenic sinus -> pulp v. -> trabecular v. -> splenic v.
+- 血流 : splenic a. -> trabecular a. -> central a. -> penicillar a. (刷動脈) ->sheathed capillary -> splenic cord -> splenic sinus -> pulp v. -> trabecular v. -> splenic v.
