@@ -28,12 +28,12 @@
 - 原則 : **抑制釋放、抑制甲狀腺素活性、症狀壓制**
 - **抑制釋放** : 碘、**[[情緒安定 (鋰鹽)|鋰鹽]]**
 - **抑制甲狀腺素活性** (T4 -> deiodinase -> T3)
-		- ~~[[心律不整#Class III|Amiodarone]]~~
-		- $\beta$ blocker
-		- Corticosteroid
-		- Iodine (先給PTU，避免延後PTU的onset)
-		- ~~Starve~~
-		- **PTU**
+	- ~~[[心律不整#Class III|Amiodarone]]~~
+	- $\beta$ blocker
+	- Corticosteroid
+	- Iodine (先給PTU，避免延後PTU的onset)
+	- ~~Starve~~
+	- **PTU**
 	- #h/red ==ABCISP==
 - 症狀壓制 : $\beta$ blocker、Corticosteroid (防止休克)
 #### 慢性控制
@@ -55,5 +55,5 @@
 ***
 - **Wolff-Chaikoff effect** : 碘抑制peroxidase、有機化
 - Jodbasedow phenomenon : 手術前想抑制血流，反而造成甲狀腺機能亢進
-- Lugo solution : 0.3% iodine+0.6% KI
+- Lugo solution : 0.3% iodine + 0.6% KI
 - $^{131}$I : 殺甲狀腺 -> 終生低下，需服用Levothyroxine

@@ -9,17 +9,18 @@
 |              | $\gamma$        |                    |  Enterococcus      |
 ## Staphylococcus (catalase +)
 ### S.aureus (coagulase +)
+| 分類     | 致病因子           | 效用                             |
+|----------|--------------------|----------------------------------|
+| 保護自己 | Protein A          | 中和抗體Fc區，防止調理           |
+|          | Coagulase          | 周圍形成Fibrin clot              |
+| 破壞宿主 | Hyaluronidase      | 分解組織 (組織擴散因子)          |
+|          | Fibrinolysin         | 溶解自己形成的Fibrin clot        |
+| **Super Ag** | Exofoliative toxin | Scaled Skin Syndrome             |
+|          | TSST-1             | Toxic shock syndrome、衛生棉條   |
+|          | Enterotoxin        | A : **6小時內食物中毒**、Heat stable |
+|          |                    | B : **偽膜性大腸炎**                 |
 - $\beta$ 溶血
-- Protein A : **主要毒力因子**、中和抗體Fc區、防止調理
-- Cogulase (+)
-- hyaluronidase、fibrinolysin
-- 毒素 (**Super Ag**)
-	- Exfoliative toxin : SSSS (Staphylococcus Scaled Skin Syndrome)在新生兒
-	- Enterotoxin
-		- A型 : 食物中毒，外毒素、**heat stable**
-			- 6小時內出現症狀 [[Bacillus#B.cereus|B.cereus]]
-		- B型 : 偽膜性大腸炎
-	- TSST-1 : toxic shock syndrome、衛生棉條
+- #h/blue ==比較==6小時內食物中毒 [[Bacillus#B.cereus|B.cereus]]
 - 正常菌相 : **鼻腔、皮膚**
 ### CoNS
 - $\gamma$ 溶血
@@ -49,13 +50,15 @@
 ### $\beta$溶血 (全)
 - 分類 : Lancefield grouping (by細胞壁carbohydrate)
 1. GAS (S.pyogenes)
-	- C5a peptidase
+	- **C5a peptidase**
 	- M protein : **主要毒力因子**、**風濕熱**
 	- 毒素
 		- Pyogenic Exotoxin (speA)
 			- 引起Type IV過敏 -> Scarlet fever
 			- **super Ag**
-		- Streptolysin O : 溶血素、ASLO檢驗 (Rheumatic、PSGN)、Pyoderma由speA引起，測不到
+		- Streptolysins (Hemolysin)
+			- SLO : Oxygen-labile、ASLO檢驗 (Rheumatic、PSGN)、Pyoderma由speA引起，測不到
+			- SLS : Oxygen-stable
 	- 猩紅熱、丹毒、壞死性筋膜炎、toxic shock
 	- Post infection : **風溼熱、PSGN、關節炎**
 	- Bacitracin sensitive

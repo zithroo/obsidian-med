@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f560cea4effec630",
+        "id": "2ed4cbe772aa0e55",
         "type": "tabs",
         "children": [
           {
-            "id": "d051d9ed67be7eb9",
+            "id": "db5f880a9a870102",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pharmacology/特定用途/抗凝血劑.md",
+                "file": "Pharmacology/特定用途/抗黴菌.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pharmacology/特定用途/抗凝血劑.md",
+                "file": "Pharmacology/特定用途/抗黴菌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pharmacology/特定用途/抗凝血劑.md"
+                "file": "Pharmacology/特定用途/抗黴菌.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pharmacology/特定用途/抗凝血劑.md",
+                "file": "Pharmacology/特定用途/抗黴菌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,45 +156,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d051d9ed67be7eb9",
+  "active": "db5f880a9a870102",
   "lastOpenFiles": [
-    "Pharmacology/Blood.md",
-    "Histology/組織系統/Muscular systems.md",
-    "Histology/組織大綱.md",
-    "Histology/組織系統/Skin.md",
-    "Histology/組織系統/Lymphatic systems.md",
-    "Histology/組織系統/Nervous sysyems.md",
-    "Pathology/toolbox/新同學.md",
-    "Histology/胚胎來源.md",
-    "Pathology/toolbox/Tumor suppressor gene.md",
-    "Pathology/toolbox/致癌機轉.md",
-    "Pathology/toolbox/Proto-oncogene.md",
-    "Pathology/病理分項/腫瘤.md",
+    "Pharmacology/Antimicrobial.md",
+    "Pharmacology/Anti-Cancer.md",
     "Pathology/疾病分類.md",
-    "Pathology/病理分項/生殖病理.md",
-    "Pathology/病理分項/腎臟病理.md",
+    "Pathology/病理分項/腫瘤.md",
+    "Pathology/toolbox/致癌機轉.md",
+    "Microbiology/Fungus/系統性典型.md",
+    "Microbiology/toolbox/培養基.md",
+    "Pathology/病理分項/細胞病變.md",
+    "Histology/組織大綱.md",
+    "img/DNA修復.png",
     "Pathology/特殊疾病/syndrome.md",
-    "img/Immune complex in glomerulus.png",
-    "Pathology/病理分項/泌尿病理.md",
-    "Pathology/病理分項/呼吸病理.md",
-    "Pathology/特殊疾病/Leukemia.md",
-    "img/Auer rod.png",
-    "Histology/組織系統/Digestive systems.md",
-    "Microbiology/Virus/DNA virus/Human herpes virus.md",
-    "Microbiology/病毒分類.md",
-    "Microbiology/細菌分類.md",
-    "Pharmacology/特定用途/癲癇.md",
-    "Pharmacology/特定用途/Alzheimer.md",
+    "Pathology/病理分項/內分泌病理.md",
+    "Pharmacology/Endocrine.md",
+    "Pharmacology/Cardiovascular.md",
+    "Pharmacology/Blood.md",
+    "Pharmacology/特定用途/Adrenal gland.md",
     "Pharmacology/CNS.md",
+    "Pharmacology/特定用途/癲癇.md",
+    "Histology/胚胎來源.md",
+    "Histology/組織系統/Skeletal systems.md",
+    "Histology/組織系統/Muscular systems.md",
+    "Histology/組織系統/Epithelium.md",
+    "Histology/組織系統/Skin.md",
+    "Pathology/toolbox/Tumor suppressor gene.md",
+    "Pathology/病理分項/生殖病理.md",
+    "Pathology/病理分項/皮膚病理.md",
+    "Pathology/toolbox/低血鈣鑑別診斷.png",
+    "Microbiology/黴菌分類.md",
+    "img/Amyloid.png",
+    "img/WNT pathway.png",
+    "img/JAK-STAT pathway.png",
+    "img/Insulin pathway.png",
+    "img/RB gene pathway.png",
+    "img/Immune complex in glomerulus.png",
+    "img/Auer rod.png",
     "img/Vasculitis.png",
     "Pathology/病理分項",
-    "img/骨骼肌胚胎.png",
-    "img/泌尿生殖胚胎.png",
-    "Pasted image 20231204221909.png",
-    "img/E.coli表格1.png",
-    "img/E.coli表格2.png",
-    "img/Ecoli表格全.png",
-    "img/WNT pathway.png",
     "Histology/組織系統",
     "Pathology/特殊疾病",
     "Microbiology/Bacteria/其他菌",

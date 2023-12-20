@@ -8,6 +8,7 @@
 	- TB : BCG，使用牛結核桿菌 (M. bovis) 製成，**不防肺結核**
 - MMR : Measles、Mumps、Rubella
 - VZV
+- 鼻噴流感疫苗 : 老人不可使用
 - 口服小兒麻痺Sabin
 - 口服輪狀病毒 : 保護持續時間短，沒什麼用
 - #h/red ==三個字 BCG、MMR、VZV==

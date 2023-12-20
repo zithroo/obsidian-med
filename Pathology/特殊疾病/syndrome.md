@@ -24,6 +24,8 @@
 - Bernard-Soulier syndrome ^c8985a
 	- 先天缺乏GpIb (血小板 - vWF)
 - Churg-Strauss syndrome ^30fe45
+	- Allergic granulomatosis
+	- Eosinophilic granulomatosis with polyangitis
 	- p-ANCA
 	- 氣喘、過敏性鼻炎有關
 	- 侵犯小型血管 (肺、心)
@@ -65,7 +67,7 @@
 	- 色素沉澱 -> blcak liver
 - Dumping syndrome
 	- 原因 : 胃切除手術後，食物一下子dump到小腸
-	- 初期 (10~20min) : 高滲食物到小腸，把血管的水拉出小腸 -> 腹脹及噁心
+	- 初期 (10~20min) : 高滲食物到小腸，把血管的水拉出小腸 -> 腹脹、噁心、**低**血壓
 	- 中期 (20~60min) : 醣類吸收不良 -> 腸內發酵 -> 腹部氣脹、腹絞痛
 	- 後期 (1~3hr) : 醣類快速吸收 -> 胰島素反彈性分泌 -> 繼發性**低血糖** -> 盜汗、虛弱、暈眩
 - Fitz-Hugh-Cutis syndrome : 由性病引起的腹膜炎、肝周圍炎 ^ec3f3f
@@ -112,6 +114,15 @@
 	- AD -> **STAT3**基因缺陷
 - Hyper IgM syndrome ^d86fb1
 	- X-link -> **CD40L** 基因突變->T細胞無法活化B cell產生isotype switching
+- Kartagener syndrome ^3a0338
+	- Ciliary dyskinesia syndrome
+	- 支氣管擴張、鼻竇炎、男性不孕、內臟轉位
+- Klinefelter syndrome
+	- 男 : 44 + XXY
+	- 幼年型性器官、高個、不孕、女性化
+- Lesch-Nyhan syndrome
+	- X-link recessive -> HGPRT缺乏，核甘酸無法走Salvage pathway
+	- 高尿酸血症
 - Liddle syndrome ^5cf8b6
 	- AR -> Amiloride sensitive Na channel mutation
 	- DCT、CD上的ENa channel基因突變 -> 不易分解
@@ -120,6 +131,8 @@
 	- #h/blue ==比較== PHA type I (ENaC突變失能)
 - Li-Fraumeni syndrome ^e7de75
 	- 缺乏p53 gene
+- Marfran syndrome ^b18922
+	- 15染色體FBN1 gene突變 -> **Fibrillin**缺少
 - MEN-I (Werner syndrome) ^1ac14a
 	- Multiple Endocrine Neoplasia
 	- Menin gene突變 (Tumor supressor gene)
@@ -149,6 +162,8 @@
 - Nephrotic syndrome ^f57eaa
 	- 蛋白尿、Hypoalbuminea、General edema、Hyperlipidemia
 	- 基底膜增厚、硬化
+- Omenn syndrome
+	- RAG1/2基因突變 -> T、B cell VDJ recombination缺失
 - Paraneoplastic syndrome
 	- 腫瘤不藉由轉移、侵犯影響的症狀
 	- Ectopic hormone
@@ -201,6 +216,11 @@
 		- Secondary (合併其他系統性免疫疾病)
 			- Non Hodgkin lymphoma
 				- Marginal zone lymphoma
+- Staphylococcus Scaled Skin Syndrome
+	- Exofoliative toxin造成新生兒脫皮
+- Turner syndrome
+	- 女性 : 44+X
+	- 幼年型性器官、矮、不孕、蹼狀頸、乳距寬
 - VHL (Von Hippel Lindau syndrome) ^f20993
 	- 3p (短臂) 缺失 (本身為腫瘤抑制基因)
 	- Renal Cell Carcinoma的**Clear cell**

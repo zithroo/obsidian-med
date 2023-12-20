@@ -9,6 +9,7 @@
 - 絕對需氧
 - Cord growth (Cord factor)
 - 空氣傳染 [[Legionella]]
+- 抑制Phagosome和Lysosome結合 -> 形成Granuloma
 ### 肺結核
 1. 原發性 (child type)
 	- 無症狀 (95%)，或變成續發性 (5%)

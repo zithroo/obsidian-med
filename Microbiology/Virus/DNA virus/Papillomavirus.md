@@ -31,9 +31,9 @@
 - **JC virus**
 	- 免疫不全病人
 	- **Progressive multifocal leukoencephalopathy**
-	- **CNS demyelination**
-	- Large Tumor Ag : 抑制p105Rb、p53
-	- Small Tumor Ag : 病毒複製和癌化次要角色
+	- 感染Astrocyte、Oligodendrocyte -> **CNS demyelination**
+	- Large Tumor Ag (E6 + E7) : **抑制p105Rb、p53**
+	- Small Tumor Ag : 別管他
 - Merckle cell polymavirus
 	- 免疫抑制老人曬太陽
 	- Merckle cell carcinoma

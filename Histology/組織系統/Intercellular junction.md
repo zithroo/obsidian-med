@@ -1,5 +1,5 @@
 ## Tight junction
-- zonula occludens
+- Zonula occludens
 - 位於 : 腎小管、BBB、sertoli cell、脈絡叢、腦室壁細胞
 ## Gap junction
 - 組成 : 六個connexin
@@ -12,21 +12,21 @@
 ### 分類
 - Desmosome (macula adherens)
 	- 細胞內細胞骨架 : [[Cytoskeleton#Intermediate filament|keratin]]
-	- 細胞內蛋白質圓盤 : desmoplakin
+	- 細胞內蛋白質圓盤 : desmoplakin (macula)
 	- 跨膜連接蛋白 : cadherin
 - Hemidesmosome
 	- 與基底相連
 	- 細胞內細胞骨架 : [[Cytoskeleton#Intermediate filament|keratin]]
-	- 細胞內蛋白質圓盤 : desmoplakin
+	- 細胞內蛋白質圓盤 : desmoplakin (macula)
 	- 跨膜連接蛋白 : integrin
-- zonula adherens (adhesion belt)
+- Zonula adherens (adhesion belt)
 	- 細胞內細胞骨架 : [[Cytoskeleton#Microfilament|actin]]
-	- 細胞內蛋白質細帶 : catenin
+	- 細胞內蛋白質細帶 : catenin (zonula)
 	- 跨膜連接蛋白 : cadherin
-- focal contacts
+- Focal contacts
 	- 與基底相連
 	- 細胞內細胞骨架 : [[Cytoskeleton#Microfilament|actin]]
-	- 細胞內蛋白質細帶 : catenin
+	- 細胞內蛋白質細帶 : catenin (zonula)
 	- 跨膜連接蛋白 : integrin
 ## 比較
 - (帶) : zonula occludens、zonula adherens

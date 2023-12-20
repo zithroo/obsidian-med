@@ -12,7 +12,7 @@
 | $\beta$-lactamase | 一般   | MSSA        | Oxacillin、Cepha類       |
 |                | AmpC   | E.coli、K.p | Carbapenem、四代Cepha  |
 |                | ESBL   | E.coli、K.p | Carbapenem、Cephamycin |
-| PBP結構改變    |        | MRSA、PRSP  | Vancomycin             |
+| PBP結構改變    |        | **MRSA**、**PRSP**  | Vancomycin             |
 | Porin結構改變  |        | 綠膿桿菌    | 四代PCN和Cepha         |
 ## Penicillin
 | 構造                    | 藥名                               | 特性                     |
@@ -26,7 +26,7 @@
 	- Oxacillin (IV)、Cloxacillin (Oral)、Dicloxacillin (Oral)
 3. Amino-PCN
 	- Ampicillin (IV)、Am**o**xicillin (Oral)
-		- Am**o** : 唯一不受食物影響的penicillin
+		- Am**o** : 唯一完全不受食物影響的penicillin
 	- Listeria : Ampicillin
 	- #h/red ==Am"o" (門診Oral抗生素)==
 	- +$\beta$ lactamase inhibitor後 -> + **H**EN PEcK

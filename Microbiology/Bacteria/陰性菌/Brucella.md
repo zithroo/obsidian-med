@@ -1,5 +1,6 @@
 - **絕對需氧**
 - [[intracellular pathgen]]
+- 感染 : 吃肉類、乳製品
 - Brucellosis / **Undulant Fever** (波狀熱)
 	- 反覆下午發燒，晚上至隔天退燒
 	- 局部abcess

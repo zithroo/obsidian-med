@@ -9,6 +9,7 @@
 | MAOI$_B$            | Sele**giline**、Rasagiline                  | DA 回收(-)             |
 | COMT            | Enta**capone**、Tolcapone                   |                        |
 | Ach (-)         | **Benzt**ropine、Thrihexyphendiyl、Biperiden | 治療抗精神病藥的類巴金 |
+- #h/red ==拜登開賓士，踹狠心肥弟==
 ## DA 前驅物 (Levodopa)
 - Dopamine 不過BBB，L-dopa 口服，可過BBB
 - 影響吸收 : Dopa -> **Dopa decarboxylase** -> DA (周邊就代謝)

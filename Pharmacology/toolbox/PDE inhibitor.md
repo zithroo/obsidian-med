@@ -12,3 +12,4 @@
 	- 動脈擴張劑下去 -> 正常血管擴張
 	- 導致缺氧區域血液被**剝奪** (Coronary **steal**)
 	- **檢測stable angina**
+- #h/red ==rinone (犀牛) 很強壯==

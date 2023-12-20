@@ -13,7 +13,7 @@
 | b1    | Dobutamine    |         | 強心           |
 | b2    | -terol         |         | 氣喘           |
 | b2    | **Ritodrine**     |子宮肌肉放鬆| 安胎          |
-| b3    | Merabegran    |放鬆膀胱肌肉| 治療膀胱過動|
+| b3    | Mirabegron    |放鬆膀胱肌肉| 治療膀胱過動|
 | D1    | Fenol**dopam**    |           | 增加腎臟血流|
 | D2    | Bromocriptine    |         | Parkinson|
 - #h/red ==阿姨(a1) 在夢中(Mido dream) 非你愛妃 (Phenyl ephrine)==
@@ -86,6 +86,6 @@
 ***
 #h/blue ==比較==
 - Clonide ($\alpha_2$ +) <-> Clinidium (M3 -) <-> Cimetidine (H2 -)
-- 膀胱過動 : Oxybutynin (M3 -) + Merabegran ($\beta_3$ +)
+- 膀胱過動 : Oxybutynin (M3 -) + Mirabegron ($\beta_3$ +)
 ### Nm (-)
 - [[肌肉鬆弛]]

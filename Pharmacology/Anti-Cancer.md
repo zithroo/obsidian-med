@@ -1,6 +1,5 @@
 ![[Cell cycle.png]]
-## 標靶藥物
-- [[抗癌標靶藥物]]
+## [[抗癌標靶藥物]]
 ## 非細胞週期
 - 通殺，優先殺分裂快速的細胞
 ### DNA烷化劑
@@ -13,6 +12,7 @@
 	- **Prodrug** : 肝CYP450代謝
 	- 副產物 **Acrolein**，出血性膀胱炎
 	- **MESNA** : 抗氧化劑，形成膀胱保護膜
+- Busulfan : 肺纖維化 #h/red ==Bus 廢氣==
 ### 抗生素性 (DNA嵌入)
 | 類型            | 藥名               | 特色                     |
 |-----------------|--------------------|--------------------------|
@@ -38,9 +38,10 @@
 | Purine     | 6-MP      | PRPP amidotransferase |
 | Pyrimidine | 5-FU      | dUMP->dTMP            |
 |            | Hydrourea | NDP->dNDP             |
-|            | Ara-C     | DNA pol               |
+|            | Cytarabine| DNA pol               |
 | Folic acid | MTX       | DHF reductase         |
 - PRPP amidotransferase : **Purine合成第一步** -> 把PRPP加上Glutamine的氨基
+- Cytarabine : Ara-C
 - 6-MP由**xanthine oxidase**代謝，和**Allopurinol**併用會起飛
 ### dTMP合成相關
 | DHF reductase (-) | 對象   | 藥物           |

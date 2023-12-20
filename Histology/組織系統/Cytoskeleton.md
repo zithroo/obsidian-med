@@ -6,4 +6,4 @@
 - e.g : keratin、desmin (平滑肌)、vimentin (血管平滑肌)
 ## Microfilament
 - 作用 : 支持、運動
-- e.g : [[microvili]]、actin、sterocilia
+- e.g : [[microvili]]、**actin**、sterocilia

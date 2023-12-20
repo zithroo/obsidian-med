@@ -15,7 +15,9 @@
 	- 口服 (非Catecholamine)
 	- Direct & Indirect agonist
 	- **鼻塞**、尿床 ($\alpha1$)
-- Amphetamine : **ADHD、抑制食慾、治療嗜睡**
+- #h/blue ==比較==
+	- Amphetamine、Methylphenidate : **ADHD、抑制食慾、治療嗜睡**
+	- Pitolisant : H3 (-)、治療嗜睡
 - Brytylium : 不提領了，Guanethidine : 管你釋停
 ***
 - Hemicholinium : 半吊子進不來

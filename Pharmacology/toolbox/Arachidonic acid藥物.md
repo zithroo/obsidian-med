@@ -7,10 +7,10 @@
 	- 促進新生兒肺部分泌surfactant
 	- 副作用 : [[syndrome#^327c2c|Cushing syndrome]]
 ### COX (-)
-| COX (-)  | 藥名           | 作用                        | 副作用            |
+|         | 藥名           | 作用                        | 副作用            |
 |----------|----------------|-----------------------------|-------------------|
 | COX (-)  | Aspirin        | 不可逆抑制、抗血小板                    | 小孩病毒**Reye** syn. |
-|          | Ibuprofen      | 最安全、**急性痛風**            |                   |
+|          | Ibuprofen      | 最安全、**急性痛風、關閉PDA**            |                   |
 |          | Ketoprofen     | 也抑制LOX                   |                   |
 |          | Indomethacin   | **關閉PDA、急性痛風、抑制宮縮** |                   |
 |          | Ketorolac      | 止痛最強、**術後止痛**          | 腎/胃最強         |
@@ -47,6 +47,7 @@
 |      | Latano**prost**                          | [[青光眼]]               |
 | PGI2 | Epoprostenol、Treprostinil、Iloprost、Selexipag | 降肺高壓             |
 - #h/red  ==喝Miso胃很舒服==
+- #h/red ==Miss. Dinosaur (Miso、Dino) 恐龍妹開車 (Carbo)會撞到流產==
 - #h/red ==Lata (拉大隅角)、促進排出==
 - #h/red ==一波破、全破、一籮破、破了選包包 (Select pag)==
 

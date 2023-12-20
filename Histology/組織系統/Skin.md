@@ -10,6 +10,7 @@
 | Pacinian | 真皮網狀、皮下脂肪 | 觸壓 |   O  |  快  |
 - #h/red ==輕觸妹子(Meissner) 乳頭==
 - #h/red ==沒課 (Merkel) 沒事 (Meiss) 麥萊 (Ruff) 靠 (Krau) 北 (Pa)==
+- Free nerve ending最遠到顆粒層
 ## Skin epi
 ![[skin stucture.png]]
 1. Epidermis : 無血管

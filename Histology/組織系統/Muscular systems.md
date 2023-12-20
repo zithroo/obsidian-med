@@ -16,7 +16,7 @@
 
 ## 平滑肌
 - 特有中間絲 (desmin，vimentin in 血管平滑肌)
-- 無橫紋、Z line、sacromere，有**dense body**
+- 無橫紋、sacromere、無Z line，Actin附著於**dense body**
 - 無troponin但有**tropomyosin**、有**Calmodulin、MLCK、MLCP**
 - 無t-tuble，有caveola、vesicle，Ca由外界提供最多 (90%)
 - 再生力強，有細胞分裂能力

@@ -15,8 +15,8 @@
 	- 闌尾、盲腸、迴腸 的**Peyer's patch**
 	- 初級小結 : 深染小淋巴球
 	- 次級小結
-		1. germinal center(內部) : 淡染未成熟大淋巴球
-		2. mantle zone(外部) : 深染成熟小淋巴球
+		1. germinal center (內部) : **淡染**未成熟大淋巴球
+		2. mantle zone (外部) : 深染成熟小淋巴球
 - **MALT** : Diffuse lymphatic tissue + Lymphatic nodule
 ## 部分fibrous capsule
 ### Tonsil

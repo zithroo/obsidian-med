@@ -4,7 +4,7 @@
 | 套膜 |       **X**      |       O      |      O     |         O        |      **X**      |
 | 核酸 |      RNA     |      **DNA**     |     RNA    |        RNA       |     RNA     |
 | 傳染 |     糞口     |     血液     |    血液    |       血液       |     糞口    |
-| 疾病 |   急性肝炎   |    **會肝癌**    |   **會肝癌**   | 急性、猛爆性肝炎 |   急性肝炎  |
+| 疾病 |   急性肝炎   |    **會肝癌**    |   **會肝癌**   | 急性、猛爆性肝炎 |   旅行者肝炎  |
 | 疫苗 |       O      |       O      |      **X**     |        B肝       |      X      |
 ## HAV
 - 舊名 : Enterovirus 72 -> 無套膜，耐清潔劑、酸
@@ -14,7 +14,7 @@
 - [[Vaccine]]
 ## HBV
 - Dane particle : 完整HBV病毒
-- Partially (有缺口) 雙股DNA
+- Partially (有缺口) ds DNA
 - 進入細胞核用自己的DNA pol 修復缺口 -> ccc DNA (covalently-closed-circular DNA)
 - 製造病毒構造的路徑不同
 	- DNA -> 4條mRNA (細胞核內)
@@ -23,7 +23,7 @@
 	- Viral genome : [[Reverse transcriptase]]
 		- 1條**mRNA -> DNA (-)** -> DNA(+) (細胞**質**內)
 - [[Vaccine#次單位|次單位Vaccine]]
-- HBsAg(+)、HBeAg(+)媽媽的新生兒施打HBIG預防感染
+- HBsAg(+)、HBeAg(+) 媽媽的新生兒施打HBIG預防感染
 - 病毒有套膜，但耐環境
 ### 血清檢查
 |     | 代表     | 驗到Ag       | 驗到Ab                 |
@@ -46,7 +46,7 @@
 - Non A Non B肝炎 -> 一開始不知道，血庫被汙染
 - 變異性極高
 	- 免疫殺不了 : 慢性肝炎 (**最常造成慢性感染**)
-	- 抗體沒用 : Anti-HCV (+)代表**正在感染**，**非保護性抗體**
+	- 抗體沒用 : Anti-HCV (+) 代表**正在感染**，**非保護性抗體**
 	- 疫苗做不出來
 ## HDV
 - 單股 (-) RNA
@@ -57,4 +57,5 @@
 - 最常引起猛爆性肝炎
 ## HEV
 - 像A肝
-- 孕婦感染猛爆性肝炎，死亡率高
+- Traveler hepatitis
+- **孕婦**感染猛爆性肝炎，死亡率高

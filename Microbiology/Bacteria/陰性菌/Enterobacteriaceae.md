@@ -67,6 +67,8 @@
 	- #h/blue ==比較== 
 		- 運動性 : Listeria、彎曲桿菌、Proteus
 - [[彎桿菌#Helicobacter|Urease]] : 尿結石
+- Xanthogranulomatous (黃色肉芽腫) pyelonephritis
+	- 腎結石 -> 慢性腎盂腎炎
 - [[Weil-Felix test]]
 ## Shigella
 - 超強致病 : $10^2$隻

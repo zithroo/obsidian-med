@@ -25,6 +25,9 @@
 		- 孕婦 : 必用不活化態
 ## 抑制皮質藥物
 ![[Cortex synthase pathway.png]]
+- ACTH促進**CEH** (Cholesteryl Ester Hydrolase) : Cholesteryl ester -> Cholesterol
+- Cholesterol經過**StAR** (Steroid Acute Regulatory protein)，帶到**粒線體**內膜
+- ACTH促進**Desmolase** : Cholesterol -> Pregnenolone (速率決定步驟)
 ### Receptor Antagonist
 |              | 醛固酮 | 雄性素 | Progesterone | Estrogen |
 |--------------|:------:|:------:|:------:|:------:|

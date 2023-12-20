@@ -1,6 +1,6 @@
 ## 細胞表面
 - CDH1 ([[Intercellular junction#Adhering junction|E-cadherin]])
-	- Gastric cancer (Diffuse type)
+	- Gastric cancer (Diffuse type家族性胃癌)
 	- E-cadherin抓住$\beta$ catenin，抑制WNT pathway
 ## 細胞膜內側面
 - NF-1 (Neurofibromatosis)
@@ -9,7 +9,7 @@
 - NF-2
 	- cell contact活化neurofibromin-2 -> 活化LATS -> 抑制YAP -> 抑制增值
 ## 細胞質
-- APC (Adenomatous polyposis coli)
+- APC (Adenomatous Polyposis Coli)
 	- Familial adenomatous polyps
 	- 抑制[[WNT pathway.png|WNT pathway]]
 - PTEN

@@ -35,7 +35,7 @@
 			- type B : 留Cl排HCO3-
 - **Juxta-glomerular apparatus**
 	- JG cell : **入球小動脈平滑肌**特化，分泌renin，偵測血壓
-	- macula densa : **DCT管壁細胞**特化，影響JG cell，偵測濾液中Na (Na**下降**活化JG cell)
+	- Macula densa : **DCT管壁細胞**特化，影響JG cell，偵測濾液中Na (Na**下降**活化JG cell)
 - Renal caylx -> Renal pelvis
 ## 輸尿管
 - 平滑肌 : 縱環

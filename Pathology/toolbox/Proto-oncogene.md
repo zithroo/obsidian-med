@@ -23,6 +23,7 @@
 - ABL-BCR (9 : 22) : 費城染色體
 - RTK (例如EGFR) -> 
 	- SOS -> Ras -> Raf -> MEK -> ERK (**MAPK**)
+		- SOS : Guanine exchange factor，把Ras上的GDP換成GTP活化
 	- PI3K -> AKT -> mTOR
 
 | Receptor相關Pathway | 突變         | 癌症             | 染色體 |
@@ -35,8 +36,9 @@
 | JAK          | JAK2         | 慢性骨髓增生異常 |    9   |
 | **Nonreceptor**  | **ABL**          | **CML**              |    **9**   |
 ## Transcription factor
-- **c-myc**-IG (**8** : 14) : Burkitt’s lymphoma
-- n-myc過度表現 : Neuroblastoma
+- MYC (利用DNA binding motifs)
+	- **c-myc**-IG (**8** : 14) : Burkitt’s lymphoma
+	- n-myc過度表現 : Neuroblastoma
 ## Cyclin-dependent kinase
 - [[cyclin]]
 - Cyclin D1 (CCND1、Bcl-1) : mantle cell lymphoma

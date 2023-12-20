@@ -59,4 +59,4 @@
 - 成人中最常見血癌
 - **Small** lymphocyte，chromatin粗糙
 - **B cell**類多 (T cell在Thymus退化後就安定了)
-- Small LL : 淋巴球數量較少的CLL
+- SLL (Small LL) : 淋巴球數量較少的CLL

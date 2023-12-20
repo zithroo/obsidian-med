@@ -35,3 +35,8 @@
 - 硬蜱
 - 無形體 : 殺RBC
 - 艾利希體 : 殺WBC -> Human **monocytic** ehrlichiosis
+- 症狀
+	- Flu like illness
+	- Leukopenia、Thrombocytopenia
+	- Serum transaminase (細胞破壞後流出)
+	- 肝脾、淋巴腫大
