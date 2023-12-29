@@ -1,15 +1,16 @@
 ![[胃酸分泌.png]]
 ## 生理
-| 來源                  | 機轉 | 受器 |    作用細胞   | 結果 |
-|-----------------------|:----:|:----:|:-------------:|:----:|
-| Vagus n.              |  Gq  |  M3  | Parietal cell | 傷害 |
-|                       |      |  M1  |    ECL cell   |      |
-| G cell (Gastrin)      |  Gq  | CCKB | Parietal cell |      |
-|                       |      |      |    ECL cell   |      |
-| ECL cell (Histamine)  |  Gs  |  H2  | Parietal cell |      |
-| D cell (Somatostatin) |  Gi  |      |               | 保護 |
-| PGE1                  |  Gi  |      | Parietal cell |      |
-|                       |      |      |  Mucous cell  |      |
+| 來源 | 機轉 | 受器 | 作用細胞 | 結果 |
+| ---- | :--: | :--: | :--: | :--: |
+| Vagus n. -> Ach | Gq | M3 | Parietal cell | 傷害 |
+|  |  | M1 | ECL cell |  |
+| Vagus n. -> GRP |  |  | G cell |  |
+| G cell (Gastrin) | Gq | CCKB | Parietal cell |  |
+|  |  |  | ECL cell |  |
+| ECL cell (Histamine) | Gs | H2 | Parietal cell |  |
+| D cell (Somatostatin) | Gi |  |  | 保護 |
+| PGE1 | Gi |  | Parietal cell |  |
+|  |  |  | Mucous cell |  |
 - H.pylori : 同時HCl增、Mucous降
 ## 減少胃酸
 1. 制酸劑 (Antacid) : 不易溶鹼性鹽類
@@ -22,7 +23,7 @@
 | Para (-) **M1(-)** | Pirenzepine   |                                                   |
 | M1、**M3** (-)     | Propantheline | **抑制腸胃蠕動**、便秘                                |
 | Gastrin (-)    | Oxethazaine   | 止痛效果                                          |
-| **H2 (-)**         |    **-tidine**    | Cemetidine : Hyperprolactinemia、陽痿、CYP450 (-) |
+| **H2 (-)**         |    **-tidine**    | Cemetidine : Hyperprolactinemia、<br>陽痿、CYP450 (-) |
 | PPI            | Ome**prazole**    | 酸性下有效 -> 飯前服用，**不可併制酸劑**、骨質疏鬆      |
 - 效果 : **PPI** > H2 (-) > M (-)
 - #h/blue ==比較== [[抗精神病|Aripiprazole]]，非PPI

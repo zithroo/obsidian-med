@@ -24,7 +24,7 @@
 - [[RB gene pathway.png|Rb gene]]
 	- CDK 4/ cyclin D -> 磷酸化抑制Rb -> 活化E2F
 	- Retinoblastoma
-	- Osteogenic sarcoma
+	- **Osteogenic sarcoma**
 	- Soft tissue sarcoma
 - BRCA-1、2 : 乳癌、**卵巢癌**
 - WT-1 : Wilm tumor (**兒童多**)

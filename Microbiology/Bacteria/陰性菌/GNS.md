@@ -4,7 +4,7 @@
 | 宿主 | 人                                  | 鼠、鹿                          | 鼠、野生哺乳動物                      |
 | 傳播 | STD                                 | **蜱**                             | **鼠尿** -> 水 -> 傷口                    |
 | 症狀 | Chancre、Condyloma lata、神經、心臟 | 遊走性紅斑、Bell's palsy、關節炎 | **Weil disease** (出血、腎功能衰竭、黃疸) |
-| 治療 | Penicillin                          | Doxycycline                    | Penicillin                    |
+| 治療 | Penicillin                          | Doxycycline                    | **Penicillin**                    |
 - 不易培養、不易染色
 ## Trepnemma pallidum
 - [[人類唯一宿主]]、STD
@@ -26,7 +26,7 @@
 |--------|---------------------------------|------------------------------|
 | 測啥 | Anti-cardiolipin                | Anti-T. pallidum Ab          |
 | 試驗   | VDRL、RPR                       | TPHA、FTA-ABS                |
-| 用途   | 篩檢(Screen)、CSF、追蹤藥效      | 確診 (Confirm)、治癒後仍陽性 |
+| 用途   | 篩檢 (Screen)、CSF、追蹤藥效      | 確診 (Confirm)、治癒後仍陽性 |
 | FALSE  | **SLE**、IV毒品、孕婦 (+)、AIDS (-) | 正常人1~2% (+)               |
 - 第三期梅毒Neurosyphilis只能CSF測**VDRL**
 - TPHA : Treponemal hemaagglutination test

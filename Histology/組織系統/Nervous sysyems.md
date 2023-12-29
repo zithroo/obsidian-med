@@ -1,6 +1,5 @@
 ## 神經組織
-1. 神經膠細胞
-
+### 神經膠細胞
 |                 | 位置 | 特色                              |
 |-----------------|------|-----------------------------------|
 | Astrocyte       | CNS  | 最多、perivesicular end feet、BBB |
@@ -8,6 +7,9 @@
 | Miroglia        | CNS  | macrophage                        |
 | Ependyma        | CNS  | 纖毛、微絨毛、單柱                |
 | Schwann cell    | PNS  | 髓鞘                              |
+- Astrocyte
+	- Protoplasmic : 位於**灰**質，**多短**突起
+	- Fibrous : 位於**白**質，**少長**突起
 - 無BBB : 脈絡叢、下視丘tuber cinereum、腦下腺後葉、松果體、area postrema (第四腦室底)
 - **視神經**的髓鞘由**oligodendrocyte**形成
 - Ependyma
@@ -19,9 +21,9 @@
 |----------------------|------|----------------|--------------|------------------|
 | Ependymocyte         | 單立 | desmosome      | 不在基底膜上 | cilia、microvili |
 | Choroidal epithelium | 單柱 | tight junction | 基底膜上     | apical microvili |
-2. 神經元
-	- 本體 : Nissl body (rER，不在**軸丘、軸突**)、neurofibril
-	- 突起
+### 神經元
+-  本體 : Nissl body (rER，不在**軸丘、軸突**)、neurofibril
+- 突起
 ## 分層
 ### 大腦
 1. molecular layer : 水平細胞 (Cajal cell)

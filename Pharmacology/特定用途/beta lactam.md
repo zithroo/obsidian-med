@@ -22,6 +22,7 @@
 | Amino-PCN               | **Amp**icillin、**Amo**xicillin            | 併用$\beta$-lmase inhibitor |
 | Carboxy-PCN             | Ticarcillin、Piperacillin          | 併用$\beta$-lmase inhibitor |
 1. Benzathine Penicillin : IM治梅毒
+	- 其他 : Actinomyces、問號鉤端螺旋體
 2. Methicillin : Anti-**Staphylococcal**
 	- Oxacillin (IV)、Cloxacillin (Oral)、Dicloxacillin (Oral)
 3. Amino-PCN

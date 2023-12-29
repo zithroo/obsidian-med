@@ -51,13 +51,15 @@
 - 分類 : Lancefield grouping (by細胞壁carbohydrate)
 1. GAS (S.pyogenes)
 	- **C5a peptidase**
-	- M protein : **主要毒力因子**、**風濕熱**
+	- M protein : **主要毒力因子**、**風濕熱、區分種類**
 	- 毒素
 		- Pyogenic Exotoxin (speA)
 			- 引起Type IV過敏 -> Scarlet fever
 			- **super Ag**
 		- Streptolysins (Hemolysin)
-			- SLO : Oxygen-labile、ASLO檢驗 (Rheumatic、PSGN)、Pyoderma由speA引起，測不到
+			- SLO : Oxygen-labile
+				- 非化膿性的 : (Rheumatic、PSGN) 可用ASLO檢驗 
+				- 化膿性的 : (Pyoderma、猩紅熱、咽炎) 由speA引起，測不到
 			- SLS : Oxygen-stable
 	- 猩紅熱、丹毒、壞死性筋膜炎、toxic shock
 	- Post infection : **風溼熱、PSGN、關節炎**

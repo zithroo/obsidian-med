@@ -57,13 +57,13 @@
 | 通報     | 第二級                                                                | 不用              |
 - S.typhi
 	- [[人類唯一宿主]]
-	- 不腹瀉，而是發燒
+	- 不一定腹瀉，而是發燒
 	- **先進血液、再進腸道**
 	- [[intracellular pathgen]]
 	- Vi (capsule) Ag : [[Vaccine]]、Widal test
 	- **Relative Bradycardia** : 發燒時心跳沒變快 (相對慢)，原因為Salmonella、腹腔內abcess、G (-) sepsis、Atypical pneumoniae
 ## Proteus mibirabilis
-- [[GPB#Listeria (無孢子、嗜氧)|運動性強]] : 故種不出單一菌落 
+- [[GPB#Listeria (無孢子、嗜氧)|運動性強]] : 遊走散佈 (Swarming)
 	- #h/blue ==比較== 
 		- 運動性 : Listeria、彎曲桿菌、Proteus
 - [[彎桿菌#Helicobacter|Urease]] : 尿結石

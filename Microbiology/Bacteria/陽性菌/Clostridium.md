@@ -44,3 +44,7 @@
 	- 原因 : 使用抗生素(**Clindamycin、Cephalosporin**)，殺死腸內正常菌
 	- 診斷 : 糞便中培養出此菌，且能**分泌毒素** (C.difficle本身就是正常菌相，養出來不奇怪)
 	- 治療 : **口服**Vangomycin、Metronidazole
+## C.septicum
+- 感染 : 胃腸道的血源性傳播(不須外傷)
+- 培養基特徵 : swarming ([[Enterobacteriaceae#Proteus mibirabilis|Proteus]])
+- 症狀 : 氣性壞疽、肌壞死、結直腸癌

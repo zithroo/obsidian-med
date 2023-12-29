@@ -5,14 +5,14 @@
 ### DNA烷化劑
 | 類型              | 藥名                        | 特色                  |
 |-------------------|-----------------------------|-----------------------|
-| Platinum          | -**platin**                      | [[耳毒腎毒]]、嘔吐        |
+| Platinum          | -**platin**                      | [[耳毒腎毒]]神經毒        |
 | Nitrogen Mustards | Cyclophs**phamide**、Ifosfamide | 出血性膀胱炎、MESNA解 |
 | Nitrourea         | Temozolomide                | 唯一腦瘤用藥          |
 - Nitrogen Mustard (芥子毒氣)
-	- **Prodrug** : 肝CYP450代謝
+	- **Prodrug** : 肝CYP450代謝成活性物
 	- 副產物 **Acrolein**，出血性膀胱炎
 	- **MESNA** : 抗氧化劑，形成膀胱保護膜
-- Busulfan : 肺纖維化 #h/red ==Bus 廢氣==
+- Busulfan : CML，副作用肺纖維化 #h/red ==Bus 廢氣==
 ### 抗生素性 (DNA嵌入)
 | 類型            | 藥名               | 特色                     |
 |-----------------|--------------------|--------------------------|
@@ -21,7 +21,7 @@
 | Actinomycin D   |                    |                          |
 | **G2 phase (-)**    |  Bleomycin         | 肺纖維化                 |
 | Mitomycin       |                    | 間質性肺炎               |
-- 小紅莓 (Doxorubicin)
+- 小紅莓 (Doxorubicin / Adriamycin)
 	- 機轉
 		- 嵌入DNA -> DNA斷裂
 		- **Top II (-) : 同時也是Top類抗癌藥**
@@ -40,6 +40,7 @@
 |            | Hydrourea | NDP->dNDP             |
 |            | Cytarabine| DNA pol               |
 | Folic acid | MTX       | DHF reductase         |
+|            | Pemetrexed| DHFR + **TS**         |
 - PRPP amidotransferase : **Purine合成第一步** -> 把PRPP加上Glutamine的氨基
 - Cytarabine : Ara-C
 - 6-MP由**xanthine oxidase**代謝，和**Allopurinol**併用會起飛
@@ -72,6 +73,7 @@
 	- #h/red ==波賽頓(poside)是老二==
 	- 小紅莓 **-rubicin**
 - Bleomycin : 抗生素的例外，肺纖維化
+	- #h/red ==blow -> 吹氣會用到肺==
 
 ## M phase (-)
 1. 長春花**Vinca** : 抑制微管聚合
@@ -82,3 +84,4 @@
 	- #h/red ==Vin(冰) -> 不易靠近(抑聚合)、碰了要熱敷==
 2. 紫杉醇**Taxane** : 抑制微管分開
 - 副作用 : 周邊神經毒性 (感覺異常)、DTR降、便祕
+3. Ixabepilone

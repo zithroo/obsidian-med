@@ -9,7 +9,7 @@
 | 髓質 CD   |        | ADH V2 (-)    | -vapan、Demeclocycline    |   心衰竭     |                |
 - 磺胺類藥物 : **過敏**
 - 除了保鉀利尿劑之外，都造成**低血鉀**
-	- 濾液中高Na，在DCT中Na藉由ENaC回收，但K+被動的由ROMK分泌出去
+	- 濾液中高Na，在DCT中Na藉由ENaC回收，使胞內正電荷增加 -> K+被動的由ROMK分泌出去
 ## CA (-)
 - HCO3-無法和H+結合回收 : **鹼化**尿液，加速Aspirin、尿酸排除 (造成**尿結石**)
 - 間接抑制Na-H antiporter

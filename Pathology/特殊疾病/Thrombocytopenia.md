@@ -2,11 +2,12 @@
 	- 血小板低下、但無出血症狀
 	- 原因 : EDTA dependent platelet agglutin，造成試管內血小板clumping
 ## Immune ThrombocytoPenia
-- 產生anti-血小板、Megakaryocyte增加
+- 產生anti-血小板IgG、Megakaryocyte增加
 	- 急性 : 病毒引起、兒童多、自行痊癒
 	- 慢性 : 成人女性、Steroid、脾切除
 ## Thrombotic MicroAngiopathy
 - Triad : 小血管溶血性貧血、血小板低下、急性腎損傷
+- 微小血管病變 -> 機械性的血管內溶血
 - Thromotic Thrombocytopenic Purpura (TTP)
 	-  先天性
 		- **ADAMTS13** 酵素缺乏 < 5%

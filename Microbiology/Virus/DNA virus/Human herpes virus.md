@@ -27,7 +27,8 @@
 - 症狀
 	- 小孩 : 無症狀
 	- 青少年 : Kissing disease (淋巴腫大、咽喉炎)
-	- 像GAS的**化膿性Tonsilitis** : 給ampicillin後出現全身皮疹
+	- 像GAS的**化膿性Tonsilitis** : 給Ampicillin後出現全身皮疹
+	- HIV患者 : Hairy oral leukoplakia、CNS lymphoma
 ### EBV 機轉
 - LMP-1 (Latent membrane protein)
 	- 抑制B cell apoptosis

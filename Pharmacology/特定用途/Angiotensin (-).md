@@ -11,7 +11,7 @@
 |------|------------------|------------------|:-----------:|:------------:|
 | DRI  | Aliski**ren**        | 抑制**Ren**in生成    | 高血壓     | X          |
 | ACEI | -**pril**             | 抑制ACE          | 心衰竭    | **O**          | 
-| ARB  | Saralasin、**-sartan** | 抑制AT$_1$ receptor | 糖尿病腎病變| X          |
+| ARB  | Saralasin、<br>**-sartan** | 抑制AT$_1$ receptor | 糖尿病腎病變| X          |
 - ACE也**促進Bradykinin分解**，Bradykinin高 :
 	- 乾咳、血管性水腫
 - ARB : Agiotensin Receptor Blocker

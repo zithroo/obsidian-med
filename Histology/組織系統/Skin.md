@@ -26,7 +26,7 @@
 ***
 - Keratinocyte
 	- keratohyalin granule : 含有keratin，為蛋白質+[[Cytoskeleton#Intermediate filament|intermediate filament]]
-	- lamellar body : 糖脂質分泌到細胞外，提供細胞間沾黏、皮膚防水 (type II alveolar cell也有)
+	- [[body#^26044a|Lamellar body]] : 糖脂質分泌到細胞外，提供細胞間沾黏、皮膚防水
 - Merkel's corpuscle : 神經末梢接基底層的Merkel cell，為**無包膜**、輕觸、快適應接受器
 ## Hair
 內 -> 外
@@ -40,7 +40,7 @@
 ##  Gland
 - 皮脂腺 : 真皮層、holocrine、**手腳掌無**
 - 汗腺 
-	- merocrine : 大部分、**手腳掌最多**、[[單式管腺型]]會扭曲、只由交感支配 (by **Ach**)、[[myoepithelium]]、獨立開口於表皮
-	- apocrine : 複式管腺型，開口於毛髮孔，由交感支配 (by **NE**)
+	- Merocrine : 大部分、**手腳掌最多**、[[單式管腺型]]會扭曲、只由交感支配 (by **Ach**)、[[myoepithelium]]、獨立開口於表皮
+	- Apocrine : 複式管腺型，開口於毛髮孔，由交感支配 (by **NE**)
 		- 位於腋下、生殖器、乳暈、肛圍
 		- **Apocrine**汗腺特化 : 叮嚀腺 (外耳道)、Moll式腺 (上眼瞼)、**乳腺**

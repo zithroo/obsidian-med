@@ -10,14 +10,14 @@
 |         | 藥名           | 作用                        | 副作用            |
 |----------|----------------|-----------------------------|-------------------|
 | COX (-)  | Aspirin        | 不可逆抑制、抗血小板                    | 小孩病毒**Reye** syn. |
-|          | Ibuprofen      | 最安全、**急性痛風、關閉PDA**            |                   |
+|          | Ibuprofen      | 最安全、<br>**急性痛風、<br>關閉PDA**            |                   |
 |          | Ketoprofen     | 也抑制LOX                   |                   |
-|          | Indomethacin   | **關閉PDA、急性痛風、抑制宮縮** |                   |
-|          | Ketorolac      | 止痛最強、**術後止痛**          | 腎/胃最強         |
+|          | Indomethacin   | **關閉PDA、<br>急性痛風、<br>抑制宮縮** |                   |
+|          | Ketorolac      | 止痛最強、<br>**術後止痛**          | 腎/胃最強         |
 |          | Diclofenac     |                             | 肝最強            |
 | COX 2 (-) | Celecoxib      |                             | 副作用最小        |
 |          | Rofecoxib      |                             | 血栓風險          |
-| **PGE2 (-)**  | Acetaminophen  | CNS退燒、止痛、**不**抗發炎       | 肝毒性(NAC解)     |
+| **PGE2 (-)**  | Acetaminophen  | CNS退燒、<br>止痛、<br>**不**抗發炎       | 肝毒性(NAC解)     |
 
 | 副作用 |                |                  |        |
 |--------|----------------|------------------|--------|
@@ -40,12 +40,12 @@
 
 |      | 藥名                                 | 作用                 |
 |------|--------------------------------------|----------------------|
-| PGE1 | **Miso**prostol                          | 保護**胃**黏膜、降低胃酸、墮胎引產 |
+| PGE1 | **Miso**prostol                          | 保護**胃**黏膜、<br>降低胃酸、墮胎引產 |
 |      | **A**lprostadil                          | 開PD**A**、治不舉         |
 | PGE2 | Dinoprostone                         | 墮胎                 |
 | PGF2 | Carbo**prost**                           | 引產、墮胎           |
 |      | Latano**prost**                          | [[青光眼]]               |
-| PGI2 | Epoprostenol、Treprostinil、Iloprost、Selexipag | 降肺高壓             |
+| PGI2 | Epoprostenol、<br>Treprostinil、<br>Iloprost、Selexipag | 降肺高壓             |
 - #h/red  ==喝Miso胃很舒服==
 - #h/red ==Miss. Dinosaur (Miso、Dino) 恐龍妹開車 (Carbo)會撞到流產==
 - #h/red ==Lata (拉大隅角)、促進排出==

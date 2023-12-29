@@ -49,7 +49,7 @@
 | 菌量       |              少              |        多        |
 | 傳染力     |              弱              |        強        |
 | 病理       |         Langerhan's giat cell| Foamy macrophage |
-| 症狀       | 周圍神經炎、臉部脫屑、沒感覺 |      獅子臉      |
+| 症狀       | 周圍神經炎、臉部脫屑、沒感覺 |      獅子臉、結節性紅斑|
 ## NTM
 - 環境中正常菌，只會**伺機性感染**
 - M.avium Complex (MAC)

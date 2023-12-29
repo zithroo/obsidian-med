@@ -37,6 +37,7 @@
 - 艾利希體 : 殺WBC -> Human **monocytic** ehrlichiosis
 - 症狀
 	- Flu like illness
-	- Leukopenia、Thrombocytopenia
+	- **Leukopenia、Thrombocytopenia**
+	- **嗜中性球內看到菌體**
 	- Serum transaminase (細胞破壞後流出)
 	- 肝脾、淋巴腫大

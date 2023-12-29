@@ -21,6 +21,7 @@
 	- type III : CIC-NKb
 	- type IV : Barttin
 	- type V : CaSR
+	- [[TAL channel.png]]
 - Bernard-Soulier syndrome ^c8985a
 	- 先天缺乏GpIb (血小板 - vWF)
 - Churg-Strauss syndrome ^30fe45
@@ -61,6 +62,10 @@
 	- 22q11基因缺損 -> 3、4**咽囊**發育失敗 (胸腺、副甲狀腺)
 	- Neonatal seizure
 	- **C**ardiac、**A**bnormal face、**T**hymic、**C**left palate、**H**ypocalcemia
+- Down syndrome ^a0f912
+	- 21 trisomy : 95%
+	- 21和其他染色體 (14) 融合性轉位 : 4%
+	- Mosaic 部分細胞分裂時21未分離 : 1%
 - Dubin Johnson syndrome ^85705c
 	- AR -> MRP2基因缺失 -> 肝細胞secretion受損
 	- Conjugated hyperbilirubinemia，但無害
@@ -71,6 +76,10 @@
 	- 中期 (20~60min) : 醣類吸收不良 -> 腸內發酵 -> 腹部氣脹、腹絞痛
 	- 後期 (1~3hr) : 醣類快速吸收 -> 胰島素反彈性分泌 -> 繼發性**低血糖** -> 盜汗、虛弱、暈眩
 - Fitz-Hugh-Cutis syndrome : 由性病引起的腹膜炎、肝周圍炎 ^ec3f3f
+- Fragile X syndrome
+	- 第二常見染色體智障
+	- Xq27.3 **FMR1**發生大量CGG repeat -> CpG island基因甲基化失去功能
+	- 智障、卵巢早衰
 - Gilbert syndrome ^062d50
 	- AR -> UGT1A1活性下降
 	- 肝臟uptake減少
@@ -97,6 +106,8 @@
 	- 病變 : Segmental demyelination (**髓鞘受傷，axon還好**)
 	- 上行性麻痹 : 影響運動能力，Sensory 正常，遠端四肢無力 -> 心肌、橫膈肌
 	- 治療 : IVIG、steroid、血漿置換
+- Hand-Foot syndrome
+	- Lipodox (第二線抗癌藥物)，由汗腺排出 -> 損害手指腳趾
 - Hemolytic-Uremic Syndrome ^d5d267
 	- **小血管溶血性貧血**、**血小板低下**->**急性腎損傷**
 	- RBC溶解 (顯微血尿)、Platelet降、腎衰竭
@@ -131,6 +142,10 @@
 	- #h/blue ==比較== PHA type I (ENaC突變失能)
 - Li-Fraumeni syndrome ^e7de75
 	- 缺乏p53 gene
+- Lynch syndrome (HNPCC) ^5b7a20
+	- Hereditary Non Polyposis Colorectal Cancer
+	- DNA Mismatch repair異常 -> 造成MSI（microsatellite instability)
+	- PMS2、MLH1、 MSH6、MSH2
 - Marfran syndrome ^b18922
 	- 15染色體FBN1 gene突變 -> **Fibrillin**缺少
 - MEN-I (Werner syndrome) ^1ac14a
@@ -162,9 +177,9 @@
 - Nephrotic syndrome ^f57eaa
 	- 蛋白尿、Hypoalbuminea、General edema、Hyperlipidemia
 	- 基底膜增厚、硬化
-- Omenn syndrome
-	- RAG1/2基因突變 -> T、B cell VDJ recombination缺失
-- Paraneoplastic syndrome
+- Omenn syndrome ^1334c4
+	- RAG1/2基因突變 -> T、B cell VDJ recombination功能下降
+- Paraneoplastic syndrome ^bb00e1
 	- 腫瘤不藉由轉移、侵犯影響的症狀
 	- Ectopic hormone
 		- ACTH : 小細胞肺癌
@@ -231,9 +246,10 @@
 	- 嚴重sepsis、DIC、兩側腎上腺由髓質擴展到皮質的大出血
 - Wernicke-Korsakoff syndrome ^fc6350
 	- 原因 : Vit B1缺乏 <- 喝酒營養不良
-	- Wernicke : Cofusion、Opthalmoplegia、Ataxia
+	- Wernicke : Cofusion、Opthalmoplegia、Ataxia (影響視丘、下視丘)
 	- Korsakoff : Confabulation、Amnesia、Personality
 - Wiskott-Aldrich syndrome ^9c1492
 	- X-link recessive
 	- WASP基因突變 -> 血小板、T 細胞骨架受損
 	- Triad : IgM減少、IgE增加 (過敏性皮炎)、對多糖類抗原無抗體反應、血小板低下
+	- 將低T、B cell interaction，雖然莢膜是Thymus-independent Ag，但沒有T cell活化的Isotype switch，抵抗力不佳

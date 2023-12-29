@@ -79,8 +79,8 @@
 3. 滑液性
 	- 大多關節
 	1. Joint capsule
-		- fibrous capsule (外) : 和periosteum相連，肌腱韌帶附著
-		- synovial membrane (內) : **未覆蓋軟骨**，分泌關節液
+		- Fibrous capsule (外) : 和periosteum相連，肌腱韌帶附著
+		- Synovial membrane (內) : **未覆蓋軟骨**，分泌關節液
 	2. Synovial fluid : 富含玻尿酸的關節液
 	3. *Articular disc (少數具有)* 
 		- **纖維軟骨**

@@ -2,10 +2,11 @@
 - 染色 : 剛果紅->蘋果綠，H&E -> 細胞外Hyaline樣
 - 類澱粉的原因 : 加碘 -> 紫黑色
 ![[Amyloid.png]]
-- AS (Senile) / ATTR (Transthyretin)
+- AS (Senile) / **ATTR (Transthyretin)**
 	- pre-A堆積
-	- 老年退化
-	- 堆積在全身 (心、腦、胰、脾)
+	- 老年類澱粉病
+	- 堆積在全身 (**心**、腦、胰、脾)
+	- Transthyretin : 運送Thyroxine + Retinol
 - AA (Associated)
 	- $\alpha 1$ globulin堆積
 	- **慢性活化疾病 : TB、RA、骨髓炎**

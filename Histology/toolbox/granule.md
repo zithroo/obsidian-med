@@ -1,9 +1,8 @@
 ## Azurophilic
-- 溶解酶
+- **lysosomes**
 - Premyeloblast出現，越來越少
 ## Specific
 - 分出嗜中、酸、鹼性球
-
 ## 血小板顆粒
 ### $\alpha$ granule
 - 血管修復 : PDGF、PAF

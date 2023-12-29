@@ -8,7 +8,7 @@
 	3. pas tubaris
 2. Neurophysis (神經外胚層)
 	1. pars nervosa
-		- 無髓鞘軸突 (75%)，軸突內有**Herring body**(大量ADH+OT顆粒)
+		- 無髓鞘軸突 (75%)，軸突內有**Herring body** (大量ADH+OT顆粒)
 		- pituicyte (20%) : 神經膠細胞
 	2. infundibulum : median eminence + stem
 ## Thyroid gland

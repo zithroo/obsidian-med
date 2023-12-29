@@ -4,8 +4,9 @@
 | 混合  | Epi           | b>a     | 過敏性休克      |
 |       | NE            | a,b1    | 升壓           |
 |       | DA            | D>b>a   | 腎血流         |
+| Non-a | Oxymetazoline |         | 鼻塞           |
 | a1    | Phenylephrine |         | 鼻塞、升壓     |
-|       | Midodrine     |         |                |
+|       | **Midodrine**     |         |                |
 | a2    | Clo**nide**       |         | 降壓           |
 |       | **Methyldopa**    |         | **孕婦**降壓       |
 |       | Brimonidine   |         | [[青光眼]]       |
@@ -17,6 +18,7 @@
 | D1    | Fenol**dopam**    |           | 增加腎臟血流|
 | D2    | Bromocriptine    |         | Parkinson|
 - #h/red ==阿姨(a1) 在夢中(Mido dream) 非你愛妃 (Phenyl ephrine)==
+- #h/blue ==比較== Midodrine ($\alpha1$)<-> Ritodrine ($\beta2$)
 ### $\beta_2$ 氣喘用藥 -terol
 | 分類 |            |            |             |
 |------|------------|------------|-------------|
@@ -37,8 +39,8 @@
 | a1    | losin zosin      |      | BPH              |
 | a2    | Mitrazapine      |      | 憂鬱症           |
 |       | Yohimbine        |      | 姿勢性低血壓、勃起障礙 |
-| Non-b | **N+** olol          | 減少房水製造| 高血壓、青光眼   |
-| b1    | **M+** olol          |      | 高血壓、心律不整 |
+| Non-b | **N以後 +** olol          | 減少房水製造| 高血壓、青光眼   |
+| b1    | **M以前 +** olol          |      | 高血壓、心律不整 |
 - 混合 : #h/red ==有a有b (lol)==
 - Non-a 
 	- #h/red ==Pheno== -> Pheochromocytoma
@@ -76,7 +78,7 @@
 |          | Clinidium                 | M3         | 腸躁症            |
 | 呼吸道   | Ipra**tropium**                |   短效     | 氣喘              |
 |          | Tio**tropium**                |    長效     | 氣喘              |
-| 泌尿     | Oxybutynin                 |            | 膀胱過動          |
+| 泌尿     | Oxybutynin                 | M3         | 膀胱過動          |
 - Scopolamine : #h/red ==駛溝波 暈車==
 - Homeatropine : #h/red  ==在家點眼藥水==
 - Cyclopentolate : #h/red ==獨眼巨人Cyclopia==
@@ -86,6 +88,6 @@
 ***
 #h/blue ==比較==
 - Clonide ($\alpha_2$ +) <-> Clinidium (M3 -) <-> Cimetidine (H2 -)
-- 膀胱過動 : Oxybutynin (M3 -) + Mirabegron ($\beta_3$ +)
+- 膀胱過動 : Oxybutynin (M3 -) 副作用 : 口乾便秘、Mirabegron ($\beta_3$ +) 副作用 : 高血壓
 ### Nm (-)
 - [[肌肉鬆弛]]

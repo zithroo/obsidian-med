@@ -7,7 +7,7 @@
 | Metyrosine (-)                                               | Tyr hydroxylase  | Choline+Acetyl |                                    |
 | Reserpine (-)                                                | DA進入小泡       | Ach進入小泡    | Vesamicol (-)                      |
 | Guanethidine (-) Brytylium (-)  Ephedrine (+) **Amphetamine**(+) | Ca2+入，物質釋放 |                | Botulism (-)                       |
-| [[TCA]](-)、Cocaine、**Methylphenidate**、**Modafinil**    | NE回收           | AchE分解       | Edrophonium、-stigmine、有機磷 (-) |
+| [[TCA]](-)、Cocaine、**Methylphenidate**、**Modafinil**    | NE回收           | AchE分解       | Edrophonium、<br>-stigmine、<br>有機磷 (-) |
 - Tyramine : 併用MAOI，**hypertensive crisis**
 - Metyrosine : 沒tyr，治療Pheochromocytoma
 - Reserpine : 裡攝停
@@ -26,10 +26,13 @@
 |              | 藥效 |  作用  |
 |:------------:|:----:|:------:|
 | Endrophonium |  弱  | 診斷MG |
+| Ambenonium   |      | **治療**MG |
 |   -stigmine   |  中  | 治療MG、解Ach (-) |
 |    有機磷    |  強  |  毒氣  |
 - Neostigmine : 解肌肉鬆弛劑、水溶性
-- Physostigmine : 解Atropine、脂溶性過BBB
+- Physostigmine
+	- 脂溶性過BBB
+	- 解Atropine、**不能治MG**
 - Pyridostigmine : 預防有機磷中毒
 - Echothiophate : 唯一當青光眼藥的有機磷
 - [[解毒#Para|有機磷解毒]] : **Atropine、Pralidoxime**

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2ed4cbe772aa0e55",
+        "id": "0364b599ba80e48e",
         "type": "tabs",
         "children": [
           {
-            "id": "db5f880a9a870102",
+            "id": "a4ab038f4cfd7c6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pharmacology/特定用途/抗黴菌.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pharmacology/特定用途/抗黴菌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pharmacology/特定用途/抗黴菌.md"
-              }
+              "state": {}
             }
           },
           {
@@ -118,7 +111,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -128,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pharmacology/特定用途/抗黴菌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,44 +150,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db5f880a9a870102",
+  "active": "a4ab038f4cfd7c6d",
   "lastOpenFiles": [
-    "Pharmacology/Antimicrobial.md",
-    "Pharmacology/Anti-Cancer.md",
+    "Pathology/toolbox/新同學.md",
+    "Pathology/特殊疾病/動脈瘤.md",
+    "Pathology/病理分項/神經病理.md",
+    "Pathology/病理分項/呼吸病理.md",
     "Pathology/疾病分類.md",
-    "Pathology/病理分項/腫瘤.md",
-    "Pathology/toolbox/致癌機轉.md",
-    "Microbiology/Fungus/系統性典型.md",
-    "Microbiology/toolbox/培養基.md",
-    "Pathology/病理分項/細胞病變.md",
-    "Histology/組織大綱.md",
-    "img/DNA修復.png",
     "Pathology/特殊疾病/syndrome.md",
-    "Pathology/病理分項/內分泌病理.md",
-    "Pharmacology/Endocrine.md",
-    "Pharmacology/Cardiovascular.md",
-    "Pharmacology/Blood.md",
-    "Pharmacology/特定用途/Adrenal gland.md",
+    "Pathology/病理分項/止血異常.md",
+    "Pathology/病理分項/血液淋巴病理.md",
+    "Pathology/特殊疾病/Thrombocytopenia.md",
+    "Pathology/特殊疾病/Leukemia.md",
+    "Pathology/病理分項/循環病理.md",
+    "Pathology/病理分項/心肌疾病.md",
+    "Pharmacology/特定用途/心衰竭.md",
+    "Pharmacology/特定用途/PTH-Calcitonin-VitD.md",
+    "Pathology/特殊疾病/Jaundice.md",
+    "Pathology/病理分項/細胞病變.md",
+    "Pharmacology/特定用途/高血壓.md",
     "Pharmacology/CNS.md",
-    "Pharmacology/特定用途/癲癇.md",
-    "Histology/胚胎來源.md",
-    "Histology/組織系統/Skeletal systems.md",
-    "Histology/組織系統/Muscular systems.md",
-    "Histology/組織系統/Epithelium.md",
-    "Histology/組織系統/Skin.md",
-    "Pathology/toolbox/Tumor suppressor gene.md",
-    "Pathology/病理分項/生殖病理.md",
-    "Pathology/病理分項/皮膚病理.md",
-    "Pathology/toolbox/低血鈣鑑別診斷.png",
-    "Microbiology/黴菌分類.md",
-    "img/Amyloid.png",
-    "img/WNT pathway.png",
-    "img/JAK-STAT pathway.png",
+    "Pharmacology/Endocrine.md",
+    "Pharmacology/Blood.md",
+    "Pharmacology/Cardiovascular.md",
+    "Pathology/toolbox/異常增長.md",
+    "Pathology/病理分項/骨骼關節病理.md",
+    "Pharmacology/特定用途/墮胎和安胎.md",
+    "Pharmacology/toolbox/Arachidonic acid藥物.md",
+    "Pharmacology/Autocrine.md",
+    "img/TAL channel.png",
+    "img/呼吸上皮.png",
+    "img/Pharmacologic agpnist.png",
+    "img/C肝藥物.png",
+    "img/病毒感染病理.png",
+    "Pasted image 20231224023502.png",
     "img/Insulin pathway.png",
-    "img/RB gene pathway.png",
-    "img/Immune complex in glomerulus.png",
-    "img/Auer rod.png",
-    "img/Vasculitis.png",
+    "img/DNA修復.png",
+    "Pathology/toolbox/低血鈣鑑別診斷.png",
+    "img/Amyloid.png",
     "Pathology/病理分項",
     "Histology/組織系統",
     "Pathology/特殊疾病",

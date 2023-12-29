@@ -40,7 +40,7 @@
 |------------|------------------------------------|------------------|
 | TNF-$\alpha$      | Tha**lidomide**                        | Multiple myeloma |
 |            | Etanercept、Adalimumab、Infliximab | RA、SpA          |
-| IL-1       | Anakinra、Rilonacept               | RA              |
+| IL-1       | Anakinra、**Rilonacept**、Canakinumab  | RA              |
 | IL-6       | Tocilizumab                        |                  |
 | IgE        | Omalizumab                         | 氣喘             |
 | CTLA-4模仿 | Abatacept                          | RA               |

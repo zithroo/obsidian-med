@@ -7,16 +7,16 @@
 | Trifluridine| HSV角膜炎           | 只要人類TK            |          |
 | **Gan**ciclovir | **CMV**                 | 類guanosine               | **骨髓抑制** |
 | Val-g       | CMV                 | 肝轉換、口服好            | 骨髓抑制 |
-| Cidofovir   | 抗藥性HSV、VZV、CMV | 類cytosine             | 腎毒性 |
+| Cidofovir   | 抗藥HSV、VZV、CMV | 類cytosine             | **腎毒性** |
 | Fomivirsen  | CMV                 | Antisense oligonucleotide |          |
-| Foscarnet   | 抗藥性HSV、VZV、CMV | 直接抑制pol                   |          |
+| Foscarnet   | 抗藥HSV、VZV、CMV | 抑制DNA、RNA pol、反轉錄酶                   |          |
 - **Gan**對付**CMV**，但多了**骨髓抑制**
 - 接上**Val**ine**口服**吸收好，也當然會先到肝臟
 - #h/blue ==比較==
 
 |是否需要Thymidine kinase|  病毒TK |  宿主TK |
 |:------------:|:-------:|:-------:|
-| Acyclovir  | O (+1P) | O (+2P) |
+| Acy/Ganciclovir  | O (+1P) | O (+2P) |
 | Cidofovir  |    X    | **O** (+2P) |
 | Trifluridine |    X    | O     |
 | Zidovudine (AZT) |    X    | **O** (+3P) |

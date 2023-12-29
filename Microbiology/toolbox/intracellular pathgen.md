@@ -5,6 +5,7 @@
 |          | GNB     | Salmonella、Legionella、Yershina、Francisella、Brucella             |
 |          | GNS     | **B.burgdorferi**                                                       |
 |          | AFS (+) | 分枝桿菌                                                            |
+- 絕對胞內 #h/red ==披衣巴通 + XXX體==
 - 胞內 #h/red ==李毓芬殺退鼠牛虎兔，立刻披衣走人==
 	- 李 : 李斯特
 	- 毓 : 疏螺旋體
