@@ -7,3 +7,4 @@
 | B      | CDK1    | G2/M     |          |
 - #h/red ==4D電影院裡，2個人E起看A片，畫面只有一個B==
 - CDK接上cyclin後被kinase磷酸化 -> 形成phosphorylated Cdk / Cyclin complex -> CDK才有kinase的能力
+- CDK調控蛋白 : Lamin、Myosin、Retinoblastoma protein

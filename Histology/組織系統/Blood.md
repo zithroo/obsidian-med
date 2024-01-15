@@ -1,5 +1,6 @@
 ## RBC
 ### 製造過程
+![[RBC成熟.png]]
 1. **Pro**erythroblast
 2. **Baso**philic erythroblast
 	- **ribosome**最多

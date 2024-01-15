@@ -9,7 +9,7 @@
 - 產生Immune complex沉積
 	- 積在皮膚 : 紅疹
 	- 積在關節 : 關節炎
-- 只感染紅血球前期細胞
+- 只感染紅血球前期細胞 (RBC的P antigen)
 ## Dependovirus
 - Adeonvirus associated virus
 	- 曾被當作DNA vaccine的媒介，後來因為發現Adenovirus有致癌性而不用

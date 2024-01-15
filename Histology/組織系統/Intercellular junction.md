@@ -10,24 +10,14 @@
 2. 細胞內蛋白質圓盤
 3. 跨膜連接蛋白
 ### 分類
-- Desmosome (macula adherens)
-	- 細胞內細胞骨架 : [[Cytoskeleton#Intermediate filament|keratin]]
-	- 細胞內蛋白質圓盤 : desmoplakin (macula)
-	- 跨膜連接蛋白 : cadherin
-- Hemidesmosome
+|                 	| **胞內**細胞骨架 	| 胞內蛋白質<br>圓盤       	| 跨膜連接蛋白 	|
+|-----------------	|--------------	|----------------------	|--------------	|
+| Desmosome       	| [[Cytoskeleton#Intermediate filament\|keratin]]      	| desmoplakin (macula) 	| cadherin     	|
+| Hemidesmosome   	| [[Cytoskeleton#Intermediate filament\|keratin]]      	| desmoplakin (macula) 	| integrin     	|
+| Zonula adherens 	| [[Cytoskeleton#Microfilament\|actin]]        	| catenin (zonula)     	| cadherin     	|
+| Focal contacts  	| [[Cytoskeleton#Microfilament\|actin]]        	| catenin (zonula)     	| integrin     	|
+- Hemidesmosome、Focal contacts
 	- 與基底相連
-	- 細胞內細胞骨架 : [[Cytoskeleton#Intermediate filament|keratin]]
-	- 細胞內蛋白質圓盤 : desmoplakin (macula)
-	- 跨膜連接蛋白 : integrin
-- Zonula adherens (adhesion belt)
-	- 細胞內細胞骨架 : [[Cytoskeleton#Microfilament|actin]]
-	- 細胞內蛋白質細帶 : catenin (zonula)
-	- 跨膜連接蛋白 : cadherin
-- Focal contacts
-	- 與基底相連
-	- 細胞內細胞骨架 : [[Cytoskeleton#Microfilament|actin]]
-	- 細胞內蛋白質細帶 : catenin (zonula)
-	- 跨膜連接蛋白 : integrin
 ## 比較
 - (帶) : zonula occludens、zonula adherens
 - (Adherens) : zonula adherens、macula adherens

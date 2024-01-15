@@ -10,7 +10,7 @@
 - 以人為唯一宿主
 - 症狀
 	- 紅疹、發燒、耳後摸到淋巴結 (症狀溫和)
-	-  [[syndrome#^c38b24|Congenital rubella syndrome]] : 懷孕前三個月
+	- [[syndrome#^c38b24|Congenital rubella syndrome]] : 懷孕前三個月
 - 干擾試驗 (Interference test)
 	- 被Rubella感染後的細胞變化不明顯，但HHV明顯
 	- 懷疑感染的細胞再加入Herpes virus感染

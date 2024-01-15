@@ -22,7 +22,9 @@
 ***
 - Mast cell stabilizer (**C**hronic **M**odulator **O**f **M**ast)
 	- **Crom**olyn、Nedo**crom**il
-	- **運動**誘導支氣管痙攣**預防** : 運動前吸Cromolyn+SABA
+	- **運動**誘導支氣管痙攣**預防** : 運動前吸
+	- **預防**氣喘(不具支氣管擴張作用，**急性無效**)
+	- Cromolyn+SABA
 - 免疫調節療法
 	- Omalizumab : Anti-**IgE**
 	- IL-5

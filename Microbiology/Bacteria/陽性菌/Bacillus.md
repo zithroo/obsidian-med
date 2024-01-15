@@ -3,8 +3,8 @@
 - **蛋白質capsule** : 主要毒力因子
 - $\gamma$ 溶血 (不溶血)
 - 傳染
-	- 接觸(95%，死亡率低)
-	- 吸入孢子 (**wool sorter's disease**)
+	- 接觸 (95%，死亡率低)
+	- 吸入孢子 (**Wool sorter's disease**) 毛工病
 	- 食入 (腸胃型炭疽)
 - 毒素 (**[[A-B toxin]]**)
 	- Protective Ag : [[Vaccine]] (動物的)、B(載體)

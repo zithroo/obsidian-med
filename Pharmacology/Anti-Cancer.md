@@ -3,16 +3,17 @@
 ## 非細胞週期
 - 通殺，優先殺分裂快速的細胞
 ### DNA烷化劑
-| 類型              | 藥名                        | 特色                  |
-|-------------------|-----------------------------|-----------------------|
-| Platinum          | -**platin**                      | [[耳毒腎毒]]神經毒        |
-| Nitrogen Mustards | Cyclophs**phamide**、Ifosfamide | 出血性膀胱炎、MESNA解 |
-| Nitrourea         | Temozolomide                | 唯一腦瘤用藥          |
+| 類型 | 藥名 | 特色 |
+| ---- | ---- | ---- |
+| Platinum | -**platin** | [[耳毒腎毒]]神經毒 |
+| Nitrogen Mustards | Cyclophs**phamide**<br>Ifosfamide | 出血性膀胱炎、MESNA解 |
+| Nitrourea | Temozolomide | 唯一腦瘤用藥 |
+|  | Busulfan | CML、肺纖維化 |
 - Nitrogen Mustard (芥子毒氣)
 	- **Prodrug** : 肝CYP450代謝成活性物
 	- 副產物 **Acrolein**，出血性膀胱炎
 	- **MESNA** : 抗氧化劑，形成膀胱保護膜
-- Busulfan : CML，副作用肺纖維化 #h/red ==Bus 廢氣==
+- Busulfan :  #h/red ==Bus 廢氣 -> 肺纖維化==
 ### 抗生素性 (DNA嵌入)
 | 類型            | 藥名               | 特色                     |
 |-----------------|--------------------|--------------------------|
@@ -84,4 +85,4 @@
 	- #h/red ==Vin(冰) -> 不易靠近(抑聚合)、碰了要熱敷==
 2. 紫杉醇**Taxane** : 抑制微管分開
 - 副作用 : 周邊神經毒性 (感覺異常)、DTR降、便祕
-3. Ixabepilone
+3. Ixabepilone : 抑制微管分開

@@ -17,10 +17,11 @@
 	- tanycyte (伸長細胞) : 位於下視丘正中隆突、有細長basal process，幫助激素傳遞到portal vein影響前葉
 	- choroidal epithelium : **tight junction**，分泌CSF
 
-|  腦室系統           |      |                |              |                  |
-|----------------------|------|----------------|--------------|------------------|
-| Ependymocyte         | 單立 | desmosome      | 不在基底膜上 | cilia、microvili |
-| Choroidal epithelium | 單柱 | tight junction | 基底膜上     | apical microvili |
+| 腦室系統 |  |  |  |  |
+| ---- | ---- | ---- | ---- | ---- |
+| Ependymocyte | 單立 | desmosome | 不在基底膜上 | cilia、microvili |
+| Choroidal epithelium | 單柱 | tight junction | 基底膜上 | apical microvili |
+|  |  |  |  |  |
 ### 神經元
 -  本體 : Nissl body (rER，不在**軸丘、軸突**)、neurofibril
 - 突起
@@ -43,3 +44,7 @@
 1. 齒狀核 : dentate
 2. 中間核 : emboliform + globose
 3. 室頂核 : fastigial
+## PNS
+- Endoneurium : Schwann cell分泌Loose connective tissue
+- Perineurium : perineurial cell形成blood-nerve barrier隔開血管
+- Epineurium : dense connective tissue

@@ -67,7 +67,7 @@
 | 透明 | type 2   | 大部分(氣管、骨垢板、肋軟骨)                         |
 | 彈性 | type 2   | 外耳、會厭、arytenoid(頂端)、corniculate、cuneiform  |
 | 纖維 | type 1   | 椎間盤、恥骨聯合、Articular disc(SC joint, TMJ)、半月板 |
-- 只有透明軟骨會鈣化
+- 只有**透明軟骨會鈣化**
 ## 關節
 1. 纖維性
 	- 骨縫 (suture) : 頭骨

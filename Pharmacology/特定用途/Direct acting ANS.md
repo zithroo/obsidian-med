@@ -54,8 +54,8 @@
 ## Para (+)
 | 藥名                                 | 作用                     |
 |--------------------------------------|--------------------------|
-| Benthanechol、Neostigmine            | 尿液滯留                |
-| Physostigmine、Pilocarpine、Carbachol | [[青光眼]]                   |
+| Benthanechol、Neostigmine            | 治尿液滯留                |
+| Physostigmine、Pilocarpine、Carbachol | 治[[青光眼]]                   |
 | Methacholine                         | 氣喘診斷                 |
 | **Cevimeline**                           | Sjogren syndrome、治口乾 |
 | Succinylcholine                      | 短效肌肉鬆弛、插管       |
@@ -72,7 +72,7 @@
 | 眼科     | Homatropine               |            | 散瞳              |
 |          | **Cyclo**pentolate            |            | 散瞳、**Cyclo**plegia |
 |          | Tropicamide               |            | 最短效散瞳        |
-| 帕金森   | **Benz**tropine               | Ach抑 DA升 |                   |
+| 帕金森   | **Benz**tropine               | Ach抑<br>DA升 |                   |
 | 腸胃     | Pirenzepine               | M1         | 抑制胃酸          |
 |          | Propantheline             | M1+**M3**      | 抑酸、**便祕**        |
 |          | Clinidium                 | M3         | 腸躁症            |

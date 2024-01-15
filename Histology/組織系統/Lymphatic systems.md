@@ -12,7 +12,7 @@
 	- **mucosa lamina propia中**
 	- 消化道、呼吸道、泌尿道
 - Lymphatic nodule
-	- 闌尾、盲腸、迴腸 的**Peyer's patch**
+	- 闌尾、盲腸、迴腸的**Peyer's patch**
 	- 初級小結 : 深染小淋巴球
 	- 次級小結
 		1. germinal center (內部) : **淡染**未成熟大淋巴球

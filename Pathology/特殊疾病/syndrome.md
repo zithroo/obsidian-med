@@ -1,6 +1,7 @@
 - Acute HIV syndrome : 和重感冒相似，發燒、淋巴腫大、有不明疹子 ^c18f45
 - Acute Respiratory Distress Syndrome (ARDS) ^722b04
-	- Diffuse alevolar disease
+	- Diffuse alevolar damage
+	- Traumatic lung
 	- 呼吸窘迫 (病因後24~48 hr)
 	- PaO2降、PaCO2降、呼吸性鹼中毒
 	- X ray : Diffuse alveolar infiltration
@@ -13,6 +14,8 @@
 	- 年輕女性、下肢無脈搏
 	- 侵犯主動脈弓及分支
 	- [[血管炎]]
+- Autoimmune LymphoProliferative Syndrome
+	- FAS gene缺失，無法讓Self-Active淋巴球細胞凋亡
 - Bartter syndrome
 	- 粗上升枝通道蛋白異常
 	- 低血鉀、鹼中毒
@@ -23,7 +26,13 @@
 	- type V : CaSR
 	- [[TAL channel.png]]
 - Bernard-Soulier syndrome ^c8985a
-	- 先天缺乏GpIb (血小板 - vWF)
+	- AR -> 缺乏GpIb (血小板 - vWF)
+- Carcoinoid syndrome
+	- 5-HT過多
+	- 潮紅、腸過度運動、支氣管痙攣、心臟侵犯
+- Cerebellopontine angle syndrome
+	- Tumor壓迫 -> CN V、VII、VIII
+	- CN VI在橋腦延腦間，沒事
 - Churg-Strauss syndrome ^30fe45
 	- Allergic granulomatosis
 	- Eosinophilic granulomatosis with polyangitis
@@ -36,7 +45,7 @@
 	- Unconjugated hyperbilirubinemia
 	- type I : 缺乏UGT1A1，新生兒致命
 	- type II : UGT1A1活性下降，症狀輕微
-- Cusing syndrome ^327c2c
+- Cushing syndrome ^327c2c
 	- 定義 : **Cortisol過多**
 	- 糖質新生 : 分解來升糖
 		- 分解脂肪
@@ -57,9 +66,13 @@
 	- Permission effect : 增加Catecholamine、Glucagon敏感度
 	- 微血管擴張、臉潮紅
 	- ~~促進surfactant分泌~~
+- de Quervain syndrome
+	- 媽媽手
+	- 狹窄性肌腱滑膜炎 (Stenosing tenosynovitis)
+	- 手背大拇指側的支持帶增厚，壓迫EPB、APL的肌腱
 - DiGeroge syndrome ^3eefa6
 	- **CATCH 22** syndrome
-	- 22q11基因缺損 -> 3、4**咽囊**發育失敗 (胸腺、副甲狀腺)
+	- 22q11基因缺損 -> 3、4**咽囊**發育失敗 (胸腺、副甲狀腺)，屬於microdeletion syndrome -> 用螢光原位雜合法診斷
 	- Neonatal seizure
 	- **C**ardiac、**A**bnormal face、**T**hymic、**C**left palate、**H**ypocalcemia
 - Down syndrome ^a0f912
@@ -121,10 +134,19 @@
 - HNPCC syndrome ^121a0d
 	- Mismatch repair gene缺陷
 	- 相關 : MLH、Mut
+- Horner syndreom
+	- 交感受損
+	- 眼瞼下垂、瞳孔縮小、無汗
 - Hyper IgE syndrome / Jobs syndrome ^51cde4
 	- AD -> **STAT3**基因缺陷
 - Hyper IgM syndrome ^d86fb1
 	- X-link -> **CD40L** 基因突變->T細胞無法活化B cell產生isotype switching
+- IPEX syndrome
+	- Immunodysregulation
+	- Polyendocrinopathy
+	- Enteropathy
+	- X-linked -> **FOXP3** gene缺失 (Treg)
+	- 症狀 : IBD、Type I DM、皮膚炎
 - Kartagener syndrome ^3a0338
 	- Ciliary dyskinesia syndrome
 	- 支氣管擴張、鼻竇炎、男性不孕、內臟轉位
@@ -148,6 +170,10 @@
 	- PMS2、MLH1、 MSH6、MSH2
 - Marfran syndrome ^b18922
 	- 15染色體FBN1 gene突變 -> **Fibrillin**缺少
+	- 症狀
+		- 高瘦、特別長的腳、手臂、手指
+		- 深度近視、水晶體脫垂、水晶體異常
+		- Cystic medionecrosis、主動脈剝離 (30~40才有明顯心臟問題)
 - MEN-I (Werner syndrome) ^1ac14a
 	- Multiple Endocrine Neoplasia
 	- Menin gene突變 (Tumor supressor gene)
@@ -189,12 +215,18 @@
 	- Acanthosis nigricans : 胃癌
 	- Myasthenic gravis : Thymoma
 	- Clubbing finger : 肺癌
-	- Migrating thrombophlebitis (Trousseau sign)
+	- Migrating thrombophlebitis (Trousseau syndrome)
 		- 胰臟、大腸、肺癌
 - PCOS syndrome (Polycystic ovary syn) ^6a55ef
 	- Stein-Leventhal syndrome
 	- 長期無排卵、雄性素過高、Type II DM
 	- 雙側多發性濾泡囊腫，但**無黃體 (Thecal)**
+	- 原因 : LH過高
+		- 卵巢內太多顆濾泡、但來不及成熟
+		- 刺激Leydig cell分泌Androgen
+	- 唯一合法藥物[[Sex hormone#Estrogen|Clomiphene]]
+- Plummer-Vinson syndrome ^7e45df
+	- IDA+舌炎+吞嚥困難 (食道蹼)
 - POEMS syndrome
 	- Polyneuropathy
 	- Organomegaly : 肝、脾、淋巴腫大
@@ -203,15 +235,18 @@
 		- Multiple myeloma中少見POEMS
 		- 骨頭sclerotic，非lytic lesion
 	- Skin
-- Polycystic ovarian syndrome (POCS) ^6b9247
-	- 定義 : 卵巢內有許多不成熟的濾泡
-	- 原因 : LH過高
-		- 卵巢內太多顆濾泡、但來不及成熟
-		- 刺激Leydig cell分泌Androgen
-	- 唯一合法藥物[[Sex hormone#Estrogen|Clomiphene]]
+- Prader-Willi syndrome
+	- 父15染色體deletion : 70%
+	- 兩個15染色體都源自母 : 20% (此Imprinting gene只會在父遺傳的染色體表現)
+	- Imprinting center mutation : 5%
+	- 症狀 : 嬰兒體重低，幼年狂吃智障
+- Reiter syndrome
+	- 結膜炎 + 非淋病尿道炎 + 反應性關節炎
+	- UTI、腸感染後 -> 自體免疫關節炎
+	- #h/red ==Can't see, Can't pee, Can't climb a tree==
 - Reye syndrome ^80f5f5
 	- < 18歲，感染流感或水痘，用Aspirin退燒
-	- 急性脂肪肝 + 肝性腦病變
+	- 急性脂肪肝 + 肝性腦病變 (星狀細胞水腫)
 	- 改用Acetaminophen
 - Rotor syndrome ^47b741
 	- AR -> 減少excretion，也減少肝臟儲存，Conjugated bilirubin漏出去
@@ -233,11 +268,19 @@
 				- Marginal zone lymphoma
 - Staphylococcus Scaled Skin Syndrome
 	- Exofoliative toxin造成新生兒脫皮
+- Testicular ferminization syndrome
+	- Androgen Insensitivity Syndrome
+	- 男性假陰陽人
+- Trousseau syndrome ^f064d9
+	- Trousseau sign of malignancy
+	- Migratory thrombophlebitis
+	- Nonbacterial Thrombotic endocarditis (NBTE)
+	- 常因高凝血性 : 腺癌
 - Turner syndrome
 	- 女性 : 44+X
 	- 幼年型性器官、矮、不孕、蹼狀頸、乳距寬
 - VHL (Von Hippel Lindau syndrome) ^f20993
-	- 3p (短臂) 缺失 (本身為腫瘤抑制基因)
+	- **3p** (短臂) 缺失 (本身為腫瘤抑制基因) 或**Hyper**methylation (抑制)
 	- Renal Cell Carcinoma的**Clear cell**
 	- CNS Hemangioblastomas
 	- Pheochromocytoma
@@ -252,4 +295,4 @@
 	- X-link recessive
 	- WASP基因突變 -> 血小板、T 細胞骨架受損
 	- Triad : IgM減少、IgE增加 (過敏性皮炎)、對多糖類抗原無抗體反應、血小板低下
-	- 將低T、B cell interaction，雖然莢膜是Thymus-independent Ag，但沒有T cell活化的Isotype switch，抵抗力不佳
+	- 降低T、B cell interaction，雖然莢膜是Thymus-independent Ag，但沒有T cell活化的Isotype switch，抵抗力不佳

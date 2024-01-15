@@ -2,7 +2,7 @@
 |--------------|--------------|--------------------|--------------|
 | Catalase (+) | Cogulase (+) |                    | S.aureus     |
 |              | Cogulase (-) |                    | CoNS         |
-| Catalase (-) | $\alpha$        | Bile、Optochin (+) | S.pneumoniae |
+| Catalase (-) | $\alpha$        | Bile、Optochin(+) | S.pneumoniae |
 |              |              | Bile、Optochin (-) | Viridans     |
 |              | $\beta$         |                    | GAS          |
 |              |              | CAMP (+)           | GBS          |
@@ -11,9 +11,9 @@
 ### S.aureus (coagulase +)
 | 分類     | 致病因子           | 效用                             |
 |----------|--------------------|----------------------------------|
-| 保護自己 | Protein A          | 中和抗體Fc區，防止調理           |
+| 保護<br>自己 | Protein A          | 中和抗體Fc區，防止調理           |
 |          | Coagulase          | 周圍形成Fibrin clot              |
-| 破壞宿主 | Hyaluronidase      | 分解組織 (組織擴散因子)          |
+| 破壞<br>宿主 | Hyaluronidase      | 分解組織 (組織擴散因子)          |
 |          | Fibrinolysin         | 溶解自己形成的Fibrin clot        |
 | **Super Ag** | Exofoliative toxin | Scaled Skin Syndrome             |
 |          | TSST-1             | Toxic shock syndrome、衛生棉條   |

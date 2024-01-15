@@ -2,11 +2,11 @@
 |----------|--------|--------------|---------------------------|--------------------|----------------|
 | 全       | 滲透性 |              | Mannitol                  | 顱內壓升高、[[青光眼]] | 先短暫升壓     |
 | PCT      | **磺胺**   | CA (-)       | Acetazolamide             | 高山症、[[青光眼]]     | 酸中毒、低血鉀、腎結石 |
-| 粗上升支 | **磺胺**   | NKCC2 (-) | Furosemide、Ethacrynic acid、Bumetanide| 肺水腫、心腎衰竭   | **耳毒性、高尿酸** |
-| DCT      | **磺胺**   | NCC (-)    | Thiazide、Indapamide、Metolazone | 高血壓、腎源性尿崩 | **Hyper GLUC**     |
-| 皮質CD    | 固醇   | 抗醛固酮     | Spironolactone、Eplerenone | 肝硬化             | 高血鉀         |
-|          |        | ENaC (-)       | Amiloride、Triamterene    |                    |                |
-| 髓質 CD   |        | ADH V2 (-)    | -vapan、Demeclocycline    |   心衰竭     |                |
+| 粗上升支 | **磺胺**   | NKCC2 (-) | Furosemide<br>Ethacrynic acid<br>Bumetanide | 肺水腫、心腎衰竭   | **耳毒性、高尿酸** |
+| DCT      | **磺胺**   | NCC (-)    | Thiazide<br>Indapamide<br>Metolazone | 高血壓、腎源性尿崩 | **Hyper GLUC**     |
+| 皮質CD    | 固醇   | 抗醛固酮     | Spironolactone<br>Eplerenone | 肝硬化             | 高血鉀         |
+|          |        | ENaC (-)       | Amiloride<br>Triamterene    |                    |                |
+| 髓質 CD   |        | ADH V2 (-)    | -vapan<br>Demeclocycline    |   心衰竭     |                |
 - 磺胺類藥物 : **過敏**
 - 除了保鉀利尿劑之外，都造成**低血鉀**
 	- 濾液中高Na，在DCT中Na藉由ENaC回收，使胞內正電荷增加 -> K+被動的由ROMK分泌出去
@@ -24,7 +24,7 @@
 - #h/red ==福樂(Furo)補鎂(Bume)，醫生Cry(Etha Cry)，要跑路(Loop)了==
 ## Thiazide
 - **腎源性尿崩** : ADH recptor沒用，DCT、CD的水無法擴散到血管 -> 稀尿
-	- Thiazide造成低血容->降低腎絲球過濾率、**誘導PCT鈉水的再吸收**，減少流到後端DCT、CD的水分->減少尿液
+	- Thiazide造成低血容 -> 降低腎絲球過濾率、**誘導PCT鈉水的再吸收**，減少流到後端DCT、CD的水分->減少尿液
 	- Furosemide : 超強利尿、用下去尿更多
 	-  [參考連結](https://meddataspeaks.wordpress.com/2015/05/17/%E5%9C%8B%E8%80%83%E8%A7%A3%E9%A1%8C-thiazide%E5%88%A9%E5%B0%BF%E5%8A%91%E7%94%A8%E6%96%BC%E8%85%8E%E5%9B%A0%E6%80%A7%E5%B0%BF%E5%B4%A9%E7%97%87%E7%9A%84%E6%A9%9F%E8%BD%89/)
 - 副作用 #h/red ==Hyper GLUC==、低血鉀

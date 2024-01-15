@@ -4,13 +4,14 @@
 |----------|--------|---------------------------------------|
 | 皮膚     | 1、2   | Common wart                           |
 |          | 1、4   | Plantar wart                          |
-| 生殖上皮 | **6、11**  | Condyloma acuminatum (菜花、尖形濕疣) |
+| 生殖上皮 | **6、11**  | Condyloma acuminatum <br>(菜花、尖形濕疣) |
 |          | **16、18** | 子宮頸癌、口咽癌                           |
 - 通常只會感染上皮細胞、形成疣 (wart)，除了
 	- High risk : 16、18
 	- Low risk : 6、11
 - 大多人自己痊癒
 - **子宮頸、肛門生殖器、頭頸部SCC**
+- Koilocyte、Perinuclear halo
 - #h/blue ==比較== 
 	- Condyloma acuminatum <-> [[GNS#梅毒症狀|Codyloma latum]]
 	- 口腔癌 (菸酒檳榔) <-> 口咽癌 (HPV)

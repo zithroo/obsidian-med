@@ -9,16 +9,16 @@
 
 | 抗藥性原因     | 分類 | 細菌        | 藥物                   |
 |----------------|--------|-------------|------------------------|
-| $\beta$-lactamase | 一般   | MSSA        | Oxacillin、Cepha類       |
-|                | AmpC   | E.coli、K.p | Carbapenem、四代Cepha  |
-|                | ESBL   | E.coli、K.p | Carbapenem、Cephamycin |
-| PBP結構改變    |        | **MRSA**、**PRSP**  | Vancomycin             |
+| $\beta$-lactamase | 一般   | MSSA        | Oxacillin<br>Cepha類       |
+|                | AmpC   | E.coli<br>K.p | Carbapenem<br>四代Cepha  |
+|                | ESBL   | E.coli<br>K.p | Carbapenem<br>Cephamycin |
+| PBP結構改變    |        | **MRSA**<br>**PRSP**  | Vancomycin             |
 | Porin結構改變  |        | 綠膿桿菌    | 四代PCN和Cepha         |
 ## Penicillin
 | 構造                    | 藥名                               | 特性                     |
 |-------------------------|------------------------------------|--------------------------|
-| Penicilin               | Penicillin G                       | 梅毒、鏈球菌             |
-| Penicillinase-**resistent** | **Methicillin**、Naficillin、**Oxa**cillin | MSSA、**肝**代謝             |
+| Penicilin               | Penicillin G                       | 梅毒、<br>鏈球菌             |
+| Penicillinase-**resistent** | **Methicillin**、Naficillin、**Oxa**cillin | MSSA、<br>**肝**代謝             |
 | Amino-PCN               | **Amp**icillin、**Amo**xicillin            | 併用$\beta$-lmase inhibitor |
 | Carboxy-PCN             | Ticarcillin、Piperacillin          | 併用$\beta$-lmase inhibitor |
 1. Benzathine Penicillin : IM治梅毒

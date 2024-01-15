@@ -9,7 +9,7 @@
 ## Hormone receptor
 |        | Gq                             | Gs                    | TK (JAK-STAT)  | Nuclear                       |
 |--------|--------------------------------|-----------------------|----------------|-------------------------------|
-| 下視丘 | **大多**                           | CRH、ADH-V2           |                |                               |
+| 下視丘 | **大多**                           | CRH、GHRH、ADH-V2           |                |                               |
 | 腦垂體 |                                | **大多**                  | (GH、PRL)      |                               |
 | 終端   | $\alpha1$、M1、M3、Angiotensin II | $\beta$、PTH、Calcitonin、Glucagon | Insulin、IGF-1、(EPO、Cytokine、Leptin) | 腎上腺皮質激素、Thyroid、VitD |
 ### 相似的激素

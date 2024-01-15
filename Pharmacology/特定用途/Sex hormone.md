@@ -26,12 +26,12 @@
 | SERM          | Tamoxifen    | 停經前乳癌 |
 |               | Raloxifene   | 停經後骨鬆 |
 |               | **Clomiphene**   | 排卵針、PCOS     |
-|E+P (+)        | M**estr**anol    | 口服避孕藥 |
+|E+P (+)        | Mestranol    | 口服避孕藥 |
 |E receptor (-) | Fulvestrant  | 最後線乳癌 |
 | Aromatase (-) | -trozole | 停經後乳癌 |
 - [[骨質疏鬆#雌激素]] : E、E+P、SERM的不同
 - Clomiphene
-	- **抑制下視丘Estrogen receptor負回饋** -> 排卵、治療[[syndrome#^6b9247|Polycystic ovarian syndrom]]
+	- **抑制下視丘Estrogen receptor負回饋** -> 排卵、治療[[syndrome#^6a55ef|PCOS syndrome]]
 	- 卵巢的Estrongen (+) : 促卵成熟
 - #h/red ==Clone me (複製生小孩)==
 - Estrogen

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0364b599ba80e48e",
+        "id": "fc4daa4649db5676",
         "type": "tabs",
         "children": [
           {
-            "id": "a4ab038f4cfd7c6d",
+            "id": "620d2f034c730997",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pathology/特殊疾病/syndrome.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Wiskott",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pathology/特殊疾病/syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pathology/特殊疾病/syndrome.md"
+              }
             }
           },
           {
@@ -123,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pathology/特殊疾病/syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,44 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4ab038f4cfd7c6d",
+  "active": "620d2f034c730997",
   "lastOpenFiles": [
-    "Pathology/toolbox/新同學.md",
-    "Pathology/特殊疾病/動脈瘤.md",
-    "Pathology/病理分項/神經病理.md",
-    "Pathology/病理分項/呼吸病理.md",
-    "Pathology/疾病分類.md",
-    "Pathology/特殊疾病/syndrome.md",
     "Pathology/病理分項/止血異常.md",
+    "Pathology/toolbox/免疫.md",
+    "Pathology/特殊疾病/syndrome.md",
+    "Pharmacology/特定用途/Diurectics.md",
+    "Histology/組織系統/Skeletal systems.md",
+    "Histology/組織大綱.md",
+    "Pathology/toolbox/body.md",
+    "Pathology/病理分項/卵巢病理.md",
+    "Pathology/病理分項/女性生殖病理.md",
+    "Pathology/病理分項/生殖病理.md",
+    "Pathology/疾病分類.md",
+    "Pathology/病理分項/消化病理.md",
+    "Pathology/toolbox/Tumor suppressor gene.md",
+    "Histology/組織系統/Intercellular junction.md",
+    "Microbiology/Bacteria/陽性菌/Listeria.md",
+    "Pathology/病理分項/腫瘤.md",
+    "Pathology/toolbox/新同學.md",
+    "Pathology/病理分項/子宮病理.md",
+    "Pathology/病理分項/乳房病理.md",
+    "Pathology/病理分項/Obstructive lung disease.md",
+    "Pathology/病理分項/呼吸病理.md",
+    "Pathology/特殊疾病/Leukemia.md",
     "Pathology/病理分項/血液淋巴病理.md",
     "Pathology/特殊疾病/Thrombocytopenia.md",
-    "Pathology/特殊疾病/Leukemia.md",
-    "Pathology/病理分項/循環病理.md",
-    "Pathology/病理分項/心肌疾病.md",
-    "Pharmacology/特定用途/心衰竭.md",
-    "Pharmacology/特定用途/PTH-Calcitonin-VitD.md",
-    "Pathology/特殊疾病/Jaundice.md",
-    "Pathology/病理分項/細胞病變.md",
-    "Pharmacology/特定用途/高血壓.md",
-    "Pharmacology/CNS.md",
-    "Pharmacology/Endocrine.md",
-    "Pharmacology/Blood.md",
-    "Pharmacology/Cardiovascular.md",
-    "Pathology/toolbox/異常增長.md",
-    "Pathology/病理分項/骨骼關節病理.md",
-    "Pharmacology/特定用途/墮胎和安胎.md",
-    "Pharmacology/toolbox/Arachidonic acid藥物.md",
-    "Pharmacology/Autocrine.md",
-    "img/TAL channel.png",
-    "img/呼吸上皮.png",
-    "img/Pharmacologic agpnist.png",
-    "img/C肝藥物.png",
-    "img/病毒感染病理.png",
-    "Pasted image 20231224023502.png",
+    "Pathology/toolbox/Proto-oncogene.md",
+    "Pathology/toolbox/致癌機轉.md",
+    "img/神經退化性疾病.png",
+    "img/RB gene pathway.png",
+    "img/癲癇藥.png",
+    "img/RBC成熟.png",
+    "img/Apoptosis.png",
+    "img/SCID.png",
+    "img/Lymphoma.png",
+    "img/Breast ca.png",
+    "img/COPD.png",
     "img/Insulin pathway.png",
-    "img/DNA修復.png",
-    "Pathology/toolbox/低血鈣鑑別診斷.png",
-    "img/Amyloid.png",
     "Pathology/病理分項",
     "Histology/組織系統",
     "Pathology/特殊疾病",

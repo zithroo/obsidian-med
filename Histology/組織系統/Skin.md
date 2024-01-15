@@ -2,12 +2,12 @@
 |          | 位於               | 功能 | 包膜 | 適應 |
 |----------|--------------------|:----:|:----:|:----:|
 | Langerhans| 棘狀層             | - |  -   |    -  |
-| Melanocyte| **棘狀層**             | - |  -   |    -  |
+| Melanocyte| **基底層**             | - |  -   |    -  |
 | Merkel   | 基底層             | 觸壓 |   **X**  |      |
 | Meissner | 真皮乳頭           | **輕**觸 |   O  |  快  |
 | Ruffini  | 真皮網狀           | 觸壓 |   O  |  快  |
 | Krause   | 真皮網狀           | 冷覺 |   O  |      |
-| Pacinian | 真皮網狀、皮下脂肪 | 觸壓 |   O  |  快  |
+| Pacinian | 真皮網狀<br>皮下脂肪 | 觸壓 |   O  |  快  |
 - #h/red ==輕觸妹子(Meissner) 乳頭==
 - #h/red ==沒課 (Merkel) 沒事 (Meiss) 麥萊 (Ruff) 靠 (Krau) 北 (Pa)==
 - Free nerve ending最遠到顆粒層

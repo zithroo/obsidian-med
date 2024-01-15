@@ -3,7 +3,7 @@
 |                 | 藥名                                    | 補充                   |
 |-----------------|-----------------------------------------|------------------------|
 | 刺激DA釋放      | Amantadine                              | **A型流感**                |
-| 口服DA      | Levodopa+Carbidopa+COMT i                      |                        |
+| 口服DA      | Levodopa (尿液褐色)+<br>Carbidopa + COMT (-)                      |                        |
 | DA receptor(+) | Bromocriptine、Pergolide                | 麥角類                 |
 |                 | Pramipexole、Ropinirole                 | 非麥角類               |
 | MAOI$_B$            | Sele**giline**、Rasagiline                  | DA 回收(-)             |

@@ -34,7 +34,7 @@
 ## COX下產物
 - PGE/F : Prostaglandin、PGI : Prostacyclin
 - 原則
-	- PG多**血管舒張，可開PDA、解肺動脈高壓**，除了PGF(青光眼)
+	- PG多**血管舒張，可開PDA、解肺動脈高壓**，除了PGF (青光眼)
 	- PG收縮**子宮平滑肌**、減少產後出血
 - [[墮胎和安胎]]
 
@@ -44,7 +44,7 @@
 |      | **A**lprostadil                          | 開PD**A**、治不舉         |
 | PGE2 | Dinoprostone                         | 墮胎                 |
 | PGF2 | Carbo**prost**                           | 引產、墮胎           |
-|      | Latano**prost**                          | [[青光眼]]               |
+|      | Latano**prost**、<br>Bimatoprost                          | [[青光眼]]               |
 | PGI2 | Epoprostenol、<br>Treprostinil、<br>Iloprost、Selexipag | 降肺高壓             |
 - #h/red  ==喝Miso胃很舒服==
 - #h/red ==Miss. Dinosaur (Miso、Dino) 恐龍妹開車 (Carbo)會撞到流產==

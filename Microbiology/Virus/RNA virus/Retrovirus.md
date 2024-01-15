@@ -1,8 +1,8 @@
 | 亞科       | 病毒         | 補充           |
 |------------|--------------|----------------|
-| Oncovirus (腫瘤病毒) | **HTLV** (人類)  | Adult-T leukemia  |
+| Oncovirus <br>(腫瘤病毒) | **HTLV** (人類)  | Adult-T leukemia  |
 |            | MMTV (老鼠)  | 病毒性super Ag |
-| Lentivirus (慢性病毒) | **HIV**-1        | AIDS           |
+| Lentivirus<br> (慢性病毒) | **HIV**-1        | AIDS           |
 | Spumavirus | 人類泡沫病毒 | Self limited   |
 - 在細胞**核**內複製
 ## HIV-1
@@ -43,7 +43,7 @@
 ### 症狀
 1. Acute infection
 	- 病毒血症
-		- Acute HIV syndrome : [[syndrome#^c18f45]]
+		- [[syndrome#^c18f45| Acute HIV syndrome]]
 		- 偵測到病毒抗原
 	- CD4先降，後因為免疫反應短暫增加
 2. Subclinical Immune Dysfunction

@@ -24,6 +24,11 @@
 - 舌乳頭不一定有味蕾 (filiform)
 - 味蕾不一定要在舌乳頭 (終溝之後無舌乳頭)
 ## 視覺
+- 以Lens為界
+	- Ant. cavity (以Iris為界)
+		- Ant. chamber
+		- Pos. chamber
+	- Pos. cavity
 ### Fibrous tunic
 - Cornea
 	1. epithelium : 非角質化複鱗

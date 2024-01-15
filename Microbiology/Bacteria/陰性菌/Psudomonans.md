@@ -10,7 +10,7 @@
 | 正常   | 肺           | Cystic Fibrosis人肺炎 |
 |        | 眼           | 隱形眼鏡->角膜潰瘍    |
 |        | 耳           | swimming ear (外耳)   |
-| 伺機性 | 傷口、導尿管 |                       |
+| 伺機性 | 傷口、導尿管 | Ecthyma gangrenosum                      |
 ## P.pseudomallei
 - 現名 : Burkholderia psudomallei
 - 長在濕泥土 : 颱風過後塵土飄起來 -> 吸入

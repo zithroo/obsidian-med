@@ -19,11 +19,11 @@
 ## 間接控制血糖
 | 機轉 |  | 藥名 | 禁忌 |
 | ---- | ---- | ---- | :--: |
-| K+ATP關 | Sulfonylurea | **Tolbutamide**、Chlorprop**amide**、Tolazamide、Acetohexamide、**Gli**mepiride (二代) | X |
+| K+ATP關 | Sulfonylurea | **Tolbutamide**<br>Chlorprop**amide**<br>Tolaz**amide**<br>Acetohex**amide**<br>**Gli**mepiride <br>(二代) | X |
 |  | Meglitinide | Repa**glinide** | X |
 | GLP-1 | 促GLP-1 | Exe**natide**、Lira**glutide** | 腎 |
 |  | 抑DPP-4 | Sita**gliptin** | 腎 |
-| 肝糖質新生 (-) | Bigunaide | Metformin | **心肝腎** |
+| 肝糖質新生 (-) AMPK(+) | Bigunaide | Metformin | **心肝腎** |
 | PPAR$\gamma$、GLUT-4 | TZD | Rosi**glitazone** | **心肝腎** |
 | $\alpha$-glucosidase inhibitor |  | Acarbose、Miglitol | 腎 |
 | SGLT-2 (-) |  | Caba**gliflozin** | 腎 |

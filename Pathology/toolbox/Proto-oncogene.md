@@ -13,7 +13,7 @@
 |-------|----------------------------|:------:|
 | HER-1 | 肺腺癌、大腸癌             |    7   |
 | HER-2 /neu | 乳癌                       |   17   |
-| RET   | MEN-II ([[syndrome#^eeea59]]) |   10   |
+| RET   | [[syndrome#^eeea59\|MEN-II]] |   10   |
 | MET   | 腎臟乳突癌                   |    7   |
 | KIT   | GIST                       |    4   |
 | ALK   | 肺腺癌、逆分化大細胞淋巴癌 |    2   |
@@ -23,7 +23,7 @@
 - ABL-BCR (9 : 22) : 費城染色體
 - RTK (例如EGFR) -> 
 	- SOS -> Ras -> Raf -> MEK -> ERK (**MAPK**)
-		- SOS : Guanine exchange factor，把Ras上的GDP換成GTP活化
+		- SOS : Guanine Exchange Factor，把Ras上的GDP換成GTP活化
 	- PI3K -> AKT -> mTOR
 
 | Receptor相關Pathway | 突變         | 癌症             | 染色體 |
@@ -39,7 +39,8 @@
 - MYC (利用DNA binding motifs)
 	- **c-myc**-IG (**8** : 14) : Burkitt’s lymphoma
 	- n-myc過度表現 : Neuroblastoma
+	- l-myc : small cell lung cancer
 ## Cyclin-dependent kinase
-- [[cyclin]]
+- [[Cyclin]]
 - Cyclin D1 (CCND1、Bcl-1) : mantle cell lymphoma
 - CDK4 : Glioblastoma
