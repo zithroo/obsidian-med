@@ -33,5 +33,4 @@
 	- #h/red ==PSMM==
 - Russel body : 漿細胞，細胞內hyaline change，由IgG組成 ^d48aa2
 - Schiller-Duval body : Yolk sac tumor、像腎絲球 ^b5671e
-
 ![[病毒感染病理.png]]

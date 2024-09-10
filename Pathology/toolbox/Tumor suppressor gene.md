@@ -21,7 +21,7 @@
 - P53 gene
 	- tumor suppress及DNA repair gene
 	- p53 -> p21 -> 抑制CDK4 / cyclin D -> 阻斷G1 / S
-	- Li-Fraumeni syndrome [[syndrome#^e7de75]]
+	-  [[syndrome#^e7de75|Li-Fraumeni syndrome]]
 - [[RB gene pathway.png|Rb gene]]
 	- CDK 4/ cyclin D -> 磷酸化抑制Rb -> 活化E2F
 	- Retinoblastoma

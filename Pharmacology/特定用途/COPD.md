@@ -3,10 +3,11 @@
 	- COPD Parasym (-)有效 <-> Asthma $\beta_2$ blocker 有效
 - LAMA : **-tropium** #h/red ==戳屁眼==
 
-|          | Ipra**tropium**                          | Tio**tropium** |
-|----------|--------------------------------------|------------|
-| Duration | 6~8 hr                               | 長 1天     |
-| 應用     | SABA+Ipratropium，治療COPD支氣管痙攣 | COPD首選   |
+|  | Ipra**tropium** | Tio**tropium** |
+| ---- | ---- | ---- |
+| Onset | 慢 (和SABA比較) | 慢 |
+| Duration | 6~8 hr | 長 1天 |
+| 應用 | SABA+Ipratropium，治療COPD支氣管痙攣 | COPD首選 |
 - Theophylline
 	- Methylxanthine類 : **同Caffeine**
 	- 機轉 

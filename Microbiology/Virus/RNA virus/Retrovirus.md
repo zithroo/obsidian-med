@@ -1,9 +1,9 @@
-| 亞科       | 病毒         | 補充           |
-|------------|--------------|----------------|
-| Oncovirus <br>(腫瘤病毒) | **HTLV** (人類)  | Adult-T leukemia  |
-|            | MMTV (老鼠)  | 病毒性super Ag |
-| Lentivirus<br> (慢性病毒) | **HIV**-1        | AIDS           |
-| Spumavirus | 人類泡沫病毒 | Self limited   |
+| 亞科                    | 病毒            | 補充               |
+| --------------------- | ------------- | ---------------- |
+| Oncovirus <br>(腫瘤病毒)  | **HTLV** (人類) | Adult-T leukemia |
+|                       | MMTV (老鼠)     | 病毒性super Ag      |
+| Lentivirus<br> (慢性病毒) | **HIV**-1     | AIDS             |
+| Spumavirus            | 人類泡沫病毒        | Self limited     |
 - 在細胞**核**內複製
 ## HIV-1
 ### 基因組
@@ -30,7 +30,7 @@
 	- TAT : 抗終止蛋白，避免過早轉錄完成
 - 容易突變 : gp120 (所以沒疫苗)、RT (所以抗藥性高)
 ![[HIV viral protein.png]]
-### 感染
+### 感染 (CD4 T、巨噬、樹突細胞)
 - 如果經黏膜感染 : 由**Dendritic cell攜帶**到淋巴結
 - 感染Th (gp120辨識、gp41送進去)
 	- CD4、co-receptor (CXCR4 or CCR5) 辨識

@@ -25,4 +25,4 @@
 	- [[Bordetella]] : 百日咳
 	- [[Brucella]] : 牛
 	- [[GN絕對胞內#Bartonella|Bartonella]] : 貓抓病
-	- Borrehia : 螺旋菌、萊姆病
+	- [[GNS#Borrelia burgdorferi|Borrehia]] : 螺旋菌、萊姆病

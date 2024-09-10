@@ -47,6 +47,7 @@
 - Interferon、TNF類 : 注意TB (胞內病原體)
 - -cept : receptor類似物，可把Ligand抓住
 - #h/red ==Intern (Etaner) 很阿達 (Ada)，隨便應付 (Infli) 就好==
+- #h/red ==阿達 (Ada) 的舌頭 (Certo)夠力，一彈 (Etaner) 就能應付 (Inflix) 薑汁(僵直性脊椎炎) 類食 (類風濕性關節炎) 物==
 - #h/red ==1號 (IL-1) 看到anal (Ana) 就硬啦(-inra)==
 - #h/red ==偷吸 (Toci) 要溜 (6) 了==
 - #h/red ==Abata (阿爸他) acept Bitch (B7)==

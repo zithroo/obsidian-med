@@ -9,9 +9,9 @@
 |--------------|----------------|------------------|
 | 發酵乳醣 (+) |                | E.coli           |
 |              |                | K.pneumoniae     |
-| 發酵乳醣 (-) | 運動性+H2S (+) | Salmonella       |
+| 發酵乳醣 (-) | 運動性、H2S (+) | Salmonella       |
 |              |                | Proteus          |
-|              | 運動性+H2S (-) | Shigella         |
+|              | 運動性、H2S (-) | Shigella         |
 |              |                | Y.enterocolitica |
 - 發酵/不發酵 乳醣 : MacConkey agar 紅色/ 黃色
 - 產生H2S : Hektoen Enteric agar 黑色
@@ -28,7 +28,7 @@
 ![[Ecoli表格全.png]]
 - Uropathogenic E. coli (UPEC)
 	- **泌尿道**感染 (前三名E.coli、K.p、Proteus)
-	- **P pili** (**Pylonephritis** associated pili): 黏附
+	- **P pili** (**Pylonephritis** associated pili) : 黏附
 	- Hemolysin : 溶解RBC、上皮 -> 出血性泌尿道感染
 - EPEC : 細菌黏附至小腸上皮細胞，破壞微絨毛
 ***
@@ -46,7 +46,7 @@
 ## K.pneumoniae
 - 厚capsule
 - 正常菌相 : 口腔、皮膚、腸道
-- 只伺機性感染 -> **血痰**、UTI、肺炎、DM liver abcess
+- 只伺機性感染 -> **血痰**、UTI、肺炎、DM **liver abcess**
 ## Salmonella
 | 分類     | Typhoid fever (Enteric fever)                                         | Non-Typhi         |
 |----------|-----------------------------------------------------------------------|-------------------|

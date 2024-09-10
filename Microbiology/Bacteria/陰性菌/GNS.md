@@ -1,10 +1,10 @@
-|      | 梅毒螺旋體                          | 伯氏疏螺旋體                     | 問號鉤端螺旋體                        |
-|------|-------------------------------------|----------------------------------|---------------------------------------|
-| 疾病 | Syphilis                            | **Lyme Disease**                    | Leptospirosis                         |
-| 宿主 | 人                                  | 鼠、鹿                          | 鼠、野生哺乳動物                      |
-| 傳播 | STD                                 | **蜱**                             | **鼠尿** -> 水 -> 傷口                    |
-| 症狀 | Chancre、Condyloma lata、神經、心臟 | 遊走性紅斑、Bell's palsy、關節炎 | **Weil disease** (出血、腎功能衰竭、黃疸) |
-| 治療 | Penicillin                          | Doxycycline                    | **Penicillin**                    |
+|     | 梅毒螺旋體                        | 伯氏疏螺旋體                 | 問號鉤端螺旋體                        |
+| --- | ---------------------------- | ---------------------- | ------------------------------ |
+| 疾病  | Syphilis                     | **Lyme Disease**       | Leptospirosis                  |
+| 宿主  | 人                            | 鼠、鹿                    | 鼠、野生哺乳動物                       |
+| 傳播  | STD                          | **蜱**                  | **鼠尿** -> 水 -> 傷口              |
+| 症狀  | Chancre、Condyloma lata、神經、心臟 | 遊走性紅斑、Bell's palsy、關節炎 | **Weil disease** (出血、腎功能衰竭、黃疸) |
+| 治療  | Penicillin                   | Doxycycline            | **Penicillin**                 |
 - 不易培養、不易染色
 ## Trepnemma pallidum
 - [[人類唯一宿主]]、STD
@@ -19,7 +19,7 @@
 	- Condyloma lata <-> [[Papillomavirus|Condyloma acuminata]]
 - 先天性梅毒症候群
 	- 子宮內受感染
-	- 早期梅毒 (< 2 yr) : Saddle nose (軟骨)、Saber shin (骨膜)、White pneumonia
+	- 早期梅毒 (< 2 yr) : Saddle nose (軟骨)、Saber shin (骨膜)、White pneumonia、肝脾腫大
 	- 晚期梅毒 (> 2 yr) :  [[triad#^56d168|Hutchinson’s triad]]
 ### 梅毒篩檢
 |        | Nontreponemal Test              | Treponemal Test              |

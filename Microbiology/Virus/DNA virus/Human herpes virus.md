@@ -1,12 +1,12 @@
-| 病毒 | 別名 | 疾病                                                            |
-|------|------|-----------------------------------------------------------------|
-| HHV1 | HSV1 | 齦口炎、腦炎、Herpetic Whitlow (上)                               |
-| HHV2 | HSV2 | 生殖器、TORC**H** (下)                                                 |
-| HHV3 | VZV  | 水痘、帶狀皰疹                                                  |
-| HHV4 | EBV  | Kissing disease、Infectous mononucleosis、Brukkit lymphoma、Hodgkin lymphoma、NPC、Oral hairy leukoplakia (HIV患者)|
-| HHV5 | CMV  | TOR**C**H、**免疫不全視網膜炎、肺炎**                                         |
-| HHV6 |      | 玫瑰疹 (exanthem subitum)                                               |
-| HHV8 |      | Kaposi sacroma、**Large B lymphoma**             |
+| 病毒   | 別名   | 疾病                                                                                                           |
+| ---- | ---- | ------------------------------------------------------------------------------------------------------------ |
+| HHV1 | HSV1 | 齦口炎、腦炎、Herpetic Whitlow (上)                                                                                  |
+| HHV2 | HSV2 | 生殖器、TORC**H** (下)                                                                                            |
+| HHV3 | VZV  | 水痘、帶狀皰疹                                                                                                      |
+| HHV4 | EBV  | Kissing disease、Infectous mononucleosis、Brukkit lymphoma、Hodgkin lymphoma、NPC、Oral hairy leukoplakia (HIV患者) |
+| HHV5 | CMV  | TOR**C**H、**免疫不全視網膜炎、肺炎**                                                                                    |
+| HHV6 |      | 玫瑰疹 (exanthem subitum)                                                                                       |
+| HHV8 |      | Kaposi sacroma、**Large B lymphoma**                                                                          |
 - **特色** : **潛伏**、多核巨細胞、Inclusion body
 	- 多核巨細胞 : Tzank smear (1、2、3、5)
 	- Inclusion body : **Cowdry body A** (1、2、3、5)

@@ -25,6 +25,8 @@
 	- 其他 : Actinomyces、問號鉤端螺旋體
 2. Methicillin : Anti-**Staphylococcal**
 	- Oxacillin (IV)、Cloxacillin (Oral)、Dicloxacillin (Oral)
+***
+	**G(-)增強**
 3. Amino-PCN
 	- Ampicillin (IV)、Am**o**xicillin (Oral)
 		- Am**o** : 唯一完全不受食物影響的penicillin
@@ -41,25 +43,25 @@
 - Ticarcillin + Clavulanate -> Timentin
 - Piperacillin + Tazobactam -> Tazocin
 ## Cephalosporin
-- 第一代
+- 第一代 G(+)
 	- #h/red ==打包(PEcK)一串(鏈球)葡萄==
 	- #h/red ==所有Cefa發音，除Cefaclor、Cefamandole (法國曼陀珠)==
 	- Cefazolin : **手術前預防用藥首選**
 		- #h/red ==手術是一種蹂躪(zolin)==
-- 第二代
+- 第二代 G(-)
 	- #h/red ==打包(PEcK)一串葡萄和母雞(HEN)==
 		- **抗Haemophilus**、可用於肺炎
 	- Cefuroxime (過BBB)
 - 第2.5~~條悟~~代
 	- Cephamycin類 : Cefametazole
 	- **ESBL**、膽道感染
-- 第三代
+- 第三代 G(+) + G(-)
 	- #h/red ==打包一串葡萄和母雞、臉都綠(綠膿)了==
 	- Cef**tri**axone : **淋病雙球菌**、過**BBB** (腦膜炎雙球菌)
 	- 淋病雙球菌 : Cefixime、Ceftriaxone
 		- #h/red ==Fucking me、吹到爽 (triaxone)==
 	- Ceftazidime、Cefoperazone : 綠膿桿菌
-- 第四代
+- 第四代 G(+) + G(-) + Pseudo
 	- 第一代+第三代
 	- AmpC $\beta$ lactamase
 	- Cefepime

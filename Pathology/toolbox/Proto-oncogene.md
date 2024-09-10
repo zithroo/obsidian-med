@@ -14,7 +14,7 @@
 | HER-1 | 肺腺癌、大腸癌             |    7   |
 | HER-2 /neu | 乳癌                       |   17   |
 | RET   | [[syndrome#^eeea59\|MEN-II]] |   10   |
-| MET   | 腎臟乳突癌                   |    7   |
+| MET   | 腎臟乳突癌 (**Hepatocyte** GFR)                   |    7   |
 | KIT   | GIST                       |    4   |
 | ALK   | 肺腺癌、逆分化大細胞淋巴癌 |    2   |
 | ROS1  | 肺腺癌、Glioblastoma       |    6   |

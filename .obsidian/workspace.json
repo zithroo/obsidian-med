@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fc4daa4649db5676",
+        "id": "7c1229058904cc28",
         "type": "tabs",
         "children": [
           {
-            "id": "620d2f034c730997",
+            "id": "2b5cfc59fc6fd505",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pathology/特殊疾病/syndrome.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Wiskott",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology/特殊疾病/syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pathology/特殊疾病/syndrome.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology/特殊疾病/syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,44 +150,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "620d2f034c730997",
+  "active": "2b5cfc59fc6fd505",
   "lastOpenFiles": [
-    "Pathology/病理分項/止血異常.md",
-    "Pathology/toolbox/免疫.md",
-    "Pathology/特殊疾病/syndrome.md",
-    "Pharmacology/特定用途/Diurectics.md",
-    "Histology/組織系統/Skeletal systems.md",
-    "Histology/組織大綱.md",
-    "Pathology/toolbox/body.md",
-    "Pathology/病理分項/卵巢病理.md",
-    "Pathology/病理分項/女性生殖病理.md",
-    "Pathology/病理分項/生殖病理.md",
-    "Pathology/疾病分類.md",
-    "Pathology/病理分項/消化病理.md",
-    "Pathology/toolbox/Tumor suppressor gene.md",
-    "Histology/組織系統/Intercellular junction.md",
-    "Microbiology/Bacteria/陽性菌/Listeria.md",
-    "Pathology/病理分項/腫瘤.md",
+    "經驗性抗生素.md",
+    "Pharmacology/特定用途/beta lactam.md",
+    "Microbiology/Bacteria/陰性菌/Enterobacteriaceae.md",
+    "Microbiology/Bacteria/陰性菌/Psudomonans.md",
+    "Pharmacology/特定用途/抗細菌.md",
+    "Pharmacology/特定用途/抗細胞壁.md",
+    "Pharmacology/特定用途/抗蛋白質.md",
+    "Microbiology/Bacteria/陰性菌/GNB.md",
+    "Pharmacology/特定用途/抗核酸.md",
+    "Pharmacology/Anti-Microbial.md",
+    "Pharmacology/toolbox/第一線.md",
+    "Microbiology/病毒分類.md",
+    "Microbiology/Prion.md",
+    "Microbiology/Vaccine.md",
+    "Pathology/toolbox/syndrome.md",
     "Pathology/toolbox/新同學.md",
-    "Pathology/病理分項/子宮病理.md",
-    "Pathology/病理分項/乳房病理.md",
-    "Pathology/病理分項/Obstructive lung disease.md",
-    "Pathology/病理分項/呼吸病理.md",
-    "Pathology/特殊疾病/Leukemia.md",
-    "Pathology/病理分項/血液淋巴病理.md",
-    "Pathology/特殊疾病/Thrombocytopenia.md",
-    "Pathology/toolbox/Proto-oncogene.md",
-    "Pathology/toolbox/致癌機轉.md",
-    "img/神經退化性疾病.png",
+    "Pathology/特殊疾病/血管炎.md",
+    "Microbiology/Bacteria/陰性菌/Haemophilus.md",
+    "Microbiology/Virus/RNA virus/Paramyxovirus.md",
+    "Pharmacology/特定用途/癲癇.md",
+    "Pharmacology/CNS.md",
+    "Pharmacology/Cardiovascular.md",
+    "Pharmacology/Autocrine.md",
+    "Pharmacology/Blood.md",
+    "Pathology/疾病分類.md",
+    "Pharmacology/特定用途/Indirect acting ANS.md",
     "img/RB gene pathway.png",
-    "img/癲癇藥.png",
-    "img/RBC成熟.png",
-    "img/Apoptosis.png",
+    "img/E.coli表格1.png",
+    "img/E.coli表格2.png",
+    "img/Cell cycle.png",
+    "img/Passaro's triangle.png",
+    "img/食道閉鎖分型.png",
     "img/SCID.png",
-    "img/Lymphoma.png",
-    "img/Breast ca.png",
-    "img/COPD.png",
-    "img/Insulin pathway.png",
+    "img/WNT pathway.png",
+    "img/神經退化性疾病.png",
+    "img/癲癇藥.png",
     "Pathology/病理分項",
     "Histology/組織系統",
     "Pathology/特殊疾病",

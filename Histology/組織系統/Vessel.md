@@ -8,6 +8,7 @@
 	- 動脈硬化 : **纖維、膽固醇沉積、平滑肌增生處**
 - pericyte : 位於微血管、postcapillary venule的基底膜外，收縮及再生
 - internal elastic lamina : 肌肉動脈多
+- 無瓣膜的靜脈 : SVC、頭頸部靜脈、肝門靜脈
 ### Tunica media
 - **彈性纖維**
 - 平滑肌 : 收縮、分泌此層的ECM

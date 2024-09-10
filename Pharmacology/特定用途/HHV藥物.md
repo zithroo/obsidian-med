@@ -4,7 +4,7 @@
 |-------------|---------------------|---------------------------|----------|
 | Acyclovir   | HSV                 | 類guanosine               |          |
 | Val-a       | HSV、VZV、EBV       | 肝轉換、口服好            |          |
-| Trifluridine| HSV角膜炎           | 只要人類TK            |          |
+| Trifluridine| HSV角膜炎           | 只要人類TK<br>Acyclovir抗藥時用            |          |
 | **Gan**ciclovir | **CMV**                 | 類guanosine               | **骨髓抑制** |
 | Val-g       | CMV                 | 肝轉換、口服好            | 骨髓抑制 |
 | Cidofovir   | 抗藥HSV、VZV、CMV | 類cytosine             | **腎毒性** |

@@ -7,15 +7,15 @@
 | Myelodysplastic syndrome    | 骨髓無效造血<br>(可能轉成AML)                     |
 | Myeloproliferative neoplasm | 製造過多血球                     |
 ### AML
-| FAB分類 | 分化            | 特色                |
-|---------|-----------------|---------------------|
-| M0      | 不分化          |                     |
-| M1、M2  | 停在blast       |                     |
-| M3      | **Promyelocytic**   | t(15,17) : PML-RARA |
-| M4      | Myelomonocytic  |                     |
-| M5      | Monocytic       |                     |
-| M6      | Erythroleukemia |                     |
-| M7      | Megakaryoblstic |                     |
+| FAB分類 | 分化                | 特色                  |
+| ----- | ----------------- | ------------------- |
+| M0    | 不分化               |                     |
+| M1、M2 | 停在blast           |                     |
+| M3    | **Promyelocytic** | t(15,17) : PML-RARA |
+| M4    | Myelomonocytic    |                     |
+| M5    | Monocytic         |                     |
+| M6    | Erythroleukemia   |                     |
+| M7    | Megakaryoblastic  |                     |
 - 病理 : fine chromatin、多核仁、[[新同學#^2883f9|Auer rods]]、CD34
 - Acute Promyelocytic Leukemia (APL / AM3L)
 	- **t(15,17) PML-RARA** (**Retinoid** acid receptor $\alpha$)

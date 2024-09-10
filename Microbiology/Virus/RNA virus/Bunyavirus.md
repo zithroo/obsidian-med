@@ -2,11 +2,11 @@
 - 傳播 : **節肢動物**，漢他病毒例外 (**老鼠尿液、大便**)
 - #h/blue ==比較==
 
-| Arbovirus例外 | 病毒        | 感染方式     |
-|---------------|-------------|--------------|
-| [[Flavivirus]]    | HCV         | 血液         |
-| [[Togavirus]]     | Rubella     | 呼吸道、垂直感染 |
-| [[Bunyavirus]]    | Hantavirus | 鼠尿         |
+| Arbovirus例外    | 病毒         | 感染方式     |
+| -------------- | ---------- | -------- |
+| [[Flavivirus]] | HCV        | 血液       |
+| [[Togavirus]]  | Rubella    | 呼吸道、垂直感染 |
+| [[Bunyavirus]] | Hantavirus | 鼠尿       |
 -  **Ambisense RNA**，同[[Arenavirus]]
 ## Hantavirus
 - 接觸**老鼠**尿液、大便

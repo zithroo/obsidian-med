@@ -1,30 +1,30 @@
-| GPC          |              |                    |              |
-|--------------|--------------|--------------------|--------------|
-| Catalase (+) | Cogulase (+) |                    | S.aureus     |
-|              | Cogulase (-) |                    | CoNS         |
-| Catalase (-) | $\alpha$        | Bile、Optochin(+) | S.pneumoniae |
+| GPC          |              |                   |              |
+| ------------ | ------------ | ----------------- | ------------ |
+| Catalase (+) | Cogulase (+) |                   | S.aureus     |
+|              | Cogulase (-) |                   | CoNS         |
+| Catalase (-) | $\alpha$     | Bile、Optochin(+)  | S.pneumoniae |
 |              |              | Bile、Optochin (-) | Viridans     |
-|              | $\beta$         |                    | GAS          |
-|              |              | CAMP (+)           | GBS          |
-|              | $\gamma$        |                    |  Enterococcus      |
+|              | $\beta$      |                   | GAS          |
+|              |              | CAMP (+)          | GBS          |
+|              | $\gamma$     |                   | Enterococcus |
 ## Staphylococcus (catalase +)
 ### S.aureus (coagulase +)
-| 分類     | 致病因子           | 效用                             |
-|----------|--------------------|----------------------------------|
-| 保護<br>自己 | Protein A          | 中和抗體Fc區，防止調理           |
-|          | Coagulase          | 周圍形成Fibrin clot              |
-| 破壞<br>宿主 | Hyaluronidase      | 分解組織 (組織擴散因子)          |
-|          | Fibrinolysin         | 溶解自己形成的Fibrin clot        |
-| **Super Ag** | Exofoliative toxin | Scaled Skin Syndrome             |
-|          | TSST-1             | Toxic shock syndrome、衛生棉條   |
-|          | Enterotoxin        | A : **6小時內食物中毒**、Heat stable |
-|          |                    | B : **偽膜性大腸炎**                 |
+| 分類           | 致病因子               | 效用                           |
+| ------------ | ------------------ | ---------------------------- |
+| 保護<br>自己     | Protein A          | 中和抗體Fc區，防止調理                 |
+|              | Coagulase          | 周圍形成Fibrin clot              |
+| 破壞<br>宿主     | Hyaluronidase      | 分解組織 (組織擴散因子)                |
+|              | Fibrinolysin       | 溶解自己形成的Fibrin clot           |
+| **Super Ag** | Exofoliative toxin | Scaled Skin Syndrome         |
+|              | TSST-1             | Toxic shock syndrome、衛生棉條    |
+|              | Enterotoxin        | A : **6小時內食物中毒**、Heat stable |
+|              |                    | B : **偽膜性大腸炎**               |
 - $\beta$ 溶血
 - #h/blue ==比較==6小時內食物中毒 [[Bacillus#B.cereus|B.cereus]]
 - 正常菌相 : **鼻腔、皮膚**
 ### CoNS
 - $\gamma$ 溶血
-1. S.epidermidis 
+1. S.epidermidis
 	- 正常菌相 : 皮膚，但連傷口都不感染
 	- **人工植入物** : 人工心臟瓣膜 -> 心內膜炎
 2. S.saprophyticus : **性行為**頻繁的年輕女性**尿道感染**，僅次E.coli

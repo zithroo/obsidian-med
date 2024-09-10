@@ -15,13 +15,13 @@
 	- **MESNA** : 抗氧化劑，形成膀胱保護膜
 - Busulfan :  #h/red ==Bus 廢氣 -> 肺纖維化==
 ### 抗生素性 (DNA嵌入)
-| 類型            | 藥名               | 特色                     |
-|-----------------|--------------------|--------------------------|
-| Anthracycline   | **小紅莓-rubicin**      | **心毒性**、滲漏皮膚壞死          |
-| Anthracenedione | 小藍莓mitoxantrone | 尿藍                     |
-| Actinomycin D   |                    |                          |
-| **G2 phase (-)**    |  Bleomycin         | 肺纖維化                 |
-| Mitomycin       |                    | 間質性肺炎               |
+| 類型               | 藥名              | 特色             |
+| ---------------- | --------------- | -------------- |
+| Anthracycline    | **小紅莓-rubicin** | **心毒性**、滲漏皮膚壞死 |
+| Anthracenedione  | 小藍莓mitoxantrone | 尿藍             |
+| Actinomycin D    |                 |                |
+| **G2 phase (-)** | Bleomycin       | 肺纖維化           |
+| Mitomycin        |                 | 間質性肺炎          |
 - 小紅莓 (Doxorubicin / Adriamycin)
 	- 機轉
 		- 嵌入DNA -> DNA斷裂
@@ -45,6 +45,7 @@
 - PRPP amidotransferase : **Purine合成第一步** -> 把PRPP加上Glutamine的氨基
 - Cytarabine : Ara-C
 - 6-MP由**xanthine oxidase**代謝，和**Allopurinol**併用會起飛
+- MTX併用Leucovorin (B9) 減輕毒性，Pemetrexed併用B12減輕毒性
 ### dTMP合成相關
 | DHF reductase (-) | 對象   | 藥物           |
 |-------------------|--------|----------------|

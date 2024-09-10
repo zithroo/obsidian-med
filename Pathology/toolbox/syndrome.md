@@ -5,10 +5,18 @@
 	- 呼吸窘迫 (病因後24~48 hr)
 	- PaO2降、PaCO2降、呼吸性鹼中毒
 	- X ray : Diffuse alveolar infiltration
+- Alagille syndrome
+	- AD -> 20號JAG1 gene
+	- 先天性心臟病
+	- 肝內膽管缺少 : 膽汁淤積
+	- 骨骼異常 : 蝴蝶狀脊椎
+	- 臉部異常
 - Alport syndrome ^8810f3
 	- X-linked -> type IV collagen defect
 	- 腎絲球split GBM
-	- Nephritic syndrome、耳聾、白內障
+	- Nephritic syndrome
+	- 神經性耳聾
+	- 白內障、水晶體後脫位
 - Aortic arch syndrome ^2b081c
 	- Takayasu arteritis / Pulseless disease
 	- 年輕女性、下肢無脈搏
@@ -25,8 +33,16 @@
 	- type IV : Barttin
 	- type V : CaSR
 	- [[TAL channel.png]]
+- Beckwith-Wiedemann syndrome
+	- 半邊肥大 (hemihypertrophy)
+	- 腹部臟器腫大
+	- 巨舌 (Macroglossia)
+	- Wilms tumor、hepatoplastoma (次常見)
 - Bernard-Soulier syndrome ^c8985a
 	- AR -> 缺乏GpIb (血小板 - vWF)
+- Budd-Chiari syndrome
+	- 肝靜脈阻塞 -> Nutmeg liver
+	- 原因 : RBC過多、肝細胞癌侵犯、PNH
 - Carcoinoid syndrome
 	- 5-HT過多
 	- 潮紅、腸過度運動、支氣管痙攣、心臟侵犯
@@ -88,11 +104,21 @@
 	- 初期 (10~20min) : 高滲食物到小腸，把血管的水拉出小腸 -> 腹脹、噁心、**低**血壓
 	- 中期 (20~60min) : 醣類吸收不良 -> 腸內發酵 -> 腹部氣脹、腹絞痛
 	- 後期 (1~3hr) : 醣類快速吸收 -> 胰島素反彈性分泌 -> 繼發性**低血糖** -> 盜汗、虛弱、暈眩
+- Edwards syndrome
+	- Trisomy 18
+	- 緊握拳頭 (clenched hands)、搖椅腳 (rocker bottom foot)
+	- 小頭症
+	- 先天性心臟病 (最常見VSD)
+- Fanconi syndrome ^90ed5a
+	- PCT無法吸收HCO3-、磷酸根、胺基酸、葡萄糖 -> 酸中毒
 - Fitz-Hugh-Cutis syndrome : 由性病引起的腹膜炎、肝周圍炎 ^ec3f3f
 - Fragile X syndrome
 	- 第二常見染色體智障
 	- Xq27.3 **FMR1**發生大量CGG repeat -> CpG island基因甲基化失去功能
 	- 智障、卵巢早衰
+- Gardner syndrome
+	- Familial Adenomatous Polyposis (APC gene 缺陷)
+	- Osteoma + Fibroma
 - Gilbert syndrome ^062d50
 	- AR -> UGT1A1活性下降
 	- 肝臟uptake減少
@@ -134,9 +160,9 @@
 - HNPCC syndrome ^121a0d
 	- Mismatch repair gene缺陷
 	- 相關 : MLH、Mut
-- Horner syndreom
-	- 交感受損
-	- 眼瞼下垂、瞳孔縮小、無汗
+- Horner syndrome
+	- 交感受損 (腫瘤壓迫SCG)
+	- 單次眼瞼下垂、瞳孔縮小、無汗
 - Hyper IgE syndrome / Jobs syndrome ^51cde4
 	- AD -> **STAT3**基因缺陷
 - Hyper IgM syndrome ^d86fb1
@@ -168,6 +194,14 @@
 	- Hereditary Non Polyposis Colorectal Cancer
 	- DNA Mismatch repair異常 -> 造成MSI（microsatellite instability)
 	- PMS2、MLH1、 MSH6、MSH2
+- Malabsorption syndrome
+	- Ceilac disease (Gluten sensitive)
+		- 病理 : 小腸黏膜扁平、絨毛萎縮
+		- 白色惡臭糞便
+	- [[新同學#^7397b9|Wipple disease]] (Intestinal Lipodystrophy)
+- Mallory-Weiss syndrome ^cc54d5
+	- 酗酒 -> 劇烈嘔吐 -> 食道裂傷 -> 吐血
+	- 胃食道交接處胃小彎側，縱走深裂傷
 - Marfran syndrome ^b18922
 	- 15染色體FBN1 gene突變 -> **Fibrillin**缺少
 	- 症狀
@@ -188,11 +222,11 @@
 	- Kawasaki disease
 	- 持續發**燒** > 5天
 	- 黏膜 : 結膜**炎**、**草莓**舌
-	- 皮膚 : **紅疹**
+	- 皮膚 : **紅疹**、皮膚脫皮 (手指尖)
 	- 淋巴結 : 頸部淋巴腫大、水腫
 	- 好犯幼兒
 	- 併發 : **冠狀動脈**血管炎、動脈瘤 -> AMI
-	- #h/red ==紅孩兒==
+	- #h/red ==一個嘴巴、兩個眼睛、三根手指摸到腫、四肢紅疹、五天發燒==
 - Nelson syndrome ^1cc9a5
 	- 定義 : 腎上腺切除後腦下腺分泌ACTH的細胞增長，ACTH過高
 	- Cushing syndrome過高時考慮摘除腎上腺，反而使腦下腺產生Macroadenoma
@@ -203,6 +237,9 @@
 - Nephrotic syndrome ^f57eaa
 	- 蛋白尿、Hypoalbuminea、General edema、Hyperlipidemia
 	- 基底膜增厚、硬化
+- Neurocutaneous syndrome ^737034
+	- 中樞神經異常 + 身體表面缺損
+	- Neurofibromatosis
 - Omenn syndrome ^1334c4
 	- RAG1/2基因突變 -> T、B cell VDJ recombination功能下降
 - Paraneoplastic syndrome ^bb00e1
@@ -225,6 +262,8 @@
 		- 卵巢內太多顆濾泡、但來不及成熟
 		- 刺激Leydig cell分泌Androgen
 	- 唯一合法藥物[[Sex hormone#Estrogen|Clomiphene]]
+- Peutz-Jeghers syndrome
+	- 唇色素沉澱、小腸Harmatomatous息肉
 - Plummer-Vinson syndrome ^7e45df
 	- IDA+舌炎+吞嚥困難 (食道蹼)
 - POEMS syndrome
@@ -276,6 +315,9 @@
 	- Migratory thrombophlebitis
 	- Nonbacterial Thrombotic endocarditis (NBTE)
 	- 常因高凝血性 : 腺癌
+- Turcot syndrome
+	- Familial Adenomatous Polyposis (APC gene 缺陷)
+	- CNS腫瘤 (Glioblastoma multiforme)
 - Turner syndrome
 	- 女性 : 44+X
 	- 幼年型性器官、矮、不孕、蹼狀頸、乳距寬
@@ -284,6 +326,12 @@
 	- Renal Cell Carcinoma的**Clear cell**
 	- CNS Hemangioblastomas
 	- Pheochromocytoma
+- WAGR syndrome
+	- 11p13缺失，包含WT1、PAX6
+	- [[泌尿病理#Tumor|Wilms tumor]]
+	- **A**niridia (虹膜缺損)
+	- **G**enitourinary abnormality
+	- mental **R**etardation
 - Waterhouse-Friderichsen syndrome ^2e720f
 	- 猛爆性腦膜炎雙球菌菌血症
 	- 嚴重sepsis、DIC、兩側腎上腺由髓質擴展到皮質的大出血
@@ -296,3 +344,6 @@
 	- WASP基因突變 -> 血小板、T 細胞骨架受損
 	- Triad : IgM減少、IgE增加 (過敏性皮炎)、對多糖類抗原無抗體反應、血小板低下
 	- 降低T、B cell interaction，雖然莢膜是Thymus-independent Ag，但沒有T cell活化的Isotype switch，抵抗力不佳
+- Zollinger-Ellison syndrome
+	- Gastrinoma (位置**Passaro's triangle**)
+	- [[Passaro's triangle.png]]

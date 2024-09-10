@@ -8,7 +8,7 @@
 - Steroid (**IV**) : **Predinisolone**、**Methypredinisolone**
 	- #h/blue ==比較== 
 		- 急救打IV、Predinisolone <-> 控制吸入、-sone
-- [[Direct acting ANS#$ beta_2$ 氣喘用藥 -terol|SABA]] + Formoterol (LABA中作用較快) (**吸**)
+- [[Direct acting ANS#$ beta_2$ 氣喘用藥 -terol|SABA]] + Formoterol (LABA中Onset較快) (**吸**)
 ## Long term control
 - Steroid (**吸**) : Budesonide、Flutica**sone**
 	- 抑制NF-$\kappa$B : 抑制發炎

@@ -19,11 +19,11 @@
 - **流行性**腦膜炎、**DIC**
 - [[syndrome#^2e720f|Waterhouse-Friderichsen syndrome]]
 ### N.gonorrhoeae
-| 對象   | 症狀                                                   |
-|--------|--------------------------------------------------------|
-| 男性   | 尿道炎                                                 |
-| 女性   | **子宮頸炎**、PID、Perihepatitis、**Fitz-Hugh-Cutis syndrome** |
-| 新生兒 | 新生兒眼炎 (滴硝酸銀預防)                              |
+| 對象  | 症狀                                                      |
+| --- | ------------------------------------------------------- |
+| 男性  | 尿道炎                                                     |
+| 女性  | **子宮頸炎**、PID、Perihepatitis、**Fitz-Hugh-Cutis syndrome** |
+| 新生兒 | 新生兒眼炎 (滴硝酸銀預防)                                          |
 - [[syndrome#^ec3f3f|Fitz-Hugh-Cutis syndrome]]
 - Gonococcal urethritis
 	- 男性 : 尿道分泌物黃綠色

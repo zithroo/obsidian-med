@@ -1,6 +1,6 @@
 - 無孢子、嗜氧
 - L.monocytogenes
-	- 運動性強 : end-over-dend tumbling motion，和[[Enterobacteriaceae#Proteus mibirabilis|Proteus]]相同
+	- 運動性強 : end-over-end tumbling motion，和[[Enterobacteriaceae#Proteus mibirabilis|Proteus]]相同
 	- 可生長於低溫 (Cold enrichment)，和[[Yersinia#Y.entercolitica]]相同
 	- CAMP(+)，同GBS
 	- 未消毒乳製品、過胎盤、過陰道時胎兒感染

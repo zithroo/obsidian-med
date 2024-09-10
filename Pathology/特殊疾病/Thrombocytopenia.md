@@ -10,7 +10,7 @@
 - 微小血管病變 -> 機械性的血管內溶血
 - Thromotic Thrombocytopenic Purpura (TTP)
 	-  先天性
-		- **ADAMTS13** 酵素缺乏 < 5%
+		- **ADAMTS13**酵素缺乏 < 5%
 			- 製造缺乏或Anti-ADAMTS13
 		- ADAMTS13 (vWF metalloprotease) : 切割wWF (越長的vWF功能越強)
 		- 治療 : **血漿置換 (補充ADAMST13)**

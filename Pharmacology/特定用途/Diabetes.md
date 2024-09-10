@@ -17,17 +17,17 @@
 - HbA1c > 10
 - 低血糖禁用$\beta$ blocker
 ## 間接控制血糖
-| 機轉 |  | 藥名 | 禁忌 |
-| ---- | ---- | ---- | :--: |
-| K+ATP關 | Sulfonylurea | **Tolbutamide**<br>Chlorprop**amide**<br>Tolaz**amide**<br>Acetohex**amide**<br>**Gli**mepiride <br>(二代) | X |
-|  | Meglitinide | Repa**glinide** | X |
-| GLP-1 | 促GLP-1 | Exe**natide**、Lira**glutide** | 腎 |
-|  | 抑DPP-4 | Sita**gliptin** | 腎 |
-| 肝糖質新生 (-) AMPK(+) | Bigunaide | Metformin | **心肝腎** |
-| PPAR$\gamma$、GLUT-4 | TZD | Rosi**glitazone** | **心肝腎** |
-| $\alpha$-glucosidase inhibitor |  | Acarbose、Miglitol | 腎 |
-| SGLT-2 (-) |  | Caba**gliflozin** | 腎 |
-| 幫助胰島素 | Amylin | Pramlintide |  |
+| 機轉                             |              | 藥名                                                                                                       |   禁忌    |
+| ------------------------------ | ------------ | -------------------------------------------------------------------------------------------------------- | :-----: |
+| K+ATP關                         | Sulfonylurea | **Tolbutamide**<br>Chlorprop**amide**<br>Tolaz**amide**<br>Acetohex**amide**<br>**Gli**mepiride <br>(二代) |    X    |
+|                                | Meglitinide  | Repa**glinide**                                                                                          |    X    |
+| GLP-1                          | 促GLP-1       | Exe**natide**、Lira**glutide**                                                                            |    腎    |
+|                                | 抑DPP-4       | Sita**gliptin**                                                                                          |    腎    |
+| 肝糖質新生 (-) AMPK(+)              | Bigunaide    | Metformin                                                                                                | **心肝腎** |
+| PPAR$\gamma$、GLUT-4            | TZD          | Rosi**glitazone**                                                                                        | **心肝腎** |
+| $\alpha$-glucosidase inhibitor |              | Acarbose、Miglitol                                                                                        |    腎    |
+| SGLT-2 (-)                     |              | Caba**gliflozin**                                                                                        |    腎    |
+| 幫助胰島素                          | Amylin       | Pramlintide                                                                                              |         |
 ### 胰島素分泌
 - 胰島素、K+ATP channel : **唯二低血糖**
 - #h/blue ==比較== 打Insulin沒有C peptide、促進自己分泌的有
