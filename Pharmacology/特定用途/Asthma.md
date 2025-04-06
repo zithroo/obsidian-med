@@ -35,10 +35,10 @@
 - Anti-Histamine : 對Asthma、COPD都沒用
 ## 階梯式治療
 
-|分類|長期控制|發作|
-|---|---|---|
-|1|X|SABA|
-|2|ICS   |   |
-|3|ICS+LABA|   |
-|4|ICS+LABA|   |
-|5|ICS+LABA+有的沒的|   |
+| 分類  | 長期控制          | 發作                |
+| --- | ------------- | ----------------- |
+| 1   | X             | SABA + IV steroid |
+| 2   | ICS           |                   |
+| 3   | ICS+LABA      |                   |
+| 4   | ICS+LABA      |                   |
+| 5   | ICS+LABA+有的沒的 |                   |

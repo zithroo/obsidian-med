@@ -1,12 +1,12 @@
 - 機轉 : 血管收縮又舒張 -> 搏動的感覺
 - 原理 : **收縮腦部血管** -> 腦壓降
 
-| 機轉 |  | 藥物 | 副作用 |
-| ---- | ---- | ---- | ---- |
-| Ergot | 天然 | **Ergo**tamine、Ergonovine | **子宮血管**收縮 |
-|  | 合成 | Methysergide | 子宮血管收縮+**Reproperitoneal fibrosis** |
-| 5-HT$_{1D}$ (+) |  | Sumatriptan | **冠狀動脈痙攣** |
-| CGRP | (-) | Erenumab | 上呼吸道感染 |
+| 機轉              |     | 藥物                        | 副作用                                 |
+| --------------- | --- | ------------------------- | ----------------------------------- |
+| Ergot           | 天然  | **Ergo**tamine、Ergonovine | **子宮血管**收縮                          |
+|                 | 合成  | Methysergide              | 子宮血管收縮+**Reproperitoneal fibrosis** |
+| 5-HT$_{1D}$ (+) |     | Sumatriptan               | **冠狀動脈痙攣**                          |
+| CGRP            | (-) | Erenumab                  | 上呼吸道感染                              |
 ## Ergot類
 - **partial 5-HT (+)、$\alpha$ (+)、DA (+)**
 	- 5-HT : 幻覺

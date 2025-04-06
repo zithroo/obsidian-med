@@ -22,6 +22,10 @@
 	- 年輕女性、下肢無脈搏
 	- 侵犯主動脈弓及分支
 	- [[血管炎]]
+- Asherman syndrome
+	- Intrauterine adhesion -> 子宮腔阻塞
+	- 經血少、不孕、反覆流產
+	- 成因 : 流產手術、子宮內膜刮除術、TB感染
 - Autoimmune LymphoProliferative Syndrome
 	- FAS gene缺失，無法讓Self-Active淋巴球細胞凋亡
 - Bartter syndrome
@@ -43,6 +47,7 @@
 - Budd-Chiari syndrome
 	- 肝靜脈阻塞 -> Nutmeg liver
 	- 原因 : RBC過多、肝細胞癌侵犯、PNH
+	- RUQ pain後快速黃疸、腹水
 - Carcoinoid syndrome
 	- 5-HT過多
 	- 潮紅、腸過度運動、支氣管痙攣、心臟侵犯
@@ -109,6 +114,15 @@
 	- 緊握拳頭 (clenched hands)、搖椅腳 (rocker bottom foot)
 	- 小頭症
 	- 先天性心臟病 (最常見VSD)
+- Eisenmenger syndrome
+	- Congenital heart defect -> Left to right shunt -> Pulmonary hypertension -> Right to left
+	- 原因 : ASD、VSD、PDA
+	- 症狀 : 肺高壓、Cyanosis、Club finger
+- Fanconi anemia
+	- 和Fanconi syndrome**無關**
+	- café au lait spots、hypopigmentation
+	- Aplastic Anemia
+	- 身材矮小
 - Fanconi syndrome ^90ed5a
 	- PCT無法吸收HCO3-、磷酸根、胺基酸、葡萄糖 -> 酸中毒
 - Fitz-Hugh-Cutis syndrome : 由性病引起的腹膜炎、肝周圍炎 ^ec3f3f
@@ -146,7 +160,8 @@
 	- 上行性麻痹 : 影響運動能力，Sensory 正常，遠端四肢無力 -> 心肌、橫膈肌
 	- 治療 : IVIG、steroid、血漿置換
 - Hand-Foot syndrome
-	- Lipodox (第二線抗癌藥物)，由汗腺排出 -> 損害手指腳趾
+	- 抗癌藥物由汗腺排出 -> 損害手指腳趾
+	- Liposomal doxorubicin、5-FU、Capecitabine、Cytarabine
 - Hemolytic-Uremic Syndrome ^d5d267
 	- **小血管溶血性貧血**、**血小板低下**->**急性腎損傷**
 	- RBC溶解 (顯微血尿)、Platelet降、腎衰竭
@@ -173,9 +188,17 @@
 	- Enteropathy
 	- X-linked -> **FOXP3** gene缺失 (Treg)
 	- 症狀 : IBD、Type I DM、皮膚炎
+- Kallmann syndrome
+	- 基因 -> 下視丘分泌GnRH的神經元發育異常
+	- 嗅覺異常、性徵發育遲緩
+	- 顱顏骨骼異常、腎臟發育不全
 - Kartagener syndrome ^3a0338
 	- Ciliary dyskinesia syndrome
 	- 支氣管擴張、鼻竇炎、男性不孕、內臟轉位
+- Kasabach Merritt syndrome ^a96b2e
+	- hemangioma thrombocytopenia syndrome
+	- 巨大血管瘤 -> 消耗凝血
+	- < 6 月女嬰
 - Klinefelter syndrome
 	- 男 : 44 + XXY
 	- 幼年型性器官、高個、不孕、女性化
@@ -194,6 +217,11 @@
 	- Hereditary Non Polyposis Colorectal Cancer
 	- DNA Mismatch repair異常 -> 造成MSI（microsatellite instability)
 	- PMS2、MLH1、 MSH6、MSH2
+- McCune Albright syndrome
+	- GNAS1基因 -> Gs $\alpha$ protein異常活化
+	- Gonadotropin-independent precocoius puberty (LH、FSH receptor的Gs活化)
+	- cafe au lait spots不規則
+	- fibrous dysplasia
 - Malabsorption syndrome
 	- Ceilac disease (Gluten sensitive)
 		- 病理 : 小腸黏膜扁平、絨毛萎縮
@@ -208,6 +236,9 @@
 		- 高瘦、特別長的腳、手臂、手指
 		- 深度近視、水晶體脫垂、水晶體異常
 		- Cystic medionecrosis、主動脈剝離 (30~40才有明顯心臟問題)
+- Meigs syndrome
+	- Triad : ascites、pleural effusion、**benign ovarian fibroma**
+	- 若腫瘤非Fibroma，則稱Pseudo Meigs syndrome
 - MEN-I (Werner syndrome) ^1ac14a
 	- Multiple Endocrine Neoplasia
 	- Menin gene突變 (Tumor supressor gene)
@@ -242,6 +273,10 @@
 	- Neurofibromatosis
 - Omenn syndrome ^1334c4
 	- RAG1/2基因突變 -> T、B cell VDJ recombination功能下降
+- Ovarian hyperstimulation syndrome
+	- $\beta$-hCG (排卵針) 作用在Granulosa cell的LH-receptor，產生VEGF，造成血管通透性增加
+	- 血管內下降 : 低血壓、血液濃縮 (血栓)、寡尿
+	- 血管外增加 : 腹水、ARDS
 - Paraneoplastic syndrome ^bb00e1
 	- 腫瘤不藉由轉移、侵犯影響的症狀
 	- Ectopic hormone
@@ -312,7 +347,7 @@
 	- 男性假陰陽人
 - Trousseau syndrome ^f064d9
 	- Trousseau sign of malignancy
-	- Migratory thrombophlebitis
+	- **Migratory** thrombophlebitis
 	- Nonbacterial Thrombotic endocarditis (NBTE)
 	- 常因高凝血性 : 腺癌
 - Turcot syndrome
@@ -320,9 +355,14 @@
 	- CNS腫瘤 (Glioblastoma multiforme)
 - Turner syndrome
 	- 女性 : 44+X
-	- 幼年型性器官、矮、不孕、蹼狀頸、乳距寬
+	- 幼年型性器官、矮、不孕、蹼狀頸、乳距寬、主動脈狹窄，沒有智能不足
+	- 唯一可存活的Monosomy
+- Twin Twin Transfusion syndrome
+	- 超音波發現一個Oligohydramnios (羊水稀少，Donor)，另一個Polyhydramnios (羊水過多，Recipitent)
+	- Donor : 血給Recipient -> Renal perfusion下降，尿少 -> 羊水少
+	- Recipitent : Polycythemia
 - VHL (Von Hippel Lindau syndrome) ^f20993
-	- **3p** (短臂) 缺失 (本身為腫瘤抑制基因) 或**Hyper**methylation (抑制)
+	- **3p** (短臂) 缺失 (本身為腫瘤抑制基因) 或**Hyper**methylation (抑制)，**AD**
 	- Renal Cell Carcinoma的**Clear cell**
 	- CNS Hemangioblastomas
 	- Pheochromocytoma
@@ -347,3 +387,4 @@
 - Zollinger-Ellison syndrome
 	- Gastrinoma (位置**Passaro's triangle**)
 	- [[Passaro's triangle.png]]
+	- 胃酸過度分泌、頑固Peptic ulcer、胰臟non $\beta$ islet tumor

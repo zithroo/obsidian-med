@@ -74,5 +74,6 @@
 - Imi**penem** + Cilastatin
 	- Imipenem在腎PCT中被Dehydropeptidase分解成毒性物
 	- Cilastatin : Dehydropeptidase inhibitor
+- Ertapenem對Pseudo沒效
 - #h/red ==超強，記無效的就好==
 	- 無效 : MRSA、Enterococci、Stenotrophomonas

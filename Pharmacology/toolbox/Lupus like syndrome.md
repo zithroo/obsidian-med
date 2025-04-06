@@ -1,0 +1,2 @@
+- Procainamide、PTU、Hydralazine、Isoniazid
+- 發燒、肋膜炎、關節痛、肝腫大

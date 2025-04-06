@@ -20,10 +20,11 @@
 - #h/red ==阿姨(a1) 在夢中(Mido dream) 非你愛妃 (Phenyl ephrine)==
 - #h/blue ==比較== Midodrine ($\alpha1$)<-> Ritodrine ($\beta2$)
 ### $\beta_2$ 氣喘用藥 -terol
-| 分類 |            |            |             |
-|------|------------|------------|-------------|
+| 分類   |            |            |             |
+| ---- | ---------- | ---------- | ----------- |
 | SABA | Albuterol  | Salbutamol | Terbutaline |
-| LABA | Formoterol| Salmeterol | Procaterol|
+| LABA | Formoterol | Salmeterol | Procaterol  |
+|      |            |            |             |
 - 短效 : Al**bu**terol、Sal**bu**tamol、Ter**bu**taline、Pir**bu**terol
 	-  #h/red ==biu~biu (短聲)== ~~恐龍扛狼~~
 - 長效 : Formoterol、Salmeterol、Procaterol

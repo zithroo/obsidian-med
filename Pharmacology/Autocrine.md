@@ -1,11 +1,11 @@
 ## Histamine
-|    | G  | 位置         | 藥名                                  | 功能             |
-|----|----|--------------|---------------------------------------|------------------|
-| H1 | Gq | 腺體、平滑肌 | **Diphenhydramine、Meclizine、Cyproheptadine、Diclegis**| 過敏、**暈車、鎮靜** |
-|    |    |              | Chlorpheniramine                      | 過敏             |
-|    |    |              | Loratadine、Cetririzine、Fexofenadine | 過敏             |
-| H2 | Gs | 胃壁細胞     | Cime**tidine**、Rani**tidine**                | 胃潰瘍           |
-| H3 | Gi | 神經末梢     | Pito**lisant** <br>(Inverse agonist)                | 嗜睡症           |
+|     | G   | 位置     | 藥名                                                    | 功能           |
+| --- | --- | ------ | ----------------------------------------------------- | ------------ |
+| H1  | Gq  | 腺體、平滑肌 | **Diphenhydramine、Meclizine、Cyproheptadine、Diclegis** | 過敏、**暈車、鎮靜** |
+|     |     |        | Chlorpheniramine                                      | 過敏           |
+|     |     |        | Loratadine、Cetririzine、Fexofenadine                   | 過敏           |
+| H2  | Gs  | 胃壁細胞   | Cime**tidine**、Rani**tidine**                         | 胃潰瘍          |
+| H3  | Gi  | 神經末梢   | Pito**lisant** <br>(Inverse agonist)                  | 嗜睡症          |
 - H1 : 過敏 (除心跳加速)、平滑肌收縮、吐
 - H2 : 胃酸分泌、心跳加速
 - Cyproheptadine : H1 (-)、[[#Serotonin|5-HT2 (-)]]

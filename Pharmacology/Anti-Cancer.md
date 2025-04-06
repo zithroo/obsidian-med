@@ -3,12 +3,12 @@
 ## 非細胞週期
 - 通殺，優先殺分裂快速的細胞
 ### DNA烷化劑
-| 類型 | 藥名 | 特色 |
-| ---- | ---- | ---- |
-| Platinum | -**platin** | [[耳毒腎毒]]神經毒 |
+| 類型                | 藥名                                | 特色            |
+| ----------------- | --------------------------------- | ------------- |
+| Platinum          | -**platin**                       | [[耳毒腎毒]]神經毒   |
 | Nitrogen Mustards | Cyclophs**phamide**<br>Ifosfamide | 出血性膀胱炎、MESNA解 |
-| Nitrourea | Temozolomide | 唯一腦瘤用藥 |
-|  | Busulfan | CML、肺纖維化 |
+| Nitrourea         | Temozolomide                      | 唯一腦瘤用藥        |
+|                   | Busulfan                          | CML、肺纖維化      |
 - Nitrogen Mustard (芥子毒氣)
 	- **Prodrug** : 肝CYP450代謝成活性物
 	- 副產物 **Acrolein**，出血性膀胱炎
@@ -34,14 +34,14 @@
 - 抗生素、抗病毒藥物機轉亦同
 - 有核酸模仿物為Prodrug
 
-| 模仿物     | 藥名      | 抑制                  |
-|------------|-----------|-----------------------|
-| Purine     | 6-MP      | PRPP amidotransferase |
-| Pyrimidine | 5-FU      | dUMP->dTMP            |
-|            | Hydrourea | NDP->dNDP             |
-|            | Cytarabine| DNA pol               |
-| Folic acid | MTX       | DHF reductase         |
-|            | Pemetrexed| DHFR + **TS**         |
+| 模仿物        | 藥名         | 抑制                    |
+| ---------- | ---------- | --------------------- |
+| Purine     | 6-MP       | PRPP amidotransferase |
+| Pyrimidine | 5-FU       | dUMP->dTMP            |
+|            | Hydrourea  | NDP->dNDP             |
+|            | Cytarabine | DNA pol               |
+| Folic acid | MTX        | DHF reductase         |
+|            | Pemetrexed | DHFR + **TS**         |
 - PRPP amidotransferase : **Purine合成第一步** -> 把PRPP加上Glutamine的氨基
 - Cytarabine : Ara-C
 - 6-MP由**xanthine oxidase**代謝，和**Allopurinol**併用會起飛
@@ -84,6 +84,8 @@
 		- Rubicin (紅) : 燙傷冰敷
 		- Vinca (冰) : 凍傷熱敷
 	- #h/red ==Vin(冰) -> 不易靠近(抑聚合)、碰了要熱敷==
+	- 周邊神經異常 : 青少年以上
+	- 腸胃道不適 : 兒童
 2. 紫杉醇**Taxane** : 抑制微管分開
 - 副作用 : 周邊神經毒性 (感覺異常)、DTR降、便祕
 3. Ixabepilone : 抑制微管分開

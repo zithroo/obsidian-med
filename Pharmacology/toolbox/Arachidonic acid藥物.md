@@ -19,18 +19,18 @@
 |          | Rofecoxib      |                             | 血栓風險          |
 | **PGE2 (-)**  | Acetaminophen  | CNS退燒、<br>止痛、<br>**不**抗發炎       | 肝毒性(NAC解)     |
 
-| 副作用 |                |                  |        |
-|--------|----------------|------------------|--------|
-| COX    | 促5-LOX氣喘    | 鈉水滯留         | 腎損傷 |
-| COX-1  | PGE1 (-) 胃潰瘍 | TxA2 (-) 抗凝血   |        |
-| COX-2  | PGI (-) 血栓    | PGE2 (-) 消炎止痛 |        |
+| 副作用   |              |               |     |
+| ----- | ------------ | ------------- | --- |
+| COX   | 促5-LOX氣喘     | 鈉水滯留          | 腎損傷 |
+| COX-1 | PGE1 (-) 胃潰瘍 | TxA2 (-) 抗凝血  |     |
+| COX-2 | PGI (-) 血栓   | PGE2 (-) 消炎止痛 |     |
 - Acetaminophen**非NASID** : 抑制下視丘PGE2，退燒
 - Phenacetin -> Analgesic nephropathy : 腎乳突壞死鈣化、Chronic interstitial nephritis
 ### Leukotriene (-)
-| LT modifier | 機制        | 藥名        | 特別使用                             |
-|----------------------|-------------|-------------|--------------------------------------|
-|                      | 5-LOX (-)   | Ze**leuton**    | Aspirin induced Asthma、不會吸的小孩 |
-|                      | Recptor (-) | Zafir**lukast** |                                      |
+| LT modifier | 機制          | 藥名              | 特別使用                          |
+| ----------- | ----------- | --------------- | ----------------------------- |
+|             | 5-LOX (-)   | Ze**leuton**    | Aspirin induced Asthma、不會吸的小孩 |
+|             | Recptor (-) | Zafir**lukast** |                               |
 - #h/red ==卡死(kast) receptor==
 ## COX下產物
 - PGE/F : Prostaglandin、PGI : Prostacyclin

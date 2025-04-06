@@ -4,18 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7c1229058904cc28",
+        "id": "5aa1ad4ea736720c",
         "type": "tabs",
         "children": [
           {
-            "id": "2b5cfc59fc6fd505",
+            "id": "171e5508f7b76637",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pharmacology/特定用途/墮胎和安胎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "墮胎和安胎"
+            }
+          },
+          {
+            "id": "a47393af8c64e27a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pharmacology/toolbox/Arachidonic acid藥物.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arachidonic acid藥物"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,8 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,9 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pharmacology/特定用途/痛風.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 痛風"
             }
           },
           {
@@ -94,7 +125,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -102,7 +135,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pharmacology/特定用途/痛風.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 痛風"
             }
           },
           {
@@ -114,7 +151,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -123,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pharmacology/toolbox/Arachidonic acid藥物.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +170,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Arachidonic acid藥物"
             }
           }
         ],
@@ -150,44 +192,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b5cfc59fc6fd505",
+  "active": "a47393af8c64e27a",
   "lastOpenFiles": [
-    "經驗性抗生素.md",
-    "Pharmacology/特定用途/beta lactam.md",
-    "Microbiology/Bacteria/陰性菌/Enterobacteriaceae.md",
-    "Microbiology/Bacteria/陰性菌/Psudomonans.md",
-    "Pharmacology/特定用途/抗細菌.md",
-    "Pharmacology/特定用途/抗細胞壁.md",
-    "Pharmacology/特定用途/抗蛋白質.md",
-    "Microbiology/Bacteria/陰性菌/GNB.md",
-    "Pharmacology/特定用途/抗核酸.md",
-    "Pharmacology/Anti-Microbial.md",
-    "Pharmacology/toolbox/第一線.md",
-    "Microbiology/病毒分類.md",
-    "Microbiology/Prion.md",
-    "Microbiology/Vaccine.md",
+    "Pharmacology/特定用途/墮胎和安胎.md",
+    "Pharmacology/toolbox/Arachidonic acid藥物.md",
+    "Pharmacology/Immunosuppressants.md",
+    "Pharmacology/特定用途/安眠.md",
     "Pathology/toolbox/syndrome.md",
-    "Pathology/toolbox/新同學.md",
-    "Pathology/特殊疾病/血管炎.md",
-    "Microbiology/Bacteria/陰性菌/Haemophilus.md",
-    "Microbiology/Virus/RNA virus/Paramyxovirus.md",
-    "Pharmacology/特定用途/癲癇.md",
-    "Pharmacology/CNS.md",
+    "Pathology/特殊疾病/溶血性貧血.md",
+    "symdrome.md",
+    "Pathology/特殊疾病/Anemia.md",
+    "Pathology/病理分項/血液淋巴病理.md",
+    "Pathology/疾病分類.md",
+    "Pharmacology/特定用途/貧血藥物.md",
+    "Pharmacology/Blood.md",
     "Pharmacology/Cardiovascular.md",
     "Pharmacology/Autocrine.md",
-    "Pharmacology/Blood.md",
-    "Pathology/疾病分類.md",
-    "Pharmacology/特定用途/Indirect acting ANS.md",
+    "Pharmacology/Gastrointestinal.md",
+    "Pharmacology/特定用途/Thyroid.md",
+    "Pharmacology/Endocrine.md",
+    "Pharmacology/特定用途/腦下腺前葉.md",
+    "Pharmacology/特定用途/Adrenal gland.md",
+    "Pharmacology/特定用途/Sex hormone.md",
+    "Pharmacology/特定用途/不孕症.md",
+    "Pharmacology/Anti-Cancer.md",
+    "Pathology/toolbox/致癌機轉.md",
+    "Pharmacology/特定用途/抗黴菌.md",
+    "Histology/組織系統/Genital systems.md",
+    "Histology/組織大綱.md",
+    "img/Passaro's triangle.png",
+    "Pathology/toolbox/低血鈣鑑別診斷.png",
     "img/RB gene pathway.png",
     "img/E.coli表格1.png",
     "img/E.coli表格2.png",
     "img/Cell cycle.png",
-    "img/Passaro's triangle.png",
     "img/食道閉鎖分型.png",
     "img/SCID.png",
     "img/WNT pathway.png",
     "img/神經退化性疾病.png",
-    "img/癲癇藥.png",
     "Pathology/病理分項",
     "Histology/組織系統",
     "Pathology/特殊疾病",

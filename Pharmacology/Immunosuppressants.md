@@ -7,11 +7,11 @@
 ***
 - **其他**細胞接**IL-2** -> 活化細胞內部**mTOR** -> 促增生
 ### 藥物
-| 分類            | receptor    | 藥名         | 副作用   |
-|-----------------|-------------|--------------|----------|
-| Calcineurin (-) | **Cyclo**philin | **Cyclo**sporin | 神經、腎毒 |
-|                 | **FKBP12**        | Tacro**limus**   | 神經、腎毒 |
-| mTOR (-)        | FKBP12        | Sirolimus (**Rapamycin**)  | 高血脂   |
+| 分類              | receptor        | 藥名                        | 副作用   |
+| --------------- | --------------- | ------------------------- | ----- |
+| Calcineurin (-) | **Cyclo**philin | **Cyclo**sporin           | 神經、腎毒 |
+|                 | **FKBP12**      | Tacro**limus**            | 神經、腎毒 |
+| mTOR (-)        | FKBP12          | Sirolimus (**Rapamycin**) | 高血脂   |
 - #h/blue ==比較==
 	- Calcineurin (-) : **APC無法活化Th、IL-2不分泌** 、無骨髓抑制
 	- mTOR : **Th無法活化別人、IL-2失效** (全部抑制)、因此有骨髓抑制

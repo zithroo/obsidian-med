@@ -1,6 +1,6 @@
 - [[藥物影響Aldosterone.png]]
 ![[RAAS_blocker.png]]
-## ACEI、ARB、DRI
+## ACEI、ARB、DRI、ARNI
 - **高血壓+糖尿病+腎病變**首選 (出球小動脈舒張)
 - **致畸胎**
 - 反醛固酮
@@ -16,3 +16,7 @@
 	- 乾咳、血管性水腫
 - ARB : Agiotensin Receptor Blocker
 - DRI : Direct Renin Inhibitor
+- ARNI (ARB+Neprilysin Inhibitor)
+	- **Neprilysin分解natriuretic peptide** + Bradykinin (所以ARNI也會水腫)
+	- 正在用ACEI的病人換成ARNI要間隔36hr，避免血管性水腫
+	- Entresto (Sacubitril/Valsartan)

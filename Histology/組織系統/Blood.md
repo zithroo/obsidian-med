@@ -21,7 +21,7 @@
 - 球蛋白經肝臟代謝後尿出，鐵回收到骨髓，prophyrin代謝成bilirubin，由膽汁排出
 ## WBC
 ### Myeloid
-1. Meylo**blast**
+1. Myelo**blast**
 2. **Pro**myelo**cyte**
 	- 出現嗜天青顆粒 (Azurophilic [[granule]])
 3. Myelocyte

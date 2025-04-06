@@ -1,11 +1,11 @@
 ## 生理功能
 ![[Ca metabolism.png]]
 
-|  | Ca | P | **目標** | 主要作用 |
-| ---- | :--: | :--: | ---- | ---- |
-| PTH | + | - | 升鈣 | 破骨、Vit D3、<br>腎留鈣排磷 |
-| Vit D3 | + | + | 長骨 | 腸吸收 (Calbindin D-28K) |
-| Calcironin | - | - | 降鈣 | 抑破骨 |
+|            | Ca  |  P  | **目標** | 主要作用                  |
+| ---------- | :-: | :-: | ------ | --------------------- |
+| PTH        |  +  |  -  | 升鈣     | 破骨、Vit D3、<br>腎留鈣排磷   |
+| Vit D3     |  +  |  +  | 長骨     | 腸吸收 (Calbindin D-28K) |
+| Calcironin |  -  |  -  | 降鈣     | 抑破骨                   |
 - PTH有84個胺基酸，1~34 a.a有功能 -> Teriparatide
 - 持續性低劑量PTH : RANKL升，OPG降 -> 蝕骨
 - **Pulsatile 高劑量PTH** : RANKL降、OPG升 -> **成骨**
